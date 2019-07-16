@@ -1,5 +1,7 @@
 #!/bin/sh
 
+USE_TRUE_COLOR=true
+
 # This COWS variable configures what cowsay files will be displayed with the randomsay and randomfortune commands
 # Modify this list to contain whatever cows you want to see displayed with randomsay and new terminal sessions
 COWS=(
@@ -162,9 +164,10 @@ PIXEL_COWS=(
   "chef" "cartman" "kenny" "kyle" "stan"
 
   #Star Wars
-  "r2d2-c3po" "obi-wan" "ewok" #"true-color/jawa-engineer" "true-color/jawa"
+  "r2d2-c3po" "obi-wan" "ewok"
   "darth-vader" "phasma" "palpatine" "stormtrooper" "vader" "solo" "yoda"
-  "r2d2" "c3po-color" "atst-atat" "greedo" "leia" "leia2" "biggs" "admiral-ackbar" "boba-fett" "chewbacca" #"true-color/yoda2"
+  "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "chewbacca"
+  #"true-color/yoda2" "true-color/greedo" "true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
 
   #Super Heroes
   "wolverine-snes" "wolverine-genesis" "cyclops" "superman" #"true-color/gambit"
@@ -202,6 +205,7 @@ PIXEL_COWS=(
   "milton" "lumbergh" "indiana-jones" "gandalf" "alf" "robocop" "robocop2"
   "mike-tyson" "raptor" "wall-e2" "eve"
   "strongbad" "homestar" "cheat" "guy-fawkes" "liberty" "mr-robot-hal"
+  "firefox"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -230,6 +234,7 @@ ERROR_COWS=(
   "grinch"
   "grunty"
   "harley-quinn"
+  "headcrab"
   "jab"
   "jafar"
   "jaws"
@@ -301,7 +306,14 @@ randomsay(){
 pixelsay(){
   NUM_COWS=${#PIXEL_COWS[@]}
   RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
-  RANDOMCOW=${COWS_DIR}/${PIXEL_COWS[$RAND_INDEX]}.cow
+  COWNAME=${PIXEL_COWS[$RAND_INDEX]}.cow
+  if [ $USE_TRUE_COLOR = true ]; then
+    FILE=${COWS_DIR}/true-color/${COWNAME}
+    if test -f "$FILE"; then
+      COWNAME="true-color/${COWNAME}"
+    fi
+  fi
+  RANDOMCOW=${COWS_DIR}/$COWNAME
   COWTEXT=$1
 
   if [ "$1" == "" ] ; then
@@ -313,7 +325,14 @@ pixelsay(){
 errorsay(){
   NUM_COWS=${#ERROR_COWS[@]}
   RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
-  RANDOMCOW=${COWS_DIR}/${ERROR_COWS[$RAND_INDEX]}.cow
+  COWNAME=${ERROR_COWS[$RAND_INDEX]}.cow
+  if [ $USE_TRUE_COLOR = true ]; then
+    FILE=${COWS_DIR}/true-color/${COWNAME}
+    if test -f "$FILE"; then
+      COWNAME="true-color/${COWNAME}"
+    fi
+  fi
+  RANDOMCOW=${COWS_DIR}/$COWNAME
   COWTEXT=$1
 
   if [ "$1" == "" ] ; then
@@ -327,7 +346,38 @@ alias numcows="echo ${#COWS[@]}"
 alias cowcount="numcows"
 alias cowrc="atom $COWRC"
 alias headsay='cowthink -f head.cow'
-alias randomfortune="clear && fortune | randomsay"
+alias randomfortune="clear && fortune | pixelsay"
+
+function verifycows() {
+  for cowfile in $PIXEL_COWS; do
+    if ( test -f "$COWS_DIR/${cowfile}.cow" || test -f "$COWS_DIR/true-color/${cowfile}.cow" ); then
+      echo "     -- FOUND --     \t $cowfile"
+    else
+      echo "====== MISSING ======\t $cowfile"
+    fi
+  done
+}
+
+function missingcows() {
+  for cowfile in $PIXEL_COWS; do
+    if ( test -f "$COWS_DIR/${cowfile}.cow" || test -f "$COWS_DIR/true-color/${cowfile}.cow" ); then
+      #echo "$cowfile"
+    else
+      echo "====== MISSING ======\t\t $cowfile"
+    fi
+  done
+}
+
+cowtest () {
+  COWNAME="$1.cow"
+  if [ $USE_TRUE_COLOR = true ]; then
+    FILE=${COWS_DIR}/true-color/${COWNAME}
+    if test -f "$FILE"; then
+      COWNAME="true-color/${COWNAME}"
+    fi
+  fi
+  clear && fortune | cowsay -f $COWS_DIR/$COWNAME
+}
 
 palette(){
   for fgbg in 38 48 ; do # Foreground / Background
