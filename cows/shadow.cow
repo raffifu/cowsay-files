@@ -16,9 +16,6 @@ $i = "\e[48;5;146m  ";
 $j = "\e[48;5;158m  ";
 $k = "\e[48;5;189m  ";
 $l = "\e[48;5;254m  ";
-$m = "\e[48;5;188m  ";
-$n = "\e[48;5;249m  ";
-$o = "\e[48;5;215m  ";
 
 $the_cow = <<EOC
               $t
@@ -43,9 +40,9 @@ $the_cow = <<EOC
       $d  $b      $d        $h$f                $h$x
         $d                    $h  $f$b$h$f  $h  $x
             $d      $x$d          $h        $x
-                    $d  $a  $d    $k$m$j    $h  $x
-                    $d$c  $a  $b$d$b$j$k$l$j$k$n$k  $x
-                  $d  $c$o$g$f  $b$i  $k  $i  $l    $k$x
+                    $d  $a  $d    $k  $j    $h  $x
+                    $d$c  $a  $b$d$b$j$k$l$j$k$g$k  $x
+                  $d  $c$f$g$f  $b$i  $k  $i  $l    $k$x
                   $d$x$h  $f$j  $k$b  $g$i$g$i$l$k$i$l$x
                       $h$k$j  $l  $k$b      $i$k$i$l  $x
                     $g$b$j  $l      $g$b    $i  $k    $x

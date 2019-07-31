@@ -80,10 +80,6 @@
 ```
 
 
-## abu-apple.cow
-<img src="converter/src_images/abu-apple.png" height="200" />
-
-
 ## abu.cow
 <img src="converter/src_images/abu.png" height="200" />
 
@@ -243,10 +239,6 @@
   -===~__-'\__X_`````\_____/~`-._ `.
               ~~        ~~       `~-'
 ```
-
-
-## arya.cow
-<img src="converter/src_images/arya.png" height="200" />
 
 
 ## assassin.cow
@@ -1327,6 +1319,10 @@ $@#MX %+;-                           .
 ```
 
 
+## firefox.cow
+<img src="converter/src_images/firefox.png" height="200" />
+
+
 ## flintstone.cow
 <img src="converter/src_images/flintstone.png" height="200" />
 
@@ -1641,6 +1637,14 @@ $@#MX %+;-                           .
 ```
 
 
+## headcrab.cow
+<img src="converter/src_images/headcrab.png" height="200" />
+
+
+## hermes.cow
+<img src="converter/src_images/hermes.png" height="200" />
+
+
 ## hitman-face.cow
 <img src="converter/src_images/hitman-face.png" height="200" />
 
@@ -1942,14 +1946,6 @@ jgs
 
 ## leela.cow
 <img src="converter/src_images/leela.png" height="200" />
-
-
-## leia.cow
-<img src="converter/src_images/leia.png" height="200" />
-
-
-## leia2.cow
-<img src="converter/src_images/leia2.png" height="200" />
 
 
 ## leon.cow
@@ -3168,6 +3164,10 @@ LOL===__        \
 <img src="converter/src_images/shadow.png" height="200" />
 
 
+## shadow2.cow
+<img src="converter/src_images/shadow2.png" height="200" />
+
+
 ## shaggy.cow
 <img src="converter/src_images/shaggy.png" height="200" />
 
@@ -3978,6 +3978,10 @@ LOL===__        \
 <img src="converter/src_images/yoda.png" height="200" />
 
 
+## yoda2.cow
+<img src="converter/src_images/yoda2.png" height="200" />
+
+
 ## yosemite-sam.cow
 <img src="converter/src_images/yosemite-sam.png" height="200" />
 
@@ -4024,8 +4028,24 @@ LOL===__        \
 <img src="converter/src_images/47-tc.png" height="200" />
 
 
+## abu-apple.cow
+<img src="converter/src_images/abu-apple.png" height="200" />
+
+
 ## abu-sword.cow
 <img src="converter/src_images/abu-sword.png" height="200" />
+
+
+## admiral-ackbar.cow
+<img src="converter/src_images/admiral-ackbar-tc.png" height="200" />
+
+
+## arya.cow
+<img src="converter/src_images/arya.png" height="200" />
+
+
+## biggs.cow
+<img src="converter/src_images/biggs-tc.png" height="200" />
 
 
 ## bioshock.cow
@@ -4038,6 +4058,10 @@ LOL===__        \
 
 ## bobross.cow
 <img src="converter/src_images/bobross-tc.png" height="200" />
+
+
+## bobross2.cow
+<img src="converter/src_images/bobross2.png" height="200" />
 
 
 ## captain-falcon2.cow
@@ -4076,8 +4100,12 @@ LOL===__        \
 <img src="converter/src_images/gray-fox-tc.png" height="200" />
 
 
+## greedo.cow
+<img src="converter/src_images/greedo.png" height="200" />
+
+
 ## hermes.cow
-<img src="converter/src_images/hermes.png" height="200" />
+<img src="converter/src_images/hermes-tc.png" height="200" />
 
 
 ## hobo.cow
@@ -4128,6 +4156,14 @@ LOL===__        \
 <img src="converter/src_images/lahey-tc.png" height="200" />
 
 
+## leia.cow
+<img src="converter/src_images/leia-tc.png" height="200" />
+
+
+## leia2.cow
+<img src="converter/src_images/leia2-tc.png" height="200" />
+
+
 ## link.cow
 <img src="converter/src_images/link-tc.png" height="200" />
 
@@ -4152,6 +4188,10 @@ LOL===__        \
 <img src="converter/src_images/peep-show.png" height="200" />
 
 
+## roberto.cow
+<img src="converter/src_images/roberto-tc.png" height="200" />
+
+
 ## ron-swanson.cow
 <img src="converter/src_images/ron-swanson-tc.png" height="200" />
 
@@ -4162,6 +4202,10 @@ LOL===__        \
 
 ## scary-terry.cow
 <img src="converter/src_images/scary-terry.png" height="200" />
+
+
+## scruffy.cow
+<img src="converter/src_images/scruffy-tc.png" height="200" />
 
 
 ## sherlock.cow
@@ -4205,5 +4249,5 @@ LOL===__        \
 
 
 ## yoda2.cow
-<img src="converter/src_images/yoda2.png" height="200" />
+<img src="converter/src_images/yoda2-tc.png" height="200" />
 

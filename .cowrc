@@ -97,7 +97,7 @@ PIXEL_COWS=(
   #Rick and Morty
   "rick-and-morty-running" "snowball" "pickle-rick2" "pickle-rick"
   "rick-and-morty2" "pickle-rick-face" "squanchy" "mr-pb" "plutonian" "pizza-phone"
-  "scary-terry-face" "dog" "head" "meeseeks" # "true-color/scary-terry"
+  "dog" "head" "meeseeks" "scary-terry" #"scary-terry-face"
 
   #Adult Swim characters
   "mooninites" "master-shake" "frylock" "meatwad" "carl" "ignignokt" "err"
@@ -105,10 +105,10 @@ PIXEL_COWS=(
 
   #Batman
   "batman" "batman2" "robin" "alfred" "catwoman" "batman-genesis"
-  "riddler" "joker-toon" "joker" "twoface" "mr-freeze" "ventriloquist" "riddler" "poison-ivy" "penguin"
+  #"riddler" "joker-toon" "joker" "twoface" "mr-freeze" "ventriloquist" "riddler" "poison-ivy" "penguin"
 
   #Banjo Kazooie
-  "banjo-kazooie" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars" "grunty" "humba-wumba"
+  "banjo-kazooie" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars" #"grunty" "humba-wumba"
 
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
@@ -118,69 +118,76 @@ PIXEL_COWS=(
   "aladdin" "scrooge-mcduck"
   "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "donald-duck" "martian"
   "bart" "catdog" "charlie-brown" "snoopy" "spongebob" "rocko" "plankton" "homer-simpson"
-  "abu" "abu-apple" "jafar" "buzz-lightyear" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye"
-  #"true-color/wile-e-coyote" "true-color/abu-sword"
+  "abu" "abu-apple" "buzz-lightyear" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" #"jafar"
+  "wile-e-coyote" "abu-sword"
 
   #Dilbert
-  "dilbert" "dilbert-boss" "wally" "dogbert" "catbert"
+  "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
 
   #Futurama
-  "professor" "bender-md" "zapp-kif" "roberto" #"true-color/hermes"
-  "zoidberg" "fry-money" "hypnotoad" "farnsworth" "calculon" "robot-devil" "prof" "leela" "amy" "zoidberg2" "scruffy"
+  "professor" "bender-md" "zapp-kif" "roberto" "hermes"
+  "zoidberg" "fry-money" "hypnotoad" "calculon" "prof" "leela" "amy" "zoidberg2" "scruffy"
+  #"farnsworth" "robot-devil"
 
   #Game of Thrones
   "john-snow" "tyrion" "hodor"
-  "the-hound" "arya" "ned-stark" "khal-drogo" "varys"
-  "melisandre" "tywin" "joffrey" "danerys" "white-walker" #"true-color/night-king"
+  "the-hound" "arya" "ned-stark" "varys"
+  #"melisandre" "tywin" "joffrey" "danerys" "white-walker" "khal-drogo" "true-color/night-king"
 
   #Life & Times of Tim
   "tim" "the-boss" "stu"
 
   #Metal Gear Solid
-  "gray-fox" "solid-snake" "metal-gear" "solid-snake2"
+  "gray-fox" "solid-snake" "solid-snake2" #"metal-gear"
 
   #Nintendo
-  "link" "link-toon" "link-windwaker" "mario" "luigi" "super-mario-world" "yoshi"
-  "marth" "ROB" "captain-falcon2" "ness"  "samus"
+  "link" "link-toon" "link-windwaker" #"ganondorf"
+  "mario" "luigi" "super-mario-world" "yoshi"
+  "marth" "ROB" "captain-falcon" "captain-falcon2" "ness"
   "falco" "starfox" "starfox3"
-  "kirby" "metaknight" "ike" "megaman" "donkeykong" "dr-mario"
-  "samus3" "samus2" "samus-cannon" "bomberman2" "bomberman"
-  "captain-falcon" "peach" "bowser" "zelda" "sheik" "skull-kid"
+  "kirby" #"metaknight" "ike"
+  "megaman" "donkeykong" "dr-mario"
+  "samus" "samus2" #"samus3" "samus-cannon"
+  "peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
 
   #Pokemon
   "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo2"
-  "pikachu" "mew" "mewtwo" "pikachu-jason"
+  "pikachu" "mew" #"mewtwo" "pikachu-jason"
 
   #Scientists
   "hawking" "tesla" "darwin" "einstein" "einstein-face"
 
   #Sharks
-  "ripster" "streex" "jab" "big-slammu" "shark-dude" "bruce" "hammerhead" "jaws" "jaws2" "shark-smiling"
+  "ripster" "streex"
+  #"jab" "big-slammu"
+  "shark-dude" "bruce" "hammerhead"
+  #"jaws" "jaws2" "shark-smiling"
 
   #Sonic
-  "sonic" "sonic3" "tails" "tails2" "knuckles2" "shadow" "dr-robotnik" "knuckles" "sonic2"
+  "sonic" "sonic3" "tails" "tails2" "knuckles2" "shadow" "shadow2"
+  #"dr-robotnik" "sonic2" "knuckles"
 
   #South Park
   "chef" "cartman" "kenny" "kyle" "stan"
 
   #Star Wars
-  "r2d2-c3po" "obi-wan" "ewok"
-  "darth-vader" "phasma" "palpatine" "stormtrooper" "vader" "solo" "yoda"
+  "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda"
   "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "chewbacca"
+  #"darth-vader" "phasma" "palpatine" "stormtrooper" "vader"
   #"true-color/yoda2" "true-color/greedo" "true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
 
   #Super Heroes
   "wolverine-snes" "wolverine-genesis" "cyclops" "superman" #"true-color/gambit"
   "wolverine" "superman-batman" "superman-flying" "ironman" "ironman2" "one-punch-man"
-  "spiderman" "deadpool-face" "deadpool" "captain-america" "thor" "hulk" "venom"
+  "spiderman" "deadpool-face" "deadpool" "captain-america" "thor" "hulk" #"venom"
 
   #Team Fortress
   "tf2-engineer" "tf2-spy" "tf2-spy2" "tf2-spy-knife"
-  "tf2-pyro" "tf2-medic" "tf2-heavy" "tf2-demo" "tf2-sniper" "tf2-scout" "tf2-soldier"
+  "tf2-pyro" #"tf2-medic" "tf2-heavy" "tf2-demo" "tf2-sniper" "tf2-scout" "tf2-soldier"
 
   #TMNT
   "michaelangelo" "michaelangelo2" "donatello" "donatello2" "raphael" "raphael2" "leonardo" "leonardo2" "splinter"
-  "donatello3" "raphael3" "michaelangelo3" "leonardo3" "raphael4" "leonardo4"
+  "donatello3" "raphael3" "leonardo3" #"michaelangelo3" "raphael4" "leonardo4"
 
   #TV Characters
   "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey"
@@ -192,19 +199,19 @@ PIXEL_COWS=(
   "47" "hitman" "hitman-face" "freeman-face" "leon" "subzero" "scorpion" "vault-boy"
   "glados-color" "glados2" "glados-potato" "portal-chell" "master-chief" "isaac"
   "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
-  "doomguy" "doomkart" "assassin" "assassin2" "bioshock" "deus-ex" "wheatley"
-  "tombraider" "lara-croft" "lara-croft2" "hl2-dog" "vortigaunt" "freeman" "freeman2" "deadspace"
+  "doomguy" "assassin" "assassin2" "deus-ex" "wheatley"
+  "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
 
   #Misc
   "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus"
   "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson"
   "ghostbusters" "the-dude" "donald" "leprechaun"
-  "wall-e-plant" "shrek" "donkey"
-  "the-jesus" "lebowski-walter" "cthulhu" "bsod" "death" "jesus-ripped" "wall-e" "col-sanders"
-  "lahey" "doc-and-marty" "walter-white" "neo" "smith" "morpheus" "agent-smith"
-  "milton" "lumbergh" "indiana-jones" "gandalf" "alf" "robocop" "robocop2"
-  "mike-tyson" "raptor" "wall-e2" "eve"
-  "strongbad" "homestar" "cheat" "guy-fawkes" "liberty" "mr-robot-hal"
+  "wall-e-plant" "shrek" "donkey" "wall-e" "col-sanders"
+  "the-jesus" "lebowski-walter" "cthulhu" #"bsod" "death" "jesus-ripped"
+  "lahey" "doc-and-marty" "walter-white" "neo" "smith" "morpheus" #"agent-smith" "gandalf"
+  "milton" "lumbergh" "indiana-jones" "alf" "robocop" "robocop2"
+  "mike-tyson" "wall-e2" "eve" #"raptor"
+  "strongbad" "homestar" "cheat" "guy-fawkes" "liberty" #"mr-robot-hal"
   "firefox"
 )
 
@@ -218,6 +225,7 @@ ERROR_COWS=(
   "bowser-jr"
   "bsod"
   "bugs-bunny-error"
+  "catbert"
   "cthulhu"
   "darth-vader"
   "death"
@@ -270,6 +278,7 @@ ERROR_COWS=(
   "scarecrow"
   "shiva"
   "shredder" "shredder2" "shredder-snes"
+  "skull-kid"
   "smith"
   "sonic-error"
   "streex"
@@ -342,7 +351,7 @@ errorsay(){
 }
 
 alias cows="cd $COWS_DIR"
-alias numcows="echo ${#COWS[@]}"
+alias numcows="echo ${#PIXEL_COWS[@]}"
 alias cowcount="numcows"
 alias cowrc="atom $COWRC"
 alias headsay='cowthink -f head.cow'

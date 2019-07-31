@@ -1,20 +1,19 @@
 # Zoidberg
 # by Unknown - https://www.reddit.com/r/CrossStitch/comments/7x169q/fo_why_not_zoidberg_another_of_my_gfs_crossstich/
 
-$b = "\e[48;5;236m  ";  #fake black
-$r = "\e[48;5;9m  ";  #red
-$w = "\e[107m  ";       #white
-$x = "\e[49m  ";          #reset color
-$l = "\e[48;5;75m  ";   #light blue
+$b = "\e[48;5;236m  ";  # black
+$r = "\e[48;5;9m  ";    # red
+$w = "\e[107m  ";       # white
+$x = "\e[49m  ";        # reset color
+$l = "\e[48;5;75m  ";   # light blue
 $t = "$thoughts ";
 
 $the_cow = <<EOC;
-
-                $t                                                                                                    $b$r      $b  $x
-                    $t                                                                                                  $b$r        $b  $x
-                        $t                                                                                              $b  $r          $b$x
-                           $t                                                                                             $b$r            $b$x
-                              $t                                                                                           $b$r            $b$x
+                       $t                                                                                             $b$r      $b  $x
+                         $t                                                                                             $b$r        $b  $x
+                           $t                                                                                           $b  $r          $b$x
+                             $t                                                                                           $b$r            $b$x
+                               $t                                                                                          $b$r            $b$x
                                  $t                                                                                         $b$r            $b$x
                                    $t                                                                                        $b$r            $b$x
                                      $t                                                                      $b  $x           $b$r            $b$x
