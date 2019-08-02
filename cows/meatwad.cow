@@ -9,8 +9,6 @@ $b = "\e[48;5;52m  ";
 $c = "\e[48;5;124m  ";
 $d = "\e[48;5;88m  ";
 $e = "\e[48;5;167m  ";
-$f = "\e[48;5;252m  ";
-$g = "\e[48;5;235m  ";
 $h = "\e[48;5;254m  ";
 $i = "\e[48;5;173m  ";
 
@@ -37,11 +35,11 @@ $the_cow = <<EOC
         $a$c$e$c                                                  $e  $c$d$a$x
         $a$c$e$c                        $a  $d$c                        $b$a$x
         $a$c                        $a    $c    $d      $c            $d$b$a$x
-          $a$c                      $a$c      $d$a$f  $d$c  $d    $c  $b  $a$x
-          $a$c                    $d$a$c  $d  $a  $f  $d  $g$f  $d$c  $d$b$a$x
-          $a$c  $e$c            $a    $c    $d$f      $c$d$g$f  $d$c  $d$b$a$x
-          $a$c  $e$d$c          $a$h$a$c    $d$f    $b$c$d$f  $d$c    $b$g$x
-            $a$c                $a    $c      $d    $c  $d$f  $d  $e$d$b$a$x
+          $a$c                      $a$c      $d$a$h  $d$c  $d    $c  $b  $a$x
+          $a$c                    $d$a$c  $d  $a  $h  $d  $a$h  $d$c  $d$b$a$x
+          $a$c  $e$c            $a    $c    $d$h      $c$d$a$h  $d$c  $d$b$a$x
+          $a$c  $e$d$c          $a$h$a$c    $d$h    $b$c$d$h  $d$c    $b$a$x
+            $a$c                $a    $c      $d    $c  $d$h  $d  $e$d$b$a$x
               $a$c                  $a  $c                $d  $c$e$i$b$a$x
                 $a$c$e$c              $a  $c    $d$c              $d$b$a$x
                 $a$c$e$c                $a        $c            $d$b  $a$x
