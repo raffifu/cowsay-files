@@ -2117,6 +2117,10 @@ C{ ( o o )}
 <img src="converter/src_images/mario.png" height="200" />
 
 
+## marth-black.cow
+<img src="converter/src_images/marth-black.png" height="200" />
+
+
 ## marth-toon.cow
 <img src="converter/src_images/marth-toon.png" height="200" />
 
@@ -3619,6 +3623,14 @@ LOL===__        \
 ```
 
 
+## tobias-8bit.cow
+<img src="converter/src_images/tobias-8bit.png" height="200" />
+
+
+## tobias.cow
+<img src="converter/src_images/tobias.png" height="200" />
+
+
 ## tombraider.cow
 <img src="converter/src_images/tombraider.png" height="200" />
 
@@ -4168,6 +4180,10 @@ LOL===__        \
 <img src="converter/src_images/link-tc.png" height="200" />
 
 
+## marth-black.cow
+<img src="converter/src_images/marth-black-tc.png" height="200" />
+
+
 ## marth.cow
 <img src="converter/src_images/marth-tc.png" height="200" />
 
@@ -4229,7 +4245,7 @@ LOL===__        \
 
 
 ## tobias.cow
-<img src="converter/src_images/tobias.png" height="200" />
+<img src="converter/src_images/tobias-tc.png" height="200" />
 
 
 ## tyrion.cow

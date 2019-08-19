@@ -4,17 +4,14 @@
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;5;235m  ";
+$a = "\e[48;5;233m  ";
 $b = "\e[48;5;96m  ";
 $c = "\e[48;5;174m  ";
 $d = "\e[48;5;212m  ";
 $e = "\e[48;5;224m  ";
 $f = "\e[48;5;231m  ";
-$g = "\e[48;5;16m  ";
-$h = "\e[48;5;206m  ";
-$i = "\e[48;5;233m  ";
-$j = "\e[48;5;124m  ";
-$k = "\e[48;5;196m  ";
+$g = "\e[48;5;124m  ";
+$h = "\e[48;5;196m  ";
 
 $the_cow = <<EOC
           $t
@@ -27,24 +24,23 @@ $the_cow = <<EOC
               $a$c$e                        $c$a$x
             $a$b$d$e          $b$c$e  $b$c$e$d$b$a$x
             $a$d$e            $f$b$e  $f$b$e  $d$a$x
-          $a$b$d$e            $g  $e  $g  $e  $d$b$a$x
-          $a$c$e              $b$g$e  $b$g$e    $c$a$x
-          $a$d$e              $c$g$e  $c$g$e    $d$a$x
-        $a$e                  $c$g$e  $c$g$e    $d$a$x
-      $a$e              $h    $d$c$e  $d$c$h$d$e$d$a$x
+          $a$b$d$e            $a  $e  $a  $e  $d$b$a$x
+          $a$c$e              $b$a$e  $b$a$e    $c$a$x
+          $a$d$e              $c$a$e  $c$a$e    $d$a$x
+        $a$e                  $c$a$e  $c$a$e    $d$a$x
+      $a$e              $d      $c$e  $d$c$d  $e$d$a$x
       $a$d$e                                    $c$a$x
       $a$b$d    $e$c$e                $c$e    $d$b$a$x
         $a$b    $c$e                        $d  $a$x
           $a    $c$d  $e                $d    $b$a$x
             $a$c$d                          $c$a$x
-          $i$j$a$c$d                        $c$a$x
-        $i$j$k$j  $c$d                    $c$a$j$i$x
-        $i$k      $j  $d                $b$a$j    $i$x
-        $i$k          $j    $d    $c$b$a  $j    $k$j$i$x
-        $i$j$k          $j  $i$a      $j      $k  $j$i$x
-          $i$k            $j$i$x    $i  $j  $k    $j$i$x
-            $i$j  $k      $j$i$x      $i$j        $i$x
-              $i  $j      $i$x          $i        $x
-                $i        $x
-
+          $a$g$a$c$d                        $c$a$x
+        $a$g$h$g  $c$d                    $c$a$g$a$x
+        $a$h      $g  $d                $b$a$g    $a$x
+        $a$h          $g    $d    $c$b$a  $g    $h$g$a$x
+        $a$g$h          $g  $a        $g      $h  $g$a$x
+          $a$h            $g$a$x    $a  $g  $h    $g$a$x
+            $a$g  $h      $g$a$x      $a$g        $a$x
+              $a  $g      $a$x          $a        $x
+                $a        $x
 EOC

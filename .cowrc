@@ -143,7 +143,7 @@ PIXEL_COWS=(
   #Nintendo
   "link" "link-toon" "link-windwaker" #"ganondorf"
   "mario" "luigi" "super-mario-world" "yoshi"
-  "marth" "ROB" "captain-falcon" "captain-falcon2" "ness"
+  "marth" "marth-black" "ROB" "captain-falcon" "captain-falcon2" "ness"
   "falco" "starfox" "starfox3"
   "kirby" #"metaknight" "ike"
   "megaman" "donkeykong" "dr-mario"
@@ -190,7 +190,7 @@ PIXEL_COWS=(
   "donatello3" "raphael3" "leonardo3" #"michaelangelo3" "raphael4" "leonardo4"
 
   #TV Characters
-  "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey"
+  "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias-8bit"
   #"true-color/kramer2" "true-color/newman" "true-color/larry2"
   #"true-color/jerry" "true-color/costanza" "true-color/elaine"
   #"true-color/tobias" "true-color/kramer" "true-color/larry"
@@ -209,10 +209,27 @@ PIXEL_COWS=(
   "wall-e-plant" "shrek" "donkey" "wall-e" "col-sanders"
   "the-jesus" "lebowski-walter" "cthulhu" #"bsod" "death" "jesus-ripped"
   "lahey" "doc-and-marty" "walter-white" "neo" "smith" "morpheus" #"agent-smith" "gandalf"
-  "milton" "lumbergh" "indiana-jones" "alf" "robocop" "robocop2"
+  "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
   "strongbad" "homestar" "cheat" "guy-fawkes" "liberty" #"mr-robot-hal"
   "firefox"
+
+  #Increased frequency duplicates
+  "fsm-creation"
+  "fsm-creation"
+  "fsm-creation"
+
+  "tobias-8bit"
+  "tobias-8bit"
+  "tobias-8bit"
+  "tobias-8bit"
+  "tobias-8bit"
+
+  "marth-black"
+  "marth-black"
+  "marth-black"
+  "marth-black"
+  "marth-black"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -276,6 +293,7 @@ ERROR_COWS=(
   "robot-devil"
   "scar"
   "scarecrow"
+  "shadow2"
   "shiva"
   "shredder" "shredder2" "shredder-snes"
   "skull-kid"

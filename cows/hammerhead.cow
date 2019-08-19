@@ -6,10 +6,8 @@ $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;242m  ";
 $b = "\e[48;5;239m  ";
-$c = "\e[48;5;253m  ";
-$d = "\e[48;5;254m  ";
-$e = "\e[48;5;231m  ";
-$f = "\e[48;5;188m  ";
+$c = "\e[48;5;231m  ";
+$d = "\e[48;5;232m  ";
 
 $the_cow = <<EOC
           $t
@@ -30,9 +28,9 @@ $the_cow = <<EOC
             $a                                                                                            $b                        $a        $x
             $a            $b$a    $b$a$b$a$b$a                                                                                              $x
             $a          $b$a      $b$a$b$a$b$a      $b$a                                                                $x          $a      $x
-              $a        $x  $c$d  $b$e$b$e$b$a        $b$a                                              $b$x    $a    $x              $a      $x
-              $a        $x          $e      $a          $e                          $a          $b  $x            $a$x                  $a      $x
-              $a$x$f$a    $x                $a          $e                                  $b  $a$b$x                                    $a    $x
+              $a        $x  $c    $b$c$b$c$b$a        $b$a                                              $b$x    $a    $x              $a      $x
+              $a        $x          $c      $a          $c                          $a          $b  $x            $a$x                  $a      $x
+              $a$d$c$a    $x                $a          $c                                  $b  $a$b$x                                    $a    $x
               $a          $x                $a          $x                                  $a  $b$x                                        $a    $x
                 $a        $x                $a          $x                                  $a  $b$x                                            $a$x
                                               $a      $x                                      $a$b$x
