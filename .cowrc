@@ -120,6 +120,7 @@ PIXEL_COWS=(
   "bart" "catdog" "charlie-brown" "snoopy" "spongebob" "rocko" "plankton" "homer-simpson"
   "abu" "abu-apple" "buzz-lightyear" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" #"jafar"
   "wile-e-coyote" "abu-sword"
+  "adventure-time"
 
   #Dilbert
   "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
@@ -171,10 +172,10 @@ PIXEL_COWS=(
   "chef" "cartman" "kenny" "kyle" "stan"
 
   #Star Wars
-  "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda"
+  "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" "greedo"
   "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "chewbacca"
   #"darth-vader" "phasma" "palpatine" "stormtrooper" "vader"
-  #"true-color/yoda2" "true-color/greedo" "true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
+  #"true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
 
   #Super Heroes
   "wolverine-snes" "wolverine-genesis" "cyclops" "superman" #"true-color/gambit"
@@ -191,9 +192,7 @@ PIXEL_COWS=(
 
   #TV Characters
   "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias-8bit"
-  #"true-color/kramer2" "true-color/newman" "true-color/larry2"
-  #"true-color/jerry" "true-color/costanza" "true-color/elaine"
-  #"true-color/tobias" "true-color/kramer" "true-color/larry"
+  #kramer2" "newman" "larry2" "jerry" "costanza" "elaine" "tobias" "kramer" "larry"
 
   #Video Game characters
   "47" "hitman" "hitman-face" "freeman-face" "leon" "subzero" "scorpion" "vault-boy"
@@ -211,25 +210,14 @@ PIXEL_COWS=(
   "lahey" "doc-and-marty" "walter-white" "neo" "smith" "morpheus" #"agent-smith" "gandalf"
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
-  "strongbad" "homestar" "cheat" "guy-fawkes" "liberty" #"mr-robot-hal"
+  "strongbad" "homestar" "cheat" "liberty" #"mr-robot-hal" "guy-fawkes"
   "firefox"
 
   #Increased frequency duplicates
-  "fsm-creation"
-  "fsm-creation"
-  "fsm-creation"
-
-  "tobias-8bit"
-  "tobias-8bit"
-  "tobias-8bit"
-  "tobias-8bit"
-  "tobias-8bit"
-
-  "marth-black"
-  "marth-black"
-  "marth-black"
-  "marth-black"
-  "marth-black"
+  "fsm-creation" "fsm-creation" "fsm-creation" "fsm-creation" "fsm-creation"
+  "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit"
+  "marth-black" "marth-black" "marth-black" "marth-black" "marth-black"
+  "adventure-time" "adventure-time" "adventure-time" "adventure-time" "adventure-time"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -237,6 +225,8 @@ ERROR_COWS=(
   "bart-zombie"
   "big-slammu"
   "bioshock"
+  "bokoblin"
+  "bokoblin2"
   "bomberman2"
   "bowser"
   "bowser-jr"
