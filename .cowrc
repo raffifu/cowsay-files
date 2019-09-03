@@ -142,7 +142,9 @@ PIXEL_COWS=(
   "gray-fox" "solid-snake" "solid-snake2" #"metal-gear"
 
   #Nintendo
-  "link" "link-toon" "link-windwaker" #"ganondorf"
+  "link" "link-toon" "link-windwaker" "link-champion" "link-glider"
+  "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark"
+  "link-shorts" "link-awaken" "link-stealth" #"ganondorf"
   "mario" "luigi" "super-mario-world" "yoshi"
   "marth" "marth-black" "ROB" "captain-falcon" "captain-falcon2" "ness"
   "falco" "starfox" "starfox3"
@@ -201,23 +203,33 @@ PIXEL_COWS=(
   "doomguy" "assassin" "assassin2" "deus-ex" "wheatley"
   "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
 
+  #Hindu gods
+  "ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
+
   #Misc
   "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus"
   "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson"
   "ghostbusters" "the-dude" "donald" "leprechaun"
   "wall-e-plant" "shrek" "donkey" "wall-e" "col-sanders"
-  "the-jesus" "lebowski-walter" "cthulhu" #"bsod" "death" "jesus-ripped"
+  "the-jesus" "lebowski-walter" #"cthulhu" "bsod" "death" "jesus-ripped"
   "lahey" "doc-and-marty" "walter-white" "neo" "smith" "morpheus" #"agent-smith" "gandalf"
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
   "strongbad" "homestar" "cheat" "liberty" #"mr-robot-hal" "guy-fawkes"
   "firefox"
 
+  "hobo" "hobo2" "minion" "minion"
+
   #Increased frequency duplicates
   "fsm-creation" "fsm-creation" "fsm-creation" "fsm-creation" "fsm-creation"
   "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit"
   "marth-black" "marth-black" "marth-black" "marth-black" "marth-black"
   "adventure-time" "adventure-time" "adventure-time" "adventure-time" "adventure-time"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -259,6 +271,7 @@ ERROR_COWS=(
   "khal-drogo"
   "leonardo-error"
   "leonardo-error2"
+  "lizalfo"
   "magneto"
   "metal-gear"
   "michaelangelo-error"

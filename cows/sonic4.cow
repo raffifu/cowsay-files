@@ -1,0 +1,63 @@
+# sonic4
+# by <authorName>
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;25m  ";
+$b = "\e[48;5;31m  ";
+$c = "\e[48;5;18m  ";
+$d = "\e[48;5;137m  ";
+$e = "\e[48;5;180m  ";
+$f = "\e[48;5;146m  ";
+$g = "\e[48;5;255m  ";
+$h = "\e[48;5;234m  ";
+$i = "\e[48;5;152m  ";
+$j = "\e[48;5;103m  ";
+$k = "\e[48;5;160m  ";
+
+$the_cow = <<EOC
+          $t                                                  
+            $t                                                
+              $t                                              
+                $t                                            
+                  $t  $a              $x                      
+              $a          $b        $a      $x                
+            $c      $a        $b  $c  $d$a      $x  $c$x      
+                    $c      $a  $c  $d$e$a        $c  $x      
+                        $c        $d$e    $a$b$a      $x      
+                          $c$a$c  $d$e    $a  $b  $a    $x    
+                        $a    $c$d$e  $a  $b        $a  $x    
+                  $a                    $b    $f$b    $a$c$x  
+              $a  $b      $a      $b      $c    $a  $b$a  $x  
+          $a                    $b$g$b$a$c  $f$g$f$a    $b$x  
+        $a    $c      $a          $b$a  $c$f$g    $f$c$a  $x  
+        $a$c              $a            $c$f$g    $f$h$c$h$x  
+                    $c      $a            $f$g    $f$h$i$h$x  
+                        $a  $c$a          $b$f$g  $f$j$i$h$x  
+                    $a$b    $c$a        $d$e$b$g    $e$j$f  $x
+                  $a$b  $a  $c    $a  $d$e            $h  $j$x
+                $a    $c  $f  $g  $f$a$d$e            $d$x    
+              $a  $c  $d$f$i$g  $i$g$j$d  $e      $d  $x      
+              $c    $d  $e$i$g  $i$j$i$e  $d      $x          
+                    $d    $f$i  $f$g$j$e$g$e$x                
+                    $a    $c$f  $j  $e$g    $f$j$x            
+                  $a$c        $a$d$e    $g$e$f  $j$x          
+                  $a$c        $a$b$d$e    $d$f  $j$x          
+                  $c$x      $c  $b$d      $j  $f$j$x          
+                            $c  $a$c      $j$f$j$x            
+                            $c  $b$a$c      $x                
+                            $c  $b$j  $c    $x                
+                          $c$a$b$c$f  $c    $x                
+                          $c$a$b$h$f$i$c  $x                  
+                        $j$a$b$h$k$f$j$i  $x                  
+                      $j$f$i$g$k  $f$i  $x                    
+                    $j    $f$i$k      $x                      
+                    $j$f$g    $k      $x                      
+                  $h$k        $i$g  $k  $x                    
+                  $h$k      $i$g  $k          $x              
+                $h$k      $f    $k      $g$k    $x            
+                $h$k      $f    $k                $x          
+                $h                                $x          
+                                                              
+EOC
