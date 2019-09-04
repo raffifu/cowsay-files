@@ -77,7 +77,4 @@ $y            $s              $a  $y                  $z      $y$z          $g$a
 $y            $s            $a    $y          $z              $y  $z      $g  $a$d$e        $d      $z  $x
 $y            $s            $a    $y      $z                    $y$z      $g  $a$d$e            $d  $z  $x
 $z      $y    $d            $a    $y      $z                $y  $z      $g    $a$e              $d$z    $x
-$z          $d              $a    $y          $z            $y$z        $g    $a$e              $d$z    $x
-$z          $d              $a    $y            $z          $y$z        $g    $a$e              $z      $x
-$z        $d                $a    $y      $z                $y$z      $g      $a$e              $z      $x
 EOC

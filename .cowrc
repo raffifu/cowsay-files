@@ -117,8 +117,8 @@ PIXEL_COWS=(
   "roadrunner" "roadrunner2" "wile-e-coyote2" "bugs-bunny"
   "aladdin" "scrooge-mcduck"
   "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "donald-duck" "martian"
-  "bart" "catdog" "charlie-brown" "snoopy" "spongebob" "rocko" "plankton" "homer-simpson"
-  "abu" "abu-apple" "buzz-lightyear" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" #"jafar"
+  "bart" "catdog" "charlie-brown" "snoopy" "homer-simpson" #"plankton" "spongebob" "rocko"
+  "abu" "abu-apple" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
   "adventure-time"
 
@@ -144,14 +144,14 @@ PIXEL_COWS=(
   #Nintendo
   "link" "link-toon" "link-windwaker" "link-champion" "link-glider"
   "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark"
-  "link-shorts" "link-awaken" "link-stealth" #"ganondorf"
+  "link-shorts" "link-awaken" "link-stealth" "link-surf" #"ganondorf"
   "mario" "luigi" "super-mario-world" "yoshi"
   "marth" "marth-black" "ROB" "captain-falcon" "captain-falcon2" "ness"
-  "falco" "starfox" "starfox3"
+  #"falco" "starfox" "starfox3"
   "kirby" #"metaknight" "ike"
-  "megaman" "donkeykong" "dr-mario"
+  "megaman" #"donkeykong" "dr-mario"
   "samus" "samus2" #"samus3" "samus-cannon"
-  "peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
+  #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
 
   #Pokemon
   "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo2"
@@ -180,9 +180,9 @@ PIXEL_COWS=(
   #"true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
 
   #Super Heroes
-  "wolverine-snes" "wolverine-genesis" "cyclops" "superman" #"true-color/gambit"
-  "wolverine" "superman-batman" "superman-flying" "ironman" "ironman2" "one-punch-man"
-  "spiderman" "deadpool-face" "deadpool" "captain-america" "thor" "hulk" #"venom"
+  "cyclops" "superman" "gambit" #"wolverine-snes" "wolverine-genesis"
+  "wolverine" "superman-batman" #"superman-flying" "ironman" #"ironman2" "one-punch-man"
+  "spiderman" "deadpool-face" #"deadpool" "captain-america" #"thor" "hulk" #"venom"
 
   #Team Fortress
   "tf2-engineer" "tf2-spy" "tf2-spy2" "tf2-spy-knife"
@@ -225,11 +225,11 @@ PIXEL_COWS=(
   "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit"
   "marth-black" "marth-black" "marth-black" "marth-black" "marth-black"
   "adventure-time" "adventure-time" "adventure-time" "adventure-time" "adventure-time"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
+  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
 )
 
 #Cows used for displaying error messages with errorsay

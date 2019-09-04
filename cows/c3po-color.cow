@@ -61,14 +61,4 @@ $the_cow = <<EOC
                       $c$a$b$x  $c$a$b$x
                       $c$a$b$x  $c$a$b$x
                       $c$a$b$x  $c$a$b$x
-                        $c$a$b$x  $c$a$b$x
-                        $c$a$b$x  $c$a$b$x
-                          $c$a$b$x  $c$a$b$x
-                          $c$a$b$x  $c$a$b$x
-                          $c$a$b$x  $c$a$b$x
-                          $c$a$b$x  $c$a$b$x
-                          $b$a$b$x  $b$a$b$x
-                      $c  $b    $c  $b    $x
-                $b                      $x
-              $b                        $x
 EOC

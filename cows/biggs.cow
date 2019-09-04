@@ -73,7 +73,4 @@ $s            $p              $a  $s                  $u      $s$u          $f$a
 $s            $p            $a    $s          $u              $s  $u      $f  $a$c$d        $c      $u  $x
 $s            $p            $a    $s      $u                    $s$u      $f  $a$c$d            $c  $u  $x
 $u      $s    $c            $a    $s      $u                $s  $u      $f    $a$d              $c$u    $x
-$u          $c              $a    $s          $u            $s$u        $f    $a$d              $c$u    $x
-$u          $c              $a    $s            $u          $s$u        $f    $a$d              $u      $x
-$u        $c                $a    $s      $u                $s$u      $f      $a$d              $u      $x
 EOC
