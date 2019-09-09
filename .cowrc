@@ -108,7 +108,8 @@ PIXEL_COWS=(
   #"riddler" "joker-toon" "joker" "twoface" "mr-freeze" "ventriloquist" "riddler" "poison-ivy" "penguin"
 
   #Banjo Kazooie
-  "banjo-kazooie" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars" #"grunty" "humba-wumba"
+  "banjo-kazooie"  "banjo-kazooie2" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" #"grunty" "humba-wumba"
 
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
@@ -221,15 +222,10 @@ PIXEL_COWS=(
   "hobo" "hobo2" "minion" "minion"
 
   #Increased frequency duplicates
-  "fsm-creation" "fsm-creation" "fsm-creation" "fsm-creation" "fsm-creation"
-  "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit" "tobias-8bit"
-  "marth-black" "marth-black" "marth-black" "marth-black" "marth-black"
-  "adventure-time" "adventure-time" "adventure-time" "adventure-time" "adventure-time"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
-  "link-champion" "link-glider" "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark" "link-shorts" "link-awaken" "link-stealth" "link-snow" "link-hylian" "link-fire" "link-surf"
+  "fsm-creation" "fsm-creation" "fsm-creation"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" "banjo-kazooie2" "grunty-broom"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" "banjo-kazooie2" "grunty-broom"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" "banjo-kazooie2" "grunty-broom"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -259,7 +255,9 @@ ERROR_COWS=(
   "glados-wrecked"
   "greedo"
   "grinch"
+  "gruntilda"
   "grunty"
+  "grunty-broom"
   "harley-quinn"
   "headcrab"
   "jab"

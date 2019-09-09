@@ -136,6 +136,10 @@
 <img src="converter/src_images/admiral-ackbar.png" height="200" />
 
 
+## adventure-time.cow
+<img src="converter/src_images/adventure-time.png" height="200" />
+
+
 ## agent-smith.cow
 <img src="converter/src_images/agent-smith.png" height="200" />
 
@@ -368,6 +372,10 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 <img src="converter/src_images/banjo-kazooie.png" height="200" />
 
 
+## banjo-kazooie2.cow
+<img src="converter/src_images/banjo-kazooie2.png" height="200" />
+
+
 ## banjo.cow
 <img src="converter/src_images/banjo.png" height="200" />
 
@@ -564,6 +572,18 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 
 ## bobross2.cow
 <img src="converter/src_images/bobross2.png" height="200" />
+
+
+## boggy.cow
+<img src="converter/src_images/boggy.png" height="200" />
+
+
+## bokoblin.cow
+<img src="converter/src_images/bokoblin.png" height="200" />
+
+
+## bokoblin2.cow
+<img src="converter/src_images/bokoblin2.png" height="200" />
 
 
 ## bomberman.cow
@@ -1406,6 +1426,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/genie.png" height="200" />
 
 
+## genie2.cow
+<img src="converter/src_images/genie2.png" height="200" />
+
+
 ## ghost.cow
 ```
  _______ 
@@ -1494,6 +1518,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/glados2.png" height="200" />
 
 
+## gobi.cow
+<img src="converter/src_images/gobi.png" height="200" />
+
+
 ## golden-eagle.cow
 ```
  ______________ 
@@ -1559,6 +1587,14 @@ $@#MX %+;-                           .
 
 ## grinch.cow
 <img src="converter/src_images/grinch.png" height="200" />
+
+
+## gruntilda.cow
+<img src="converter/src_images/gruntilda.png" height="200" />
+
+
+## grunty-broom.cow
+<img src="converter/src_images/grunty-broom.png" height="200" />
 
 
 ## grunty.cow
@@ -1755,6 +1791,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/jafar.png" height="200" />
 
 
+## jafar2.cow
+<img src="converter/src_images/jafar2.png" height="200" />
+
+
 ## jamjars.cow
 <img src="converter/src_images/jamjars.png" height="200" />
 
@@ -1885,6 +1925,10 @@ jgs
      --*--__\
      C_C_(___)
 ```
+
+
+## klungo.cow
+<img src="converter/src_images/klungo.png" height="200" />
 
 
 ## knight.cow
@@ -2018,12 +2062,68 @@ H#,                     =;+/;,       ,#X
 <img src="converter/src_images/linda.png" height="200" />
 
 
+## link-awaken.cow
+<img src="converter/src_images/link-awaken.png" height="200" />
+
+
+## link-barbarian.cow
+<img src="converter/src_images/link-barbarian.png" height="200" />
+
+
+## link-champion.cow
+<img src="converter/src_images/link-champion.png" height="200" />
+
+
+## link-dark.cow
+<img src="converter/src_images/link-dark.png" height="200" />
+
+
+## link-desert.cow
+<img src="converter/src_images/link-desert.png" height="200" />
+
+
+## link-fire.cow
+<img src="converter/src_images/link-fire.png" height="200" />
+
+
+## link-glider.cow
+<img src="converter/src_images/link-glider.png" height="200" />
+
+
+## link-hylian.cow
+<img src="converter/src_images/link-hylian.png" height="200" />
+
+
+## link-shorts.cow
+<img src="converter/src_images/link-shorts.png" height="200" />
+
+
+## link-snow.cow
+<img src="converter/src_images/link-snow.png" height="200" />
+
+
+## link-soldier.cow
+<img src="converter/src_images/link-soldier.png" height="200" />
+
+
+## link-stealth.cow
+<img src="converter/src_images/link-stealth.png" height="200" />
+
+
+## link-surf.cow
+<img src="converter/src_images/link-surf.png" height="200" />
+
+
 ## link-toon.cow
 <img src="converter/src_images/link-toon.png" height="200" />
 
 
 ## link-windwaker.cow
 <img src="converter/src_images/link-windwaker.png" height="200" />
+
+
+## link-zora.cow
+<img src="converter/src_images/link-zora.png" height="200" />
 
 
 ## link.cow
@@ -2036,6 +2136,10 @@ H#,                     =;+/;,       ,#X
 
 ## link3.cow
 <img src="converter/src_images/link3.png" height="200" />
+
+
+## lizalfo.cow
+<img src="converter/src_images/lizalfo.png" height="200" />
 
 
 ## lobster.cow
@@ -2372,6 +2476,10 @@ C{ ( o o )}
 
 ## mr-robot-hal.cow
 <img src="converter/src_images/mr-robot-hal.png" height="200" />
+
+
+## mr-vile.cow
+<img src="converter/src_images/mr-vile.png" height="200" />
 
 
 ## mr-x.cow
@@ -3272,6 +3380,10 @@ LOL===__        \
 <img src="converter/src_images/smith.png" height="200" />
 
 
+## snacker.cow
+<img src="converter/src_images/snacker.png" height="200" />
+
+
 ## snoopy.cow
 <img src="converter/src_images/snoopy.png" height="200" />
 
@@ -3306,6 +3418,10 @@ LOL===__        \
 
 ## sonic3.cow
 <img src="converter/src_images/sonic3.png" height="200" />
+
+
+## sonic4.cow
+<img src="converter/src_images/sonic4.png" height="200" />
 
 
 ## space-ghost.cow
@@ -4174,6 +4290,58 @@ LOL===__        \
 
 ## leia2.cow
 <img src="converter/src_images/leia2-tc.png" height="200" />
+
+
+## link-awaken.cow
+<img src="converter/src_images/link-awaken.png" height="200" />
+
+
+## link-barbarian.cow
+<img src="converter/src_images/link-barbarian-tc.png" height="200" />
+
+
+## link-dark.cow
+<img src="converter/src_images/link-dark-tc.png" height="200" />
+
+
+## link-desert.cow
+<img src="converter/src_images/link-desert.png" height="200" />
+
+
+## link-fire.cow
+<img src="converter/src_images/link-fire.png" height="200" />
+
+
+## link-glider.cow
+<img src="converter/src_images/link-glider-tc.png" height="200" />
+
+
+## link-hylian.cow
+<img src="converter/src_images/link-hylian.png" height="200" />
+
+
+## link-shorts.cow
+<img src="converter/src_images/link-shorts-tc.png" height="200" />
+
+
+## link-snow.cow
+<img src="converter/src_images/link-snow.png" height="200" />
+
+
+## link-soldier.cow
+<img src="converter/src_images/link-soldier.png" height="200" />
+
+
+## link-stealth.cow
+<img src="converter/src_images/link-stealth.png" height="200" />
+
+
+## link-surf.cow
+<img src="converter/src_images/link-surf-tc.png" height="200" />
+
+
+## link-zora.cow
+<img src="converter/src_images/link-zora.png" height="200" />
 
 
 ## link.cow
