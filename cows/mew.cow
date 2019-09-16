@@ -10,21 +10,20 @@ $c = "\e[48;5;216m  ";
 $d = "\e[48;5;231m  ";
 $e = "\e[48;5;25m  ";
 $f = "\e[48;5;167m  ";
-$g = "\e[48;5;235m  ";
 $h = "\e[48;5;131m  ";
 $i = "\e[48;5;75m  ";
 $j = "\e[48;5;174m  ";
 
 $the_cow = <<EOC
           $t                                                          $a  $x
-            $t                                                    $a  $b  $a$x
-              $t                                                $a$b    $c$a$x
-                $t                                            $a$b    $c  $a$x
-                  $t                                        $a$b    $c  $a$x
-                                                          $a$b      $c  $a$x
-                                                          $a$b    $c  $a$x
-                                                        $a$b  $c    $a$x
-                                                        $a$c      $a$x
+           $t                                                     $a  $b  $a$x
+            $t                                                  $a$b    $c$a$x
+             $t                                               $a$b    $c  $a$x
+              $t                                            $a$b    $c  $a$x
+               $t                                         $a$b      $c  $a$x
+                $t                                        $a$b    $c  $a$x
+                 $t                                     $a$b  $c    $a$x
+                  $t                                    $a$c      $a$x
                             $a  $x                    $a$c    $a  $x
                           $a$b  $a$x                  $a$c  $a$x
                     $a        $b$a$x                $a$c  $a$x
@@ -34,8 +33,8 @@ $the_cow = <<EOC
     $a  $b                          $d$x              $a$c$a  $x
     $a$b                $c$b        $e$a$x              $a$c  $a        $x
     $a$c    $b            $f$b      $e$a$x                $a  $c        $a    $x
-      $a$c  $b      $g  $h$b          $a$x                    $a        $c    $a  $x
-        $a$c  $b  $g$d$i$d$h$b        $c$a$x                            $a    $c  $a$x
+      $a$c  $b      $a  $h$b          $a$x                    $a        $c    $a  $x
+        $a$c  $b  $a$d$i$d$h$b        $c$a$x                            $a    $c  $a$x
         $a$c  $b  $h$e$i$d  $b          $a$x                                  $a  $c$a$x
           $a$c  $b$h$e  $d  $b        $c$a$x                      $a  $x          $a$c$a$x
           $a$c    $b$f  $c            $a$x                      $a$b  $a$x          $a$c$a$x

@@ -1,0 +1,69 @@
+# Master Chief (HALO)
+# by EightBitPrints
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;22m  ";
+$b = "\e[48;5;28m  ";
+$c = "\e[48;5;34m  ";
+$d = "\e[48;5;235m  ";
+$e = "\e[48;5;94m  ";
+$f = "\e[48;5;137m  ";
+$g = "\e[48;5;179m  ";
+$h = "\e[48;5;236m  ";
+$i = "\e[48;5;232m  ";
+$j = "\e[48;5;233m  ";
+$k = "\e[48;5;188m  ";
+$l = "\e[48;5;245m  ";
+$m = "\e[48;5;238m  ";
+$n = "\e[48;5;149m  ";
+$o = "\e[48;5;102m  ";
+
+$the_cow = <<EOC
+          $t
+            $t
+              $t
+                    $a$b  $c$x
+                  $a$b      $c$b$x
+                  $a$b$d$e$f$g$x
+                  $a$b  $h$f$g$x
+            $a$d$x  $a$b    $c$x
+          $a    $b  $i$b$h$b$c$x
+          $b$c$d$a$b$d$j$i$j$a$b$x
+        $a$b  $c$d$a$c$d    $c$b$c$x
+        $b    $c$i$a$b$c$b$d$b$c$b$c$x
+        $b$c$b$c$i$j$a$c  $b$c  $a$c$x
+        $b$c$b$c$i$j$a$b        $a$c  $x
+        $a$b  $c$i$a  $b$a$c$a$b$i$b$c$x
+        $a$b$c$j$d$a$b    $c$b  $h$k                $x
+        $d$j  $b$h$l                              $k  $h  $x
+          $h$b        $h  $m    $l$m$n$h$m$h$m$h  $k$x
+          $b      $o    $d$b  $h        $b  $h    $x
+              $a  $b    $i$a  $c$x      $a  $x
+                $j$i$a  $b  $c$i$x
+                $a$j$i$a  $b  $j$b$x
+              $a$b  $j$i$m$b$j$b  $x
+              $a$b  $c$i$m$b$j$m$b$c$x
+              $a$b  $c$i$j    $m$b$c$x
+              $a$b    $d$j  $d$a$b  $x
+              $a$b  $h$d$x$i$j  $a$b$x
+              $a$b  $h$d$x$j    $a$b$x
+              $a$b  $h$d$x$j  $h$a$b$x
+              $a$b  $d$x    $j$h$a$b$x
+              $a$i  $b$x    $a  $b$i$x
+              $i$j  $d$x    $i  $j$d$x
+              $a$b  $c$x    $i$b  $x
+              $b    $c$x    $b    $x
+              $b$o$b  $x  $a$b    $x
+              $b$h$b$x    $a$b  $h$x
+              $a$b  $x    $b    $c$x
+              $a$b  $x    $a$b  $c$x
+              $a$b  $x    $a$b    $x
+              $a$b$c$x      $a$b$c$x
+              $a$b$x        $a$b$x
+              $d  $x        $j$h$x
+              $b$c  $x      $j$b$c  $x
+              $d$b$l$o$x    $o$d$h$b$o$x
+              $d$a$o  $m$x  $o$d$a$o  $m$x
+EOC

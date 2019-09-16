@@ -76,8 +76,4 @@ $the_cow = <<EOC
                     $q  $p    $q$p      $r$q$p      $x
                     $q  $p    $q$p      $q  $p      $x
                     $q$p      $q$p      $q  $p      $x
-                    $q$p        $q  $p$x$q  $p      $x
-                  $q  $p          $x    $q  $p      $x
-                  $q  $p          $x    $q  $p      $x
-                  $q  $p        $x        $q$p      $x
 EOC

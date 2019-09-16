@@ -109,19 +109,20 @@ PIXEL_COWS=(
 
   #Banjo Kazooie
   "banjo-kazooie"  "banjo-kazooie2" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" #"grunty" "humba-wumba"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" "humba-wumba" "grunty-broom" #"grunty" "gruntilda"
 
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
 
   #Cartoons
   "roadrunner" "roadrunner2" "wile-e-coyote2" "bugs-bunny"
-  "aladdin" "scrooge-mcduck"
+  "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
   "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "donald-duck" "martian"
-  "bart" "catdog" "charlie-brown" "snoopy" "homer-simpson" #"plankton" "spongebob" "rocko"
+  "bart" "catdog" "charlie-brown" "snoopy" "homer-simpson" "mr-burns" #"plankton" "spongebob" "rocko"
   "abu" "abu-apple" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
-  "adventure-time"
+  "adventure-time" "cookie-monster" "oscar"
+  "hank" "hank-hill" "dale"
 
   #Dilbert
   "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
@@ -198,10 +199,10 @@ PIXEL_COWS=(
   #kramer2" "newman" "larry2" "jerry" "costanza" "elaine" "tobias" "kramer" "larry"
 
   #Video Game characters
-  "47" "hitman" "hitman-face" "freeman-face" "leon" "subzero" "scorpion" "vault-boy"
-  "glados-color" "glados2" "glados-potato" "portal-chell" "master-chief" "isaac"
+  "47" "hitman" "hitman-face" "freeman-face" "duke-nukem" "leon" "subzero" "scorpion" "vault-boy"
+  "glados-color" "glados2" "glados-potato" "portal-chell" "master-chief" "master-chief2" "isaac"
   "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
-  "doomguy" "assassin" "assassin2" "deus-ex" "wheatley"
+  "doomguy" "assassin" "assassin2" "deus-ex" "wheatley" "power-armor" "bond"
   "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
 
   #Hindu gods
@@ -213,7 +214,7 @@ PIXEL_COWS=(
   "ghostbusters" "the-dude" "donald" "leprechaun"
   "wall-e-plant" "shrek" "donkey" "wall-e" "col-sanders"
   "the-jesus" "lebowski-walter" #"cthulhu" "bsod" "death" "jesus-ripped"
-  "lahey" "doc-and-marty" "walter-white" "neo" "smith" "morpheus" #"agent-smith" "gandalf"
+  "lahey" "doc-and-marty" "neo" "smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
   "strongbad" "homestar" "cheat" "liberty" #"mr-robot-hal" "guy-fawkes"
@@ -223,9 +224,11 @@ PIXEL_COWS=(
 
   #Increased frequency duplicates
   "fsm-creation" "fsm-creation" "fsm-creation"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" "banjo-kazooie2" "grunty-broom"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" "banjo-kazooie2" "grunty-broom"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" "banjo-kazooie2" "grunty-broom"
+  "master-chief2" "master-chief2" "master-chief2" "master-chief2" "master-chief2"
+  "duke-nukem" "duke-nukem" "duke-nukem" "duke-nukem" "duke-nukem"
+  "hank-hill" "hank-hill" "hank-hill" "hank-hill" "hank-hill"
+  "dale" "dale" "dale" "dale" "dale"
+  "hank" "hank" "hank" "hank" "hank"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -275,6 +278,7 @@ ERROR_COWS=(
   "michaelangelo-error"
   "michaelangelo-error2"
   "minion-laugh"
+  "mr-burns"
   "mr-freeze"
   "mr-robot-hal"
   "mr-x"
@@ -285,6 +289,7 @@ ERROR_COWS=(
   "pikachu-jason"
   "poison-ivy"
   "portal-turrets"
+  "power-armor"
   "raphael-error"
   "raphael-error2"
   "ripster"
