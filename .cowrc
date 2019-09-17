@@ -122,7 +122,6 @@ PIXEL_COWS=(
   "abu" "abu-apple" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
   "adventure-time" "cookie-monster" "oscar"
-  "hank" "hank-hill" "dale"
 
   #Dilbert
   "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
@@ -136,6 +135,9 @@ PIXEL_COWS=(
   "john-snow" "tyrion" "hodor"
   "the-hound" "arya" "ned-stark" "varys"
   #"melisandre" "tywin" "joffrey" "danerys" "white-walker" "khal-drogo" "true-color/night-king"
+
+  #King of the Hill
+  "hank-hill" "hank" "dale" "bill" "boomhauer"
 
   #Life & Times of Tim
   "tim" "the-boss" "stu"
@@ -226,9 +228,11 @@ PIXEL_COWS=(
   "fsm-creation" "fsm-creation" "fsm-creation"
   "master-chief2" "master-chief2" "master-chief2" "master-chief2" "master-chief2"
   "duke-nukem" "duke-nukem" "duke-nukem" "duke-nukem" "duke-nukem"
-  "hank-hill" "hank-hill" "hank-hill" "hank-hill" "hank-hill"
-  "dale" "dale" "dale" "dale" "dale"
-  "hank" "hank" "hank" "hank" "hank"
+  "hank-hill" "hank" "dale" "bill" "boomhauer"
+  "hank-hill" "hank" "dale" "bill" "boomhauer"
+  "hank-hill" "hank" "dale" "bill" "boomhauer"
+  "hank-hill" "hank" "dale" "bill" "boomhauer"
+  "hank-hill" "hank" "dale" "bill" "boomhauer"
 )
 
 #Cows used for displaying error messages with errorsay

@@ -91,7 +91,11 @@
               colorCount++;
               var lastColor = bgColor;
 
-              each(range(0, img.height), function(y) {
+              var maxHeight = document.getElementById("maxHeight").value;
+              var height = !!maxHeight ? parseInt(maxHeight) : img.height;
+              height = Math.min(height, img.height);
+
+              each(range(0, height), function(y) {
                 each(range(0, img.width), function(x) {
                   var px = ctx.getImageData(x, y, 1, 1).data;
                   var foundColor = bashColor(px);
@@ -147,6 +151,10 @@
     <br/>
     <div>
       by <input type="text" id="authorName" placeholder="Author Name">
+    </div>
+    <br/>
+    <div>
+      max height <input type="number" id="maxHeight" value="50">
     </div>
     <br/>
     <div>

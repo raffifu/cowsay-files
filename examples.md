@@ -164,6 +164,10 @@
 <img src="converter/src_images/amy.png" height="200" />
 
 
+## ant.cow
+<img src="converter/src_images/ant.png" height="200" />
+
+
 ## aperture-blank.cow
 ```
  ________________ 
@@ -471,6 +475,10 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 ```
 
 
+## bill.cow
+<img src="converter/src_images/bill.png" height="200" />
+
+
 ## biohazard.cow
 ```
  ___________ 
@@ -592,6 +600,14 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 
 ## bomberman2.cow
 <img src="converter/src_images/bomberman2.png" height="200" />
+
+
+## bond.cow
+<img src="converter/src_images/bond.png" height="200" />
+
+
+## boomhauer.cow
+<img src="converter/src_images/boomhauer.png" height="200" />
 
 
 ## bottles.cow
@@ -956,6 +972,10 @@ M###################@%=           =+%
 ```
 
 
+## cookie-monster.cow
+<img src="converter/src_images/cookie-monster.png" height="200" />
+
+
 ## cthulhu-mini.cow
 ```
  ______________ 
@@ -1005,6 +1025,10 @@ M###################@%=           =+%
 
 ## daffy-duck.cow
 <img src="converter/src_images/daffy-duck.png" height="200" />
+
+
+## dale.cow
+<img src="converter/src_images/dale.png" height="200" />
 
 
 ## dalek-shooting.cow
@@ -1197,6 +1221,10 @@ snd     [_____________]
 <img src="converter/src_images/dr-robotnik.png" height="200" />
 
 
+## duke-nukem.cow
+<img src="converter/src_images/duke-nukem.png" height="200" />
+
+
 ## earthworm-jim.cow
 <img src="converter/src_images/earthworm-jim.png" height="200" />
 
@@ -1349,6 +1377,10 @@ $@#MX %+;-                           .
 
 ## flintstone2.cow
 <img src="converter/src_images/flintstone2.png" height="200" />
+
+
+## foghorn-leghorn.cow
+<img src="converter/src_images/foghorn-leghorn.png" height="200" />
 
 
 ## fox.cow
@@ -1609,6 +1641,14 @@ $@#MX %+;-                           .
 <img src="converter/src_images/hammerhead.png" height="200" />
 
 
+## hank-hill.cow
+<img src="converter/src_images/hank-hill.png" height="200" />
+
+
+## hank.cow
+<img src="converter/src_images/hank.png" height="200" />
+
+
 ## hanuman.cow
 <img src="converter/src_images/hanuman.png" height="200" />
 
@@ -1830,6 +1870,10 @@ $@#MX %+;-                           .
 jgs
 
 ```
+
+
+## jerry-mouse.cow
+<img src="converter/src_images/jerry-mouse.png" height="200" />
 
 
 ## jesus-ripped.cow
@@ -2241,6 +2285,10 @@ C{ ( o o )}
 <img src="converter/src_images/master-chief.png" height="200" />
 
 
+## master-chief2.cow
+<img src="converter/src_images/master-chief2.png" height="200" />
+
+
 ## master-shake.cow
 <img src="converter/src_images/master-shake.png" height="200" />
 
@@ -2466,6 +2514,10 @@ C{ ( o o )}
 <img src="converter/src_images/moss.png" height="200" />
 
 
+## mr-burns.cow
+<img src="converter/src_images/mr-burns.png" height="200" />
+
+
 ## mr-freeze.cow
 <img src="converter/src_images/mr-freeze.png" height="200" />
 
@@ -2594,6 +2646,10 @@ o        o         o      o     +
 
 ## one-punch-man.cow
 <img src="converter/src_images/one-punch-man.png" height="200" />
+
+
+## oscar.cow
+<img src="converter/src_images/oscar.png" height="200" />
 
 
 ## owl.cow
@@ -2837,6 +2893,10 @@ o        o         o      o     +
 
 ## portal-turrets.cow
 <img src="converter/src_images/portal-turrets.png" height="200" />
+
+
+## power-armor.cow
+<img src="converter/src_images/power-armor.png" height="200" />
 
 
 ## prof.cow
@@ -3710,6 +3770,10 @@ LOL===__        \
 <img src="converter/src_images/tina.png" height="200" />
 
 
+## tiptup.cow
+<img src="converter/src_images/tiptup.png" height="200" />
+
+
 ## toast.cow
 <img src="converter/src_images/toast.png" height="200" />
 
@@ -4176,6 +4240,10 @@ LOL===__        \
 <img src="converter/src_images/biggs-tc.png" height="200" />
 
 
+## bill.cow
+<img src="converter/src_images/bill-tc.png" height="200" />
+
+
 ## bioshock.cow
 <img src="converter/src_images/bioshock-tc.png" height="200" />
 
@@ -4190,6 +4258,10 @@ LOL===__        \
 
 ## bobross2.cow
 <img src="converter/src_images/bobross2.png" height="200" />
+
+
+## boomhauer.cow
+<img src="converter/src_images/boomhauer-tc.png" height="200" />
 
 
 ## captain-falcon2.cow
@@ -4230,6 +4302,14 @@ LOL===__        \
 
 ## greedo.cow
 <img src="converter/src_images/greedo.png" height="200" />
+
+
+## hank-hill.cow
+<img src="converter/src_images/hank-hill-tc.png" height="200" />
+
+
+## hank.cow
+<img src="converter/src_images/hank-tc.png" height="200" />
 
 
 ## hermes.cow
@@ -4354,6 +4434,14 @@ LOL===__        \
 
 ## marth.cow
 <img src="converter/src_images/marth-tc.png" height="200" />
+
+
+## master-chief2.cow
+<img src="converter/src_images/master-chief2-tc.png" height="200" />
+
+
+## mr-burns.cow
+<img src="converter/src_images/mr-burns.png" height="200" />
 
 
 ## newman.cow
