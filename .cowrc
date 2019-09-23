@@ -131,6 +131,9 @@ PIXEL_COWS=(
   "zoidberg" "fry-money" "hypnotoad" "calculon" "prof" "leela" "amy" "zoidberg2" "scruffy"
   #"farnsworth" "robot-devil"
 
+  #Homestar Runner
+  "strongbad" "homestar" "cheat" "trogor"
+
   #Game of Thrones
   "john-snow" "tyrion" "hodor"
   "the-hound" "arya" "ned-stark" "varys"
@@ -212,14 +215,14 @@ PIXEL_COWS=(
 
   #Misc
   "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus"
-  "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson"
+  "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson" "mr-t"
   "ghostbusters" "the-dude" "donald" "leprechaun"
   "wall-e-plant" "shrek" "donkey" "wall-e" "col-sanders"
   "the-jesus" "lebowski-walter" #"cthulhu" "bsod" "death" "jesus-ripped"
   "lahey" "doc-and-marty" "neo" "smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
-  "strongbad" "homestar" "cheat" "liberty" #"mr-robot-hal" "guy-fawkes"
+  "liberty" #"mr-robot-hal" "guy-fawkes"
   "firefox"
 
   "hobo" "hobo2" "minion" "minion"
@@ -233,6 +236,7 @@ PIXEL_COWS=(
   "hank-hill" "hank" "dale" "bill" "boomhauer"
   "hank-hill" "hank" "dale" "bill" "boomhauer"
   "hank-hill" "hank" "dale" "bill" "boomhauer"
+  "mr-t" "mr-t" "mr-t" "mr-t" "mr-t"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -257,6 +261,7 @@ ERROR_COWS=(
   "doomkart2"
   "dr-robotnik"
   "farnsworth"
+  "flanders-devil"
   "ganondorf"
   "ghostface"
   "glados-wrecked"
@@ -267,6 +272,7 @@ ERROR_COWS=(
   "grunty-broom"
   "harley-quinn"
   "headcrab"
+  "homer-shining"
   "jab"
   "jafar"
   "jaws"
@@ -274,6 +280,7 @@ ERROR_COWS=(
   "jigsaw"
   "joker" "joker-toon"
   "khal-drogo"
+  "krueger"
   "leonardo-error"
   "leonardo-error2"
   "lizalfo"
@@ -315,6 +322,7 @@ ERROR_COWS=(
   "taz"
   "terminator"
   "this-is-fine"
+  "trogor"
   "twoface"
   "venom"
   "ventriloquist"

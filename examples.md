@@ -1371,6 +1371,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/firefox.png" height="200" />
 
 
+## flanders-devil.cow
+<img src="converter/src_images/flanders-devil.png" height="200" />
+
+
 ## flintstone.cow
 <img src="converter/src_images/flintstone.png" height="200" />
 
@@ -1737,6 +1741,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/hodor.png" height="200" />
 
 
+## homer-shining.cow
+<img src="converter/src_images/homer-shining.png" height="200" />
+
+
 ## homer-simpson.cow
 <img src="converter/src_images/homer-simpson.png" height="200" />
 
@@ -2002,6 +2010,10 @@ jgs
 
 ## krishna.cow
 <img src="converter/src_images/krishna.png" height="200" />
+
+
+## krueger.cow
+<img src="converter/src_images/krueger.png" height="200" />
 
 
 ## kyle.cow
@@ -2514,6 +2526,10 @@ C{ ( o o )}
 <img src="converter/src_images/moss.png" height="200" />
 
 
+## mr-burns-sm.cow
+<img src="converter/src_images/mr-burns-sm.png" height="200" />
+
+
 ## mr-burns.cow
 <img src="converter/src_images/mr-burns.png" height="200" />
 
@@ -2528,6 +2544,10 @@ C{ ( o o )}
 
 ## mr-robot-hal.cow
 <img src="converter/src_images/mr-robot-hal.png" height="200" />
+
+
+## mr-t.cow
+<img src="converter/src_images/mr-t.png" height="200" />
 
 
 ## mr-vile.cow
@@ -2668,6 +2688,10 @@ o        o         o      o     +
 
 ## palpatine.cow
 <img src="converter/src_images/palpatine.png" height="200" />
+
+
+## patrick.cow
+<img src="converter/src_images/patrick.png" height="200" />
 
 
 ## pawn.cow
@@ -3829,6 +3853,10 @@ LOL===__        \
 ```
 
 
+## trogdor.cow
+<img src="converter/src_images/trogdor.png" height="200" />
+
+
 ## tux-big.cow
 ```
  _________ 
@@ -4284,6 +4312,10 @@ LOL===__        \
 <img src="converter/src_images/elaine.png" height="200" />
 
 
+## flanders-devil.cow
+<img src="converter/src_images/flanders-devil.png" height="200" />
+
+
 ## freeman-face.cow
 <img src="converter/src_images/freeman-face.png" height="200" />
 
@@ -4440,8 +4472,8 @@ LOL===__        \
 <img src="converter/src_images/master-chief2-tc.png" height="200" />
 
 
-## mr-burns.cow
-<img src="converter/src_images/mr-burns.png" height="200" />
+## mr-t.cow
+<img src="converter/src_images/mr-t-tc.png" height="200" />
 
 
 ## newman.cow
