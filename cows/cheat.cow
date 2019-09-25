@@ -4,30 +4,42 @@
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;5;220m  ";
-$b = "\e[48;5;235m  ";
+$a = "\e[48;5;234m  ";
+$b = "\e[48;5;178m  ";
 $c = "\e[48;5;226m  ";
-$d = "\e[48;5;228m  ";
-$e = "\e[48;5;229m  ";
+$d = "\e[48;5;229m  ";
+$e = "\e[48;5;220m  ";
 
 $the_cow = <<EOC
-          $t
-            $t
-              $t
-
-                  $a$x$a$b$x                $c  $d$x
-                    $a  $x      $c            $d  $x
-                  $b$a$b$a  $c    $b$c$b$c    $d$x
-                $b  $a      $c    $b$c$b$c  $d$x
-                    $a      $c            $e$x
-                    $b$a  $c          $e      $x
-                  $a      $c          $a$e      $x
-                  $a$b$a  $c              $e    $x
-                $b$a      $c              $e    $x
-                $a$b$a  $c                $e  $b$x
-              $b$a      $c              $e    $c  $x
-              $a  $x$b$a$c                $e  $c$b$c$x
-                  $b  $a  $c                $e$x$c  $x
-                $a      $c                    $d$x
-                $b$a  $b$c  $x        $c        $d$x
+                    $t
+                      $t
+                        $t
+                          $t
+                            $t
+                              $t
+            $a$x    $a  $x
+            $a  $x$a  $x                          $b              $x
+            $a          $b                          $c      $d  $b$x
+              $a      $e      $c                            $d  $b$x
+          $a        $e$a  $e  $c          $a$c$a$c        $d  $b$x
+              $a  $e  $a  $e  $c          $a$c$a$c    $d    $b$x
+                $a  $e      $c                    $d      $b$x
+                $a  $e$a$e  $c            $b          $d$b$x
+                $b$e        $c    $b      $c$d        $b$x
+                $b$a$e      $c  $b$c          $b$d      $b$x
+              $b$e$a  $e    $c                $b  $d      $b$x
+            $b  $e          $c                    $d      $b$x
+            $b$a  $e        $c                      $d    $b$x
+          $b$e$a  $e  $b$e  $c                      $d    $b$x
+          $b$e      $b$e    $c                      $d    $b$a$x
+        $b$e    $a  $b$e  $c                        $d  $b  $e$b$x
+        $b$e$a$e$a$b$a$e$c                          $d  $b$a$e$a$x
+      $b$e      $b$a$e  $c                          $d  $b$e  $a  $x
+      $b$a  $e$b$a    $e  $c                        $d  $b  $e    $b$x
+      $b      $a    $e      $c                        $d  $b        $x
+              $b$e    $a$e  $c                        $d    $b$x
+            $b$a$e        $c                            $d  $b  $x
+          $b  $e  $a  $e$c$a$c                          $d    $b$x
+          $a  $e  $a  $c      $b              $c        $d    $b$x
+          $a    $b      $a  $b$x              $b                $x
 EOC

@@ -121,7 +121,8 @@ PIXEL_COWS=(
   "bart" "catdog" "charlie-brown" "snoopy" "homer-simpson" "mr-burns" #"plankton" "spongebob" "rocko"
   "abu" "abu-apple" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
-  "adventure-time" "cookie-monster" "oscar"
+  "adventure-time"
+  "kermit" "cookie-monster" "cookie-monster2" "oscar" "oscar2" "oscar-face"
 
   #Dilbert
   "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
@@ -229,14 +230,13 @@ PIXEL_COWS=(
 
   #Increased frequency duplicates
   "fsm-creation" "fsm-creation" "fsm-creation"
-  "master-chief2" "master-chief2" "master-chief2" "master-chief2" "master-chief2"
-  "duke-nukem" "duke-nukem" "duke-nukem" "duke-nukem" "duke-nukem"
-  "hank-hill" "hank" "dale" "bill" "boomhauer"
   "hank-hill" "hank" "dale" "bill" "boomhauer"
   "hank-hill" "hank" "dale" "bill" "boomhauer"
   "hank-hill" "hank" "dale" "bill" "boomhauer"
   "hank-hill" "hank" "dale" "bill" "boomhauer"
   "mr-t" "mr-t" "mr-t" "mr-t" "mr-t"
+  "trogdor" "trogdor" "trogdor" "trogdor" "trogdor"
+  "kermit" "kermit" "kermit" "kermit" "kermit" "kermit"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -322,7 +322,7 @@ ERROR_COWS=(
   "taz"
   "terminator"
   "this-is-fine"
-  "trogor"
+  "trogdor"
   "twoface"
   "venom"
   "ventriloquist"
