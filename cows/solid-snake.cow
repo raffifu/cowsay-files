@@ -4,60 +4,55 @@
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;5;236m  ";
+$a = "\e[48;5;235m  ";
 $b = "\e[48;5;94m  ";
 $c = "\e[48;5;234m  ";
-$d = "\e[48;5;235m  ";
-$e = "\e[48;5;238m  ";
-$f = "\e[48;5;60m  ";
-$g = "\e[48;5;233m  ";
-$h = "\e[48;5;95m  ";
-$i = "\e[48;5;173m  ";
-$j = "\e[48;5;255m  ";
-$k = "\e[48;5;209m  ";
-$l = "\e[48;5;216m  ";
-$m = "\e[48;5;223m  ";
-$n = "\e[48;5;179m  ";
-$o = "\e[48;5;239m  ";
-$p = "\e[48;5;62m  ";
-$q = "\e[48;5;68m  ";
-$r = "\e[48;5;74m  ";
-$s = "\e[48;5;61m  ";
-$u = "\e[48;5;110m  ";
+$d = "\e[48;5;237m  ";
+$e = "\e[48;5;60m  ";
+$f = "\e[48;5;233m  ";
+$g = "\e[48;5;131m  ";
+$h = "\e[48;5;173m  ";
+$i = "\e[48;5;231m  ";
+$j = "\e[48;5;216m  ";
+$k = "\e[48;5;223m  ";
+$l = "\e[48;5;239m  ";
+$m = "\e[48;5;61m  ";
+$n = "\e[48;5;74m  ";
+$o = "\e[48;5;153m  ";
 
 $the_cow = <<EOC
           $t
             $t
               $t                $a$b$x
-                $t        $c$a  $b  $x  $d$c$e$f$x
-                  $t    $c$a$b  $a$b  $d$x    $e$f  $x
-                      $c$a$b$a  $b  $a$b$e    $f$x  $f$x
-                      $g$c  $e  $b$e$f$b$x      $f$x
-                  $d$g$c  $e  $f    $e$x        $f$x
-                $d$g  $c$h$c        $d$x        $f$x
-                $d$g  $c$i$h$d$j$k$l$h$c$d$x  $f$x
-                $d$c$g  $h$i$l    $m$i$c  $d$x
-              $g$c    $g  $h$m$l  $m$h$c$d$e  $x
-            $d$c$g$c$e  $g$h$l      $h$c$f      $x
-          $d$c$e  $g$c$e  $g$i$j  $n$c  $e  $f  $x
-        $d$g    $e  $g$c$d$g  $h  $g  $e  $o$d$x
-        $g$o$f$p$c$d$c$g              $e  $o$d$x
-        $d$o$q$r  $c$e$d$c$e$g      $c$e$o$d$p$x
-          $e$s$q  $d$c$e    $c    $g$d$o$d$f$q$x
-            $e$s$q  $c    $e    $c$d$x$d$o$f$q$x
-        $g$c$e  $s$g$d$g  $c$e    $d$x$d$o$f$q$x
-      $g$d  $c$g  $c  $d$g  $c$e$d$x  $d$o$p$q$x
-    $g$c$d$c  $e$g$c    $d$c  $d$x    $d$o$s$q$x
-    $g$c  $d$o$d$o$g  $d$q$r$d  $x    $f$o$s$x
-    $d$o  $p  $r$p$o$g$o$s$q$r$x    $a$s$p$q$x
-      $d$o$p  $q$s$c$g$e  $s$q  $a$x$a  $s$p$x
-      $d$e$q    $d$g      $e$s$c$e$c$a$u$d$x
-        $d$e$s$q$d$g      $c  $e    $a  $u  $x
-        $d$e  $s$x$d$g  $d$e$d$c  $e    $a  $u  $x
-          $g$e$c$g$x      $d$e$c$d  $e  $x  $a  $u  $x
-          $g$c  $g$x        $g$e$o$e$d  $x      $a  $x
-          $g$e$c$g$x  $g    $c$g$c$d$o$e$o$x
-          $g  $c$g$x  $g$c      $o  $e$g$c$d$x
-        $g$e  $c$g$x$g$c  $d$c$o  $e$g$c$g$d$x
-      $d  $g  $d  $x$d    $x$d$e    $d      $x
+                $t        $c$a  $b  $x  $a  $d$e$x
+                  $t    $c$a$b  $a$b  $a$x    $d$e  $x
+                      $c$a$b$a  $b  $a$b$d    $e$x  $e$x
+                      $f$a  $d  $b$d$e$b$x      $e$x
+                  $a$f$a  $d  $e    $d$x        $e$x
+                $a$f  $a$g$a          $x        $e$x
+                $a$f  $a$h$g$a$i$h$j$g$a$d$x  $e$x
+                $a  $f  $g$h$j    $k$h$a  $d$x
+              $f$a    $f  $g$k$j  $k$g$a  $d  $x
+            $a  $f$a$d  $f$g$j      $g$a$e      $x
+          $a  $d  $f$a$d  $f$h$i  $j$a  $d  $e  $x
+        $a$f    $d  $f$a$d$f  $g  $f  $d  $e$a$x
+        $f$l  $m$f$d$a$f              $d  $e$a$x
+        $f$l$n    $f$d$a  $d$f      $a$d$e$a$m$x
+          $l$m$n  $f$a$d    $a    $f$a$e$a$l$n$x
+            $l$m$n  $f$a  $d    $a  $x$a$l  $n$x
+        $f$a$l  $m$f$d$f  $a$d      $x$a$l  $n$x
+      $f$d  $a$f  $a  $d$f  $a$d$a$x  $a$l$m$n$x
+    $f$a$d$a  $l$f$a    $d$f$a  $x    $a$l$m$n$x
+    $f$a    $l$a$l$f  $a$n  $a  $x    $l    $x
+    $a$l  $m  $n$m$l$f$l$m$n  $x    $a$m  $n$x
+      $a$l$m  $n$m$a$f$l  $m$n  $a$x$a  $m  $x
+      $a$l$n    $a$f      $l$m$a$d$a$d$o$a$x
+        $a$l$m$n$f        $a  $d    $a$d$o  $x
+        $a$l  $m$x$f      $l$a    $d        $o  $x
+          $f$l$a$f$x      $f$l$a    $d$l$x  $d  $o  $x
+          $f$a  $f$x        $f$l    $a  $x      $d  $x
+          $f$l$a$f$x  $f    $a$f$a  $l    $x
+          $f  $a$f$x  $f$a      $l    $f$a$d$x
+        $f$l  $a$f$x$f$a      $l    $f$a    $x
+      $f      $a$f$x$f$a$f$x$f$l    $f$a$f  $x
 EOC
