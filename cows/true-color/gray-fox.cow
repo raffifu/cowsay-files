@@ -1,80 +1,63 @@
-# Gray Fox (Metal Gear Solid)
-# by Doug Cunningham - https://www.artstation.com/artwork/GXkqB4
+# Gray Fox (Metal Gear Solid) - true color
+# by /u/Onceyougowalrus - https://www.reddit.com/r/PixelArt/comments/6arpxo/ocmetal_gear_solid/
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;2;247;249;246m  ";
-$b = "\e[48;2;205;203;207m  ";
-$c = "\e[48;2;121;126;128m  ";
-$d = "\e[48;2;136;74;64m  ";
-$e = "\e[48;2;225;69;72m  ";
-$f = "\e[48;2;176;94;0m  ";
-$g = "\e[48;2;38;60;91m  ";
-$h = "\e[48;2;61;100;148m  ";
-$i = "\e[48;2;214;136;0m  ";
-$j = "\e[48;2;255;175;93m  ";
-$k = "\e[48;2;20;35;70m  ";
-$l = "\e[48;2;255;215;96m  ";
-$m = "\e[48;2;113;170;233m  ";
-$n = "\e[48;2;99;147;210m  ";
-$o = "\e[48;2;74;118;173m  ";
-$p = "\e[48;2;197;214;247m  ";
-$q = "\e[48;2;206;176;63m  ";
-$r = "\e[48;2;157;159;156m  ";
-$s = "\e[48;2;63;70;77m  ";
-$u = "\e[48;2;49;50;57m  ";
+$a = "\e[48;2;253;253;253m  ";
+$b = "\e[48;2;188;197;246m  ";
+$c = "\e[48;2;147;147;213m  ";
+$d = "\e[48;2;104;88;136m  ";
+$e = "\e[48;2;210;35;51m  ";
+$f = "\e[48;2;215;142;119m  ";
+$g = "\e[48;2;255;196;188m  ";
+$h = "\e[48;2;247;99;26m  ";
+$i = "\e[48;2;28;28;28m  ";
+$j = "\e[48;2;255;156;153m  ";
+$k = "\e[48;2;254;202;55m  ";
+$l = "\e[48;2;73;58;103m  ";
+$m = "\e[48;2;136;64;61m  ";
+$n = "\e[48;2;177;98;73m  ";
+$o = "\e[48;2;255;168;104m  ";
+$p = "\e[48;2;218;124;84m  ";
+$q = "\e[48;2;96;96;191m  ";
+$r = "\e[48;2;253;59;33m  ";
+$s = "\e[48;2;112;158;222m  ";
 
 $the_cow = <<EOC
-                                      $t
-                                        $t                    $a        $x
-                                          $t                $a            $x
-                                            $t            $a                $x
-                                              $t          $a              $b$x
-                                                $t        $c$a            $b$x
-                                                  $t      $a        $b$a  $b$x
-                                                    $t    $d  $a$c  $a  $b$c$x
-                                                          $e  $d$a      $b$f$x
-                                                          $d  $a    $b  $c$f$x
-                                                            $a    $b  $c$f  $g$x
-                                                            $a    $b$c$h$i$g  $i$j$f    $x
-                                                              $a  $g  $h$g  $i      $j$f    $x
-                                                              $f$g  $h$g  $i  $g$h$i$f$i    $f$x
-                                                            $f$k$g  $h$g$i$l$g$h$i$f$i  $j$i  $f$x
-                                                        $j$k    $g$h$g      $h  $i    $j$i    $f$x
-                                                      $j$f$m$n$k$g$h$m  $n      $h$i  $j$i      $f$x
-                                                    $j$f$m$n$o$n$o$m$n  $o      $h$i  $l$i      $f$x
-                                                    $f  $m$n$o  $n$o            $h$f$i  $l$i    $f$x
-                                                  $f  $m$n$o                      $h$f$i  $l$i    $f$x
-                                                  $f  $m$n$o    $n$o              $h$f$i$f  $i    $h$x
-                                                  $f  $m$n  $o  $g$n$o          $h$g  $f$i      $g$h  $x
-                                                $h  $f  $m$o$g          $h      $g$n$h$g$i  $f$h  $g$h  $x
-                                            $h  $g    $f$g  $n    $o    $g      $n    $h$g$f$h      $g$h$x
-                                          $h$g      $k$f$g$p      $o    $h  $g$m$n  $o  $h$x$n$o  $h  $g$x
-                                    $b  $h$g        $k  $n$o      $p$o    $h  $n$o    $h$x  $n$o    $h$g$h$x
-                                  $b  $h$g        $k    $m$n$o            $h  $n$o    $h$x    $n  $o  $h$g$i$x
-                              $b  $g            $k      $m$g          $h    $g  $n$o$h$x          $n$o  $b$i  $x
-                          $b    $g              $k$x      $g$n  $o$h$g    $n$h$g$n$h$x            $g  $a  $c$i$x
-                        $b  $g              $k  $x        $m$n$o    $h$g$n  $g$n$h$x              $n$g$a    $c$x
-                    $b  $g          $k  $x            $l$g$m$n$o    $h  $o$g  $x                $n$h$g$b$a  $b$x
-                  $b$h$g        $k$x                $l$g  $m$n$o    $h  $o$i$x                  $n$h    $a  $b$x
-              $b  $g        $k$x                    $f$g$m$n$o      $h  $o$j$x                    $n$o$h$b$a  $x
-            $b    $g  $k    $x                    $f  $g$m$n$o    $h  $g$l$i  $x                  $n$o  $h$a  $x
-          $g          $k$x                        $f$g  $m$n$o  $h$g  $l$j$i$f$x                  $n$o  $h$a  $x
-      $g    $k      $g$k$x                        $g    $m$n$o$h$g$n$h$j$i$f$g$x                    $n$o$h$a  $x
-  $g      $k$x      $g$k$x                      $f$g$m$g  $n$h$g$n$h  $f  $g$f  $x                  $n$o$h$a  $x
-                      $k$x                    $i$g$m    $g    $n  $h    $i$j  $f$x                  $n$o$h$a  $x
-                                            $i$f$g$m    $g$n    $h    $l$i  $j$f$x                  $n$o$h$a  $x
-                                            $f  $k  $m    $n  $h      $l$i  $j$f$x                    $n$h$a$c$x
-                                          $i$f  $g$k$n$m  $n$h      $l$j$i  $j$f$x                    $n$h$a$x
-                                          $i$f$k$g$k  $n$m$n$h      $j  $i  $j$f$x                    $n$a  $x
-                                          $i$k  $g  $k$n  $h    $g  $j$i    $j$f$x                    $n$a$b$x
-                                        $i$f$k  $g    $n  $h    $g$h$g$j  $i$j$f$x                $g  $b  $q$x                                        $b                    $x
-                                        $f  $k$g    $k  $n$h  $g$o$h$g    $l$i$f$x            $n  $o  $a  $l$x                  $b                      $r                  $x
-                                        $f  $k$g    $k  $n$h  $g$o  $h    $l$i$j$x  $s    $u  $n$o  $a    $l$b                          $r                $x
-                                        $f$g        $k    $x  $g$o  $h    $g$i$j$x  $u        $o    $a    $q$r                          $x
-                                        $f$k$g        $k  $x    $o    $h  $g$i  $f$x          $o    $a$b  $q$x
-                                        $i$k$g      $k    $x    $o      $h  $i  $j$x            $o        $q$x
-                                      $i$f$k$g      $k    $x    $n$o      $h$i  $j$x
-                                      $i$f  $k$g  $k      $x    $n$o      $h$i    $f$x
+              $t                                                                                                                              $a  $x
+                $t                                                                                                                        $a  $b  $x
+                  $t                                                                                                                  $a  $b  $x
+                    $t                                                                                                            $a  $b  $x
+                      $t                                                                                                      $a  $b  $x
+                        $t          $a    $b$c$d$x                                                                        $a  $b  $x
+                          $t      $a    $b    $c$d$x                                                                  $a  $b  $x
+                                $a      $b$e$d$b$c$d$x                                                            $a  $b  $x
+                                $a      $b$c  $d$c$d$x                                                        $a  $b  $x
+                                $b$c  $b      $d$c$d$x                                                    $a  $b  $x
+                          $f$g$x$b        $c    $d  $x                                                $a  $b  $x
+                    $g$x$g$x    $b$c  $b$c  $d  $c$d$x                                            $a  $b  $x
+                          $f$g$x$c$a$h$c  $d$c  $d$i$x                              $h  $x    $a  $b  $x
+                              $f$j$k$h$d  $c    $d$i$l$m$n  $m    $i    $b  $n    $h$k  $h$a  $b  $x
+                              $n  $a  $c  $d$c  $i$l$o    $p  $m$n$l  $q$a$b$p$o$p$k$h$a  $b  $x
+                            $o$p  $r$b$c$r$c    $i$q$o      $p$m$n$l$q$l$b    $o$p$h  $b  $x
+                          $p$o  $p$l$c$d$c    $i$q  $o    $p  $n$p$i    $l$i  $p$o$p$h  $x
+                          $p$o    $s$l$c  $i  $l  $q    $p$n$m$x        $i      $n  $p$x
+                            $p$o$p$s  $l        $q    $l$i    $x      $i      $x
+                              $n    $p$s      $q$s  $l    $i$x        $i  $x
+                                $o$p  $q$i$q$l      $q  $l$i  $x
+                                $l$o$p$s$i$q    $l          $i$x
+                              $q$l$s  $q  $i$l  $q    $i  $q$l$x
+                            $q  $l$s$q    $i    $q$s$l  $q$s  $q$m$x
+                        $q    $l$q$l$s$q  $i      $s$q$l$q  $s$o  $p$x
+                      $o  $q$l$q$l  $s$q$l$x      $i  $l    $o  $p$n$x
+                    $o    $p$q  $l$i$q$b$q$l$x        $i  $l$o  $p$n$x
+                  $o    $p  $l  $i$x$a$b$q$l$x        $i$l  $o$p  $n$x
+                $i  $o$p  $l  $i$x  $a$b$q$l$x          $i$l$q$s$l$x
+              $i$q  $l$p$l  $i$x      $a$q$l$x            $i$q  $l$x
+            $o  $p$l    $i  $x        $a$c$l$x            $i$n  $p$x
+          $o  $p  $l  $i$x            $a$c$l$x              $p$o$p  $x
+        $q  $l      $i$x              $c$n$l$x              $o$l  $p  $x
+    $q  $l  $q  $l$i$x              $n    $x                $l  $q  $l$x
+    $q$l        $i$x            $p    $n$p  $x              $l$q$l    $x
 EOC
