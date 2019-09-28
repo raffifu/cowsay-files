@@ -453,6 +453,10 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 <img src="converter/src_images/bender.png" height="200" />
 
 
+## bert-ernie.cow
+<img src="converter/src_images/bert-ernie.png" height="200" />
+
+
 ## big-slammu.cow
 <img src="converter/src_images/big-slammu.png" height="200" />
 
@@ -976,6 +980,10 @@ M###################@%=           =+%
 <img src="converter/src_images/cookie-monster.png" height="200" />
 
 
+## cookie-monster2.cow
+<img src="converter/src_images/cookie-monster2.png" height="200" />
+
+
 ## cthulhu-mini.cow
 ```
  ______________ 
@@ -1255,6 +1263,10 @@ snd     [_____________]
 
 ## elmer-fudd.cow
 <img src="converter/src_images/elmer-fudd.png" height="200" />
+
+
+## elmo.cow
+<img src="converter/src_images/elmo.png" height="200" />
 
 
 ## err.cow
@@ -1920,6 +1932,10 @@ jgs
 <img src="converter/src_images/kenny.png" height="200" />
 
 
+## kermit.cow
+<img src="converter/src_images/kermit.png" height="200" />
+
+
 ## khal-drogo.cow
 <img src="converter/src_images/khal-drogo.png" height="200" />
 
@@ -2192,6 +2208,10 @@ H#,                     =;+/;,       ,#X
 
 ## link3.cow
 <img src="converter/src_images/link3.png" height="200" />
+
+
+## linus.cow
+<img src="converter/src_images/linus.png" height="200" />
 
 
 ## lizalfo.cow
@@ -2668,8 +2688,16 @@ o        o         o      o     +
 <img src="converter/src_images/one-punch-man.png" height="200" />
 
 
+## oscar-face.cow
+<img src="converter/src_images/oscar-face.png" height="200" />
+
+
 ## oscar.cow
 <img src="converter/src_images/oscar.png" height="200" />
+
+
+## oscar2.cow
+<img src="converter/src_images/oscar2.png" height="200" />
 
 
 ## owl.cow
@@ -3274,6 +3302,10 @@ LOL===__        \
 <img src="converter/src_images/scary-terry-face.png" height="200" />
 
 
+## schroeder.cow
+<img src="converter/src_images/schroeder.png" height="200" />
+
+
 ## scooby-doo.cow
 <img src="converter/src_images/scooby-doo.png" height="200" />
 
@@ -3468,6 +3500,10 @@ LOL===__        \
 <img src="converter/src_images/snacker.png" height="200" />
 
 
+## snoopy-error.cow
+<img src="converter/src_images/snoopy-error.png" height="200" />
+
+
 ## snoopy.cow
 <img src="converter/src_images/snoopy.png" height="200" />
 
@@ -3530,6 +3566,14 @@ LOL===__        \
 
 ## spongebob.cow
 <img src="converter/src_images/spongebob.png" height="200" />
+
+
+## spyro.cow
+<img src="converter/src_images/spyro.png" height="200" />
+
+
+## spyro2.cow
+<img src="converter/src_images/spyro2.png" height="200" />
 
 
 ## squanchy.cow
@@ -3731,6 +3775,10 @@ LOL===__        \
 
 ## the-boss.cow
 <img src="converter/src_images/the-boss.png" height="200" />
+
+
+## the-count.cow
+<img src="converter/src_images/the-count.png" height="200" />
 
 
 ## the-dude.cow
@@ -4178,6 +4226,10 @@ LOL===__        \
 <img src="converter/src_images/wolverine.png" height="200" />
 
 
+## woodstock.cow
+<img src="converter/src_images/woodstock.png" height="200" />
+
+
 ## world.cow
 ```
  _______ 
@@ -4192,6 +4244,10 @@ LOL===__        \
           ) >     {_/,     /~)
   snd     |/               `^ .'
 ```
+
+
+## wyvern.cow
+<img src="converter/src_images/wyvern.png" height="200" />
 
 
 ## yoda.cow
@@ -4292,6 +4348,10 @@ LOL===__        \
 <img src="converter/src_images/boomhauer-tc.png" height="200" />
 
 
+## captain-america.cow
+<img src="converter/src_images/captain-america-tc.png" height="200" />
+
+
 ## captain-falcon2.cow
 <img src="converter/src_images/captain-falcon2-tc.png" height="200" />
 
@@ -4330,6 +4390,10 @@ LOL===__        \
 
 ## gray-fox.cow
 <img src="converter/src_images/gray-fox-tc.png" height="200" />
+
+
+## gray-fox2.cow
+<img src="converter/src_images/gray-fox2-tc.png" height="200" />
 
 
 ## greedo.cow
@@ -4518,6 +4582,10 @@ LOL===__        \
 
 ## snowball.cow
 <img src="converter/src_images/snowball.png" height="200" />
+
+
+## solid-snake.cow
+<img src="converter/src_images/solid-snake.png" height="200" />
 
 
 ## superman-flying.cow
