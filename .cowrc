@@ -118,7 +118,7 @@ PIXEL_COWS=(
   "roadrunner" "roadrunner2" "wile-e-coyote2" "bugs-bunny"
   "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
   "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "donald-duck" "martian"
-  "bart" "catdog" "charlie-brown" "snoopy" "homer-simpson" "mr-burns" #"plankton" "spongebob" "rocko"
+  "bart" "catdog" "homer-simpson" "mr-burns" #"plankton" "spongebob" "rocko"
   "abu" "abu-apple" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
   "adventure-time"
@@ -133,7 +133,7 @@ PIXEL_COWS=(
   #"farnsworth" "robot-devil"
 
   #Homestar Runner
-  "strongbad" "homestar" "cheat" "trogor"
+  "strongbad" "homestar" "cheat" "trogdor"
 
   #Game of Thrones
   "john-snow" "tyrion" "hodor"
@@ -147,7 +147,7 @@ PIXEL_COWS=(
   "tim" "the-boss" "stu"
 
   #Metal Gear Solid
-  "gray-fox" "solid-snake" "solid-snake2" #"metal-gear"
+  "gray-fox" "gray-fox2" "solid-snake" "solid-snake2" #"metal-gear"
 
   #Nintendo
   "link" "link-toon" "link-windwaker" "link-champion" "link-glider"
@@ -160,6 +160,9 @@ PIXEL_COWS=(
   "megaman" #"donkeykong" "dr-mario"
   "samus" "samus2" #"samus3" "samus-cannon"
   #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
+
+  #Peanuts
+  "charlie-brown" "snoopy" "linus" "schroeder" "woodstock"
 
   #Pokemon
   "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo2"
@@ -209,7 +212,7 @@ PIXEL_COWS=(
   "glados-color" "glados2" "glados-potato" "portal-chell" "master-chief" "master-chief2" "isaac"
   "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
   "doomguy" "assassin" "assassin2" "deus-ex" "wheatley" "power-armor" "bond"
-  "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
+  "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" "spyro" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
 
   #Hindu gods
   "ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
@@ -224,19 +227,20 @@ PIXEL_COWS=(
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
-  "firefox"
+  "firefox" "wyvern"
 
   "hobo" "hobo2" "minion" "minion"
 
   #Increased frequency duplicates
   "fsm-creation" "fsm-creation" "fsm-creation"
-  "hank-hill" "hank" "dale" "bill" "boomhauer"
-  "hank-hill" "hank" "dale" "bill" "boomhauer"
-  "hank-hill" "hank" "dale" "bill" "boomhauer"
-  "hank-hill" "hank" "dale" "bill" "boomhauer"
-  "mr-t" "mr-t" "mr-t" "mr-t" "mr-t"
   "trogdor" "trogdor" "trogdor" "trogdor" "trogdor"
   "kermit" "kermit" "kermit" "kermit" "kermit" "kermit"
+  "gray-fox" "solid-snake"
+  "gray-fox" "solid-snake"
+  "gray-fox" "solid-snake"
+  "gray-fox" "solid-snake"
+  "gray-fox" "solid-snake"
+  "gray-fox" "solid-snake"
 )
 
 #Cows used for displaying error messages with errorsay
@@ -315,6 +319,7 @@ ERROR_COWS=(
   "shredder" "shredder2" "shredder-snes"
   "skull-kid"
   "smith"
+  "snoopy-error"
   "sonic-error"
   "streex"
   "superman-cyborg"
@@ -328,6 +333,7 @@ ERROR_COWS=(
   "ventriloquist"
   "white-walker"
   "wile-e-coyote-error"
+  "wyvern"
   "zombie"
   "zombie-police"
 )
