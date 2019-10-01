@@ -384,6 +384,10 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 <img src="converter/src_images/banjo.png" height="200" />
 
 
+## barbrady.cow
+<img src="converter/src_images/barbrady.png" height="200" />
+
+
 ## barney.cow
 <img src="converter/src_images/barney.png" height="200" />
 
@@ -653,6 +657,10 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 ```
 
 
+## brian.cow
+<img src="converter/src_images/brian.png" height="200" />
+
+
 ## broken-heart.cow
 ```
  ______________ 
@@ -787,6 +795,10 @@ M###################@%=           =+%
 
 ## calculon.cow
 <img src="converter/src_images/calculon.png" height="200" />
+
+
+## calvin-and-hobbes.cow
+<img src="converter/src_images/calvin-and-hobbes.png" height="200" />
 
 
 ## captain-america.cow
@@ -1749,6 +1761,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/hl2-dog.png" height="200" />
 
 
+## hobbes.cow
+<img src="converter/src_images/hobbes.png" height="200" />
+
+
 ## hodor.cow
 <img src="converter/src_images/hodor.png" height="200" />
 
@@ -1902,6 +1918,10 @@ jgs
 
 ## jigsaw.cow
 <img src="converter/src_images/jigsaw.png" height="200" />
+
+
+## jimmy.cow
+<img src="converter/src_images/jimmy.png" height="200" />
 
 
 ## joffrey.cow
@@ -2558,6 +2578,10 @@ C{ ( o o )}
 <img src="converter/src_images/mr-freeze.png" height="200" />
 
 
+## mr-garrison.cow
+<img src="converter/src_images/mr-garrison.png" height="200" />
+
+
 ## mr-pb.cow
 <img src="converter/src_images/mr-pb.png" height="200" />
 
@@ -2627,6 +2651,10 @@ C{ ( o o )}
 
 ## ness.cow
 <img src="converter/src_images/ness.png" height="200" />
+
+
+## npc.cow
+<img src="converter/src_images/npc.png" height="200" />
 
 
 ## nyan.cow
@@ -2816,6 +2844,10 @@ o        o         o      o     +
 
 ## peter-pan.cow
 <img src="converter/src_images/peter-pan.png" height="200" />
+
+
+## peter.cow
+<img src="converter/src_images/peter.png" height="200" />
 
 
 ## phasma.cow
@@ -3140,6 +3172,10 @@ o        o         o      o     +
 
 ## rayman2.cow
 <img src="converter/src_images/rayman2.png" height="200" />
+
+
+## reddit.cow
+<img src="converter/src_images/reddit.png" height="200" />
 
 
 ## rick-and-morty-running.cow

@@ -119,13 +119,16 @@ PIXEL_COWS=(
   "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
   "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "donald-duck" "martian"
   "bart" "catdog" "homer-simpson" "mr-burns" #"plankton" "spongebob" "rocko"
-  "abu" "abu-apple" "genie" "stewie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
+  "abu" "abu-apple" "genie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
-  "adventure-time"
+  "adventure-time" "hobbes" "calvin-and-hobbes"
   "kermit" "cookie-monster" "cookie-monster2" "oscar" "oscar2" "oscar-face"
 
   #Dilbert
   "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
+
+  #Family Guy
+  "stewie" "peter" "brian"
 
   #Futurama
   "professor" "bender-md" "zapp-kif" "roberto" "hermes"
@@ -182,7 +185,7 @@ PIXEL_COWS=(
   #"dr-robotnik" "sonic2" "knuckles"
 
   #South Park
-  "chef" "cartman" "kenny" "kyle" "stan"
+  "chef" "cartman" "kenny" "kyle" "stan" "barbrady" "jimmy" "mr-garrison"
 
   #Star Wars
   "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" "greedo"
@@ -205,6 +208,7 @@ PIXEL_COWS=(
 
   #TV Characters
   "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias-8bit"
+  "brian"
   #kramer2" "newman" "larry2" "jerry" "costanza" "elaine" "tobias" "kramer" "larry"
 
   #Video Game characters
@@ -227,7 +231,7 @@ PIXEL_COWS=(
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   "mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
-  "firefox" "wyvern"
+  "firefox" "wyvern" "npc"
 
   "hobo" "hobo2" "minion" "minion"
 
