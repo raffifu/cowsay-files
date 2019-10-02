@@ -801,6 +801,14 @@ M###################@%=           =+%
 <img src="converter/src_images/calvin-and-hobbes.png" height="200" />
 
 
+## calvin-and-hobbes2.cow
+<img src="converter/src_images/calvin-and-hobbes2.png" height="200" />
+
+
+## calvin.cow
+<img src="converter/src_images/calvin.png" height="200" />
+
+
 ## captain-america.cow
 <img src="converter/src_images/captain-america.png" height="200" />
 
@@ -1763,6 +1771,10 @@ $@#MX %+;-                           .
 
 ## hobbes.cow
 <img src="converter/src_images/hobbes.png" height="200" />
+
+
+## hobbes2.cow
+<img src="converter/src_images/hobbes2.png" height="200" />
 
 
 ## hodor.cow
@@ -4398,6 +4410,10 @@ LOL===__        \
 
 ## cthulhu.cow
 <img src="converter/src_images/cthulhu-tc.png" height="200" />
+
+
+## deadpool-bob-ross.cow
+<img src="converter/src_images/deadpool-bob-ross.png" height="200" />
 
 
 ## einstein-face.cow
