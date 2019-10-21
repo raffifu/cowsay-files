@@ -1,0 +1,63 @@
+# Winnie the Pooh
+# by Unknown - https://wallup.net/pixel-art-pixels-winnie-the-pooh/
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;235m  ";
+$b = "\e[48;5;214m  ";
+$c = "\e[48;5;232m  ";
+$d = "\e[48;5;196m  ";
+
+$the_cow = <<EOC
+          $t
+            $t
+              $t              $a    $x
+                $t          $a$b  $a$x
+                  $t      $a$b      $a$x
+                          $a$b      $a            $x
+                          $a$b      $a$b          $a$x  $a    $x
+                          $a$b                      $a  $b    $a$x
+                            $a  $b  $a$b              $a$b    $a$x
+                            $a$b  $a  $b              $a$b    $a$x
+                            $a$b$a  $b              $a$b      $a$x
+                            $a$b                    $c$b      $a$x
+                            $a$b                      $a$b  $a$x
+                          $a  $b  $a$b                  $a  $x
+                          $a$b    $a$b                  $a$x
+                        $a$b      $a$b$a    $b  $a$b    $a$x
+                      $a$b          $a$b    $a$b$a$b    $a$x
+                      $a$b              $a  $b  $a$b    $a$x
+                      $a$b      $a$b  $a      $b          $a$x
+                      $a$b    $a  $b  $a      $b            $a$x
+                      $a$b      $a$b    $a  $b              $a$x
+                      $a$b      $a$b              $a$b      $a$x
+                      $a$b        $a$b            $a$b      $a$x
+                      $a$b        $a$b          $a$b        $a$x
+                      $a  $b        $a  $b    $a$b          $a$x
+                    $a$d$a  $b        $a      $b          $a    $x
+                    $a$d  $a$b          $a  $b          $a$d  $a$x
+                      $a$d$a  $b              $a        $d  $a$x
+                      $a    $b          $a    $d        $a    $x
+                      $a$d$a$b    $a    $d  $a      $d$a$d  $a$x
+                    $a  $d  $a    $d      $c$d$a      $d  $c$x
+                    $a$d$a$d            $a$d$a$d        $a$x
+                  $a$d    $a    $d        $a$d          $a$x
+                $a$d                      $a$d          $a$x
+              $a$d                      $a$d            $a$x
+            $a$d                        $a$d            $a$x
+          $a$d  $a    $d                $a$d            $a$x
+          $a$d$a$b    $a  $d          $a$d$a    $d    $a    $x
+            $a  $b        $a$d          $a$b    $a$d  $a$d$a$x
+              $a$b          $a$d      $a$b        $a    $d$a  $x
+            $a$b              $a$d    $a$b          $a$d$a$d$a$x
+            $a$b                $a  $d$a$b            $a$d  $a$x
+            $a$b                    $a  $b          $a$d  $a$x
+            $a$b                      $a$b          $a      $x
+            $a$b                      $a$b          $a$b  $a$x
+          $a$b                        $a$b          $a$b  $a$x
+          $a$b                        $a$b        $a  $b  $a$x
+          $a$b                        $a  $b      $a$b      $a$x
+          $a$b                          $a$b      $a$b      $a$x
+          $a$b                          $a$b        $a$b    $a$x
+EOC
