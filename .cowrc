@@ -101,7 +101,7 @@ PIXEL_COWS=(
 
   #Adult Swim characters
   "mooninites" "master-shake" "frylock" "meatwad" "carl" "ignignokt" "err"
-  "space-ghost" "moltar" "zorak"
+  "space-ghost" "space-ghost2" "moltar" "zorak"
 
   #Batman
   "batman" "batman2" "robin" "alfred" "catwoman" "batman-genesis"
@@ -109,7 +109,7 @@ PIXEL_COWS=(
 
   #Banjo Kazooie
   "banjo-kazooie"  "banjo-kazooie2" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" "humba-wumba" "grunty-broom" #"grunty" "gruntilda"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" "humba-wumba" #"grunty-broom" #"grunty" "gruntilda"
 
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
@@ -238,18 +238,12 @@ PIXEL_COWS=(
 
   #Increased frequency duplicates
   "fsm-creation" "fsm-creation" "fsm-creation"
-  "trogdor" "trogdor" "trogdor" "trogdor" "trogdor"
-  "kermit" "kermit" "kermit" "kermit" "kermit" "kermit"
-  "gray-fox" "solid-snake"
-  "gray-fox" "solid-snake"
-  "gray-fox" "solid-snake"
-  "gray-fox" "solid-snake"
-  "gray-fox" "solid-snake"
-  "gray-fox" "solid-snake"
+  "space-ghost2" "space-ghost2"
 )
 
 #Cows used for displaying error messages with errorsay
 ERROR_COWS=(
+  "abominable"
   "bart-zombie"
   "big-slammu"
   "bioshock"

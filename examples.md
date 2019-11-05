@@ -80,6 +80,10 @@
 ```
 
 
+## abominable.cow
+<img src="converter/src_images/abominable.png" height="200" />
+
+
 ## abu.cow
 <img src="converter/src_images/abu.png" height="200" />
 
@@ -1777,6 +1781,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/hobbes2.png" height="200" />
 
 
+## hobbes3.cow
+<img src="converter/src_images/hobbes3.png" height="200" />
+
+
 ## hodor.cow
 <img src="converter/src_images/hodor.png" height="200" />
 
@@ -2979,6 +2987,14 @@ o        o         o      o     +
 <img src="converter/src_images/poison-ivy.png" height="200" />
 
 
+## pooh.cow
+<img src="converter/src_images/pooh.png" height="200" />
+
+
+## pooh2.cow
+<img src="converter/src_images/pooh2.png" height="200" />
+
+
 ## popeye.cow
 <img src="converter/src_images/popeye.png" height="200" />
 
@@ -3594,6 +3610,10 @@ LOL===__        \
 
 ## space-ghost.cow
 <img src="converter/src_images/space-ghost.png" height="200" />
+
+
+## space-ghost2.cow
+<img src="converter/src_images/space-ghost2.png" height="200" />
 
 
 ## speedy-gonzales.cow
@@ -4462,6 +4482,10 @@ LOL===__        \
 
 ## hermes.cow
 <img src="converter/src_images/hermes-tc.png" height="200" />
+
+
+## hitman-face.cow
+<img src="converter/src_images/hitman-face-tc.png" height="200" />
 
 
 ## hobo.cow
