@@ -117,8 +117,8 @@ PIXEL_COWS=(
   #Cartoons
   "roadrunner" "roadrunner2" "wile-e-coyote2" "bugs-bunny"
   "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
-  "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "donald-duck" "martian"
-  "bart" "catdog" "homer-simpson" "mr-burns" #"plankton" "spongebob" "rocko"
+  "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "garfield2" "garfield-face" "donald-duck" "martian"
+  "bart" "catdog" "homer-simpson" #"mr-burns" #"plankton" "spongebob" "rocko"
   "abu" "abu-apple" "genie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
   "wile-e-coyote" "abu-sword"
   "adventure-time" "calvin-and-hobbes" "calvin-and-hobbes2" "calvin" "hobbes" "hobbes2"
@@ -189,7 +189,7 @@ PIXEL_COWS=(
   "chef" "cartman" "kenny" "kyle" "stan" "barbrady" "jimmy" "mr-garrison"
 
   #Star Wars
-  "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" "greedo"
+  "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" #"greedo"
   "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "chewbacca"
   #"darth-vader" "phasma" "palpatine" "stormtrooper" "vader"
   #"true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
@@ -240,6 +240,9 @@ PIXEL_COWS=(
   "fsm-creation" "fsm-creation" "fsm-creation"
   "space-ghost2" "space-ghost2"
 )
+
+#minimal list of cows
+#PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "peter" "bugs-bunny" "r2d2" "dilbert" "donatello" "duke-nukem" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes" "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson" "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes")
 
 #Cows used for displaying error messages with errorsay
 ERROR_COWS=(

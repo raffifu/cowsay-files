@@ -5,26 +5,26 @@
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;233m  ";
-$b = "\e[48;5;17m  ";
+$b = "\e[48;5;18m  ";
 $c = "\e[48;5;52m  ";
 $d = "\e[48;5;130m  ";
 $e = "\e[48;5;173m  ";
 $f = "\e[48;5;179m  ";
 $g = "\e[48;5;88m  ";
 $h = "\e[48;5;124m  ";
-$i = "\e[48;5;18m  ";
-$j = "\e[48;5;4m  ";
+$i = "\e[48;5;19m  ";
+$j = "\e[48;5;21m  ";
 $k = "\e[48;5;33m  ";
 $l = "\e[48;5;220m  ";
 $m = "\e[48;5;214m  ";
 
 $the_cow = <<EOC
-                                $t
-                                  $t
-                                    $t
-                                      $t                      $a        $x
-                                        $t                  $a      $b$a$b$a$x
-                                          $t              $a    $c  $a$b$a$b$x
+                                        $t
+                                          $t
+                                            $t
+                                              $t              $a        $x
+                                                $t          $a      $b$a$b$a$x
+                                                  $t      $a    $c  $a$b$a$b$x
                                                           $a    $c$d  $c$b$a$x
                                                           $a$d$c    $d$e$d$x$a$x
                                                         $a  $e$d    $c  $d$x
@@ -68,4 +68,5 @@ $a                                  $b$i$j    $i$b$a                      $b$i$j
 $a                                  $b$i$j    $i$b$a              $b    $a  $b$i$j$i$b$a$x
 $a                                  $b  $i$j    $i$a          $b$a$b$i  $b  $a$b$i$j$b  $a$x
 $a                                  $b  $i$j    $i$b$a              $b$i    $b    $i  $b$a$x
+$a                                  $b  $i$j    $i$b$a            $b$a$b$i$j$i$b$a$b$i$b$a  $x
 EOC

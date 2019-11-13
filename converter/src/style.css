@@ -1,3 +1,7 @@
+.example_images {
+  display: flex;
+}
+
 .example_images img {
   height: 100px;
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
@@ -7,4 +11,8 @@
   image-rendering: pixelated; /* Chrome */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}
+
+.img-container {
+  
 }

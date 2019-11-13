@@ -66,17 +66,4 @@ $the_cow = <<EOC
     $a$n    $a$x                          $a$h  $a$b    $c              $b  $a$h$a$x                                $a$h  $a$x
     $a$n  $a      $x                      $a    $b      $c              $b    $a$h$a$x                              $a$h  $a$x
     $a$n$a$i  $a$x                        $a$b          $c              $b      $a  $x                              $a$h  $a$x
-    $a  $i  $a$x                          $a$b            $c          $b        $a$x                                $a      $x
-    $a$i  $a$x                            $a$b              $c        $b        $a$x                                $a$m  $a$x
-    $a$i  $a$x                          $a  $b              $c        $b        $a  $x                              $a$k$m$a$x
-    $a$i  $a$x                        $a$h$a$b              $c        $b        $a$h$a$x                            $a$k  $a$x
-    $a      $x                        $a$h$a$b  $c  $b    $c          $b        $a$g$a$x                          $a  $k    $a$x
-  $a$h    $a  $x                      $a$h$a$b  $c$d$b  $c            $b        $a$k$a$x$a$x                    $g$k    $a$k  $a$x
-$a$h    $a$h  $a$x                    $a$h$a$b          $c              $b      $a$g$a    $x                    $g$k    $a$k  $a$x
-$a$h  $a  $h    $a$x                  $a$h$a$b          $c              $b      $a$h$a    $x                    $g$k  $a$k$a$k$a$x
-$a$h$a$h  $a$h  $a$x                  $a$h  $a$b        $c              $b    $a$h  $a$x$a$x                    $g    $k  $a$k$a$x
-$a$h    $a$h$a  $x                      $a$h$a$b        $c            $b    $m$a$h$a$i$a$x                        $g$k$a$k    $a$x
-$a$h  $a$h$a$h$a$x              $n      $a$h$a$b          $c        $b  $m$b$m$a$h$a$i$a$x                        $g$k        $a$x
-  $a$h      $a$x                $i$n$i  $a$h$a$b    $c  $b  $c    $b      $m  $a$h$a$i$a$x                          $a        $x
-    $a      $x                    $n$x  $a$m$a$b$m  $c$d$b              $m    $a$h$a$i  $a$x
 EOC

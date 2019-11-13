@@ -6,8 +6,7 @@ $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;235m  ";
 $b = "\e[48;5;214m  ";
-$c = "\e[48;5;232m  ";
-$d = "\e[48;5;196m  ";
+$c = "\e[48;5;196m  ";
 
 $the_cow = <<EOC
           $t
@@ -21,7 +20,7 @@ $the_cow = <<EOC
                             $a  $b  $a$b              $a$b    $a$x
                             $a$b  $a  $b              $a$b    $a$x
                             $a$b$a  $b              $a$b      $a$x
-                            $a$b                    $c$b      $a$x
+                            $a$b                    $a$b      $a$x
                             $a$b                      $a$b  $a$x
                           $a  $b  $a$b                  $a  $x
                           $a$b    $a$b                  $a$x
@@ -35,24 +34,24 @@ $the_cow = <<EOC
                       $a$b        $a$b            $a$b      $a$x
                       $a$b        $a$b          $a$b        $a$x
                       $a  $b        $a  $b    $a$b          $a$x
-                    $a$d$a  $b        $a      $b          $a    $x
-                    $a$d  $a$b          $a  $b          $a$d  $a$x
-                      $a$d$a  $b              $a        $d  $a$x
-                      $a    $b          $a    $d        $a    $x
-                      $a$d$a$b    $a    $d  $a      $d$a$d  $a$x
-                    $a  $d  $a    $d      $c$d$a      $d  $c$x
-                    $a$d$a$d            $a$d$a$d        $a$x
-                  $a$d    $a    $d        $a$d          $a$x
-                $a$d                      $a$d          $a$x
-              $a$d                      $a$d            $a$x
-            $a$d                        $a$d            $a$x
-          $a$d  $a    $d                $a$d            $a$x
-          $a$d$a$b    $a  $d          $a$d$a    $d    $a    $x
-            $a  $b        $a$d          $a$b    $a$d  $a$d$a$x
-              $a$b          $a$d      $a$b        $a    $d$a  $x
-            $a$b              $a$d    $a$b          $a$d$a$d$a$x
-            $a$b                $a  $d$a$b            $a$d  $a$x
-            $a$b                    $a  $b          $a$d  $a$x
+                    $a$c$a  $b        $a      $b          $a    $x
+                    $a$c  $a$b          $a  $b          $a$c  $a$x
+                      $a$c$a  $b              $a        $c  $a$x
+                      $a    $b          $a    $c        $a    $x
+                      $a$c$a$b    $a    $c  $a      $c$a$c  $a$x
+                    $a  $c  $a    $c      $a$c$a      $c  $a$x
+                    $a$c$a$c            $a$c$a$c        $a$x
+                  $a$c    $a    $c        $a$c          $a$x
+                $a$c                      $a$c          $a$x
+              $a$c                      $a$c            $a$x
+            $a$c                        $a$c            $a$x
+          $a$c  $a    $c                $a$c            $a$x
+          $a$c$a$b    $a  $c          $a$c$a    $c    $a    $x
+            $a  $b        $a$c          $a$b    $a$c  $a$c$a$x
+              $a$b          $a$c      $a$b        $a    $c$a  $x
+            $a$b              $a$c    $a$b          $a$c$a$c$a$x
+            $a$b                $a  $c$a$b            $a$c  $a$x
+            $a$b                    $a  $b          $a$c  $a$x
             $a$b                      $a$b          $a      $x
             $a$b                      $a$b          $a$b  $a$x
           $a$b                        $a$b          $a$b  $a$x

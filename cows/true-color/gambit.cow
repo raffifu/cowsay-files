@@ -21,11 +21,11 @@ $n = "\e[48;2;136;32;72m  ";
 $o = "\e[48;2;232;48;112m  ";
 
 $the_cow = <<EOC
-                      $t
-                        $t
-                          $t                        $a    $x$a  $b  $x
-                            $t                $a    $b    $a$b  $x
-                              $t            $a  $b    $a    $c$a  $x
+                          $t
+                            $t
+                              $t                    $a    $x$a  $b  $x
+                                $t            $a    $b    $a$b  $x
+                                  $t        $a  $b    $a    $c$a  $x
                                             $a$c    $a    $c$a$x  $a$x
                                             $a$c$d$c      $a$x$a$x
                                             $c      $e$f$g$e$x
