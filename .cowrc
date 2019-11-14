@@ -182,8 +182,8 @@ PIXEL_COWS=(
   #"jaws" "jaws2" "shark-smiling"
 
   #Sonic
-  "sonic" "sonic3" "tails" "tails2" "knuckles2" "shadow" "shadow2"
-  #"dr-robotnik" "sonic2" "knuckles"
+  "sonic" "sonic2" "tails" "tails2" "knuckles2" "shadow" "shadow2"
+  #"dr-robotnik" "sonic3" "sonic4" "knuckles"
 
   #South Park
   "chef" "cartman" "kenny" "kyle" "stan" "barbrady" "jimmy" "mr-garrison"
@@ -216,23 +216,23 @@ PIXEL_COWS=(
   "47" "hitman" "hitman-face" "freeman-face" "duke-nukem" "leon" "subzero" "scorpion" "vault-boy"
   "glados-color" "glados2" "glados-potato" "portal-chell" "master-chief" "master-chief2" "isaac"
   "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
-  "doomguy" "assassin" "assassin2" "deus-ex" "wheatley" "power-armor" "bond"
+  "bond" "doomguy" "deus-ex" #"assassin" "assassin2" "wheatley" "power-armor"
   "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" "spyro" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
 
   #Hindu gods
-  "ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
+  #"ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
 
   #Misc
   "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus"
   "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson" "mr-t"
   "ghostbusters" "the-dude" "donald" "leprechaun"
-  "wall-e-plant" "shrek" "donkey" "wall-e" "col-sanders"
+  "wall-e-plant" "shrek" "donkey" #"wall-e" "col-sanders"
   "the-jesus" "lebowski-walter" #"cthulhu" "bsod" "death" "jesus-ripped"
   "lahey" "doc-and-marty" "neo" "smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
-  "mike-tyson" "wall-e2" "eve" #"raptor"
+  #"mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
-  "firefox" "wyvern" "npc"
+  "firefox" #"wyvern" "npc"
 
   "hobo" "hobo2" "minion" "minion"
 
@@ -300,6 +300,7 @@ ERROR_COWS=(
   "mr-robot-hal"
   "mr-x"
   "night-king"
+  "npc"
   "palpatine"
   "penguin"
   "phasma"
