@@ -1474,6 +1474,10 @@ $@#MX %+;-                           .
 <img src="converter/src_images/fsm2.png" height="200" />
 
 
+## gambit.cow
+<img src="converter/src_images/gambit.png" height="200" />
+
+
 ## gandalf.cow
 <img src="converter/src_images/gandalf.png" height="200" />
 
@@ -1486,8 +1490,20 @@ $@#MX %+;-                           .
 <img src="converter/src_images/ganondorf.png" height="200" />
 
 
+## garfield-face.cow
+<img src="converter/src_images/garfield-face.png" height="200" />
+
+
 ## garfield.cow
 <img src="converter/src_images/garfield.png" height="200" />
+
+
+## garfield2.cow
+<img src="converter/src_images/garfield2.png" height="200" />
+
+
+## garfield3.cow
+<img src="converter/src_images/garfield3.png" height="200" />
 
 
 ## gene.cow
@@ -4453,7 +4469,7 @@ LOL===__        \
 
 
 ## gambit.cow
-<img src="converter/src_images/gambit.png" height="200" />
+<img src="converter/src_images/gambit-tc.png" height="200" />
 
 
 ## glados-potato.cow
