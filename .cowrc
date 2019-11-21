@@ -109,7 +109,7 @@ PIXEL_COWS=(
 
   #Banjo Kazooie
   "banjo-kazooie"  "banjo-kazooie2" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" "humba-wumba" #"grunty-broom" #"grunty" "gruntilda"
+  "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" #"humba-wumba" "grunty-broom" #"grunty" "gruntilda"
 
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
@@ -205,7 +205,7 @@ PIXEL_COWS=(
 
   #TMNT
   "michaelangelo" "michaelangelo2" "donatello" "donatello2" "raphael" "raphael2" "leonardo" "leonardo2" "splinter"
-  "donatello3" "raphael3" "leonardo3" #"michaelangelo3" "raphael4" "leonardo4"
+  "donatello3" "leonardo3" #"michaelangelo3" "raphael4" "leonardo4" "raphael3"
 
   #TV Characters
   "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias-8bit"
