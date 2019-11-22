@@ -1,0 +1,39 @@
+# Cowsay test file
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;74m  ";
+$b = "\e[48;5;81m  ";
+$c = "\e[48;5;156m  ";
+$d = "\e[48;5;129m  ";
+
+$the_cow = <<EOC
+  $a$b$c$d$x
+          $t
+            $t
+              $t
+                $t        $a$x
+                        $a    $x
+                      $a    $x
+                      $a      $x
+                    $a    $b$a$x
+                    $a    $b  $a$x    $a  $x
+                  $a      $b$a  $x  $a$c$a$x
+                $a$c    $a$b$a      $c  $a$x
+                $a$c  $a$c$a$c        $a$x
+                $a$c    $a$c          $a$x
+                  $a        $c      $a$x
+                      $a$b$a        $x
+                  $a        $x  $a    $x
+              $a              $x$a    $x
+            $a      $c  $a            $x
+            $a    $x  $a          $x
+              $a$c$a          $x
+                  $a        $x
+              $a            $x      $a    $x
+            $a$c  $a      $c$a$x  $a$c  $a$x
+          $a$c  $a$c$a$x  $a$c$a  $c    $a$x
+          $a$c  $a  $x      $a$c$a$c  $a$x
+          $a$c$a$x            $a$c  $a$x
+          $a    $x              $a  $x
+EOC
