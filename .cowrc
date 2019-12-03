@@ -104,7 +104,7 @@ PIXEL_COWS=(
   "space-ghost" "space-ghost2" "moltar" "zorak"
 
   #Batman
-  "batman" "batman2" "robin" "alfred" "catwoman" "batman-genesis"
+  "batman" "batman2" "robin" "alfred" #"batman-genesis" "catwoman"
   #"riddler" "joker-toon" "joker" "twoface" "mr-freeze" "ventriloquist" "riddler" "poison-ivy" "penguin"
 
   #Banjo Kazooie
@@ -304,7 +304,7 @@ ERROR_COWS=(
   "penguin"
   "phasma"
   "pikachu-jason"
-  "poison-ivy"
+  #"poison-ivy"
   "portal-turrets"
   "power-armor"
   "raphael-error"

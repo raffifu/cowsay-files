@@ -1,58 +1,59 @@
 # Banjo (Banjo Kazooie)
 # by Bwar - https://www.vg-resource.com/archive/index.php/thread-20583-12.html
-# Generated with Charc0al's coway file creator http://charc0al.github.io/cowsay-files/converter
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;5;235m  ";
-$c = "\e[48;5;172m  ";  #brown 1
-$b = "\e[48;5;94m  ";   #brown 2
+$a = "\e[48;5;234m  ";
+$b = "\e[48;5;94m  ";
+$c = "\e[48;5;172m  ";
 $d = "\e[48;5;223m  ";
 $e = "\e[48;5;231m  ";
 $f = "\e[48;5;153m  ";
-$g = "\e[48;5;179m  ";
-$h = "\e[48;5;63m  ";
-$i = "\e[48;5;237m  ";
-$j = "\e[48;5;220m  ";
-$k = "\e[48;5;136m  ";
+$g = "\e[48;5;238m  ";
+$h = "\e[48;5;179m  ";
+$i = "\e[48;5;63m  ";
+$j = "\e[48;5;18m  ";
+$k = "\e[48;5;220m  ";
+$l = "\e[48;5;136m  ";
 
 $the_cow = <<EOC
-      $t                    $a      $x
-        $t      $a    $x$a  $b$c    $a$x
-          $t  $a$b$c  $a$b$c    $b$c  $a$x
-            $t$a$c$d  $a$c$b    $a    $x
-              $a$b$d  $c    $b      $a$x
-                $a$b$c    $b$e$f$b$f  $a$x
-              $a$b$c      $e  $a$b$a$f$a$x  $a  $x
-              $a$c      $b$e  $a$b$a$f$a    $b  $a$x
-            $a$b$c    $g$d$g$e$h$b$g$d    $a$b$a  $x
-            $a$b$c  $g$d    $g  $d        $g$a    $x
-          $a$b  $c  $d                      $a$d$a$x
-          $a$b    $c$d      $b$d            $g$d$a$x
-          $a$b      $g$d  $g$b$a$d          $g$a$x
-        $a    $b      $g        $a$g$d    $g$a$x
-    $a    $i$h$a  $b      $g      $b$a      $x
-  $a$h  $a    $i$h$a    $b        $a$i$a$x
-  $a$h$a$b$c$b$a$h  $i$b$a      $e  $b$i$a$x
-  $a  $b$c      $h  $i$b$d$g    $e  $g$i$a$x
-  $a$b$c        $h  $i$d        $g$e$d$i$b$a$x
-  $a$c        $b$h  $i$d          $g$d$i$b$a$x
-$a$b$c        $a$h$i$c$d              $i$b  $a$x
-$a$b$c      $a$h$i$c  $g$d          $c$i$b  $a$x
-$a$b  $g$c$b$a  $b  $c  $g$d      $g$a$b$g$b$a$x
-$a$g$d  $g$d$a  $j          $e    $k$a$g    $a$x
-$a$d          $a  $j$k$a    $e$a$e$a  $g    $a$x
-$a$d      $b$g$a$k$j      $k$j  $k  $a$b  $g$a$x
-$a$g$d    $g$b$a$j        $k$j$k    $a$b$g  $a$x
-  $a$g$d    $a$k$j        $k$a$k    $a$g  $a$x
-    $a        $k  $j      $a$k      $a    $x
-            $a                        $x
-            $a$b    $c  $b$a$b    $a$x
-            $a$b  $c      $a$b    $a$x
-          $a$b    $c      $a$b      $a  $x
-          $a$g    $b$g  $b$g$a$g    $b$g$a$x
-          $a$g  $d  $b$d  $b$d$a$g    $a$g$a$x
-          $a$g  $d  $a$d  $a$d$a$g    $a$g$a$x
-            $a                            $x
-
+      $t      
+        $t                      $a      $x
+          $t        $a    $x$a  $b$c    $a$x
+            $t    $a$b$c  $a$b$c    $b$c  $a$x
+                  $a$c$d  $a$c$b    $a    $x
+                  $a$b$d  $c    $b      $a$x
+                    $a$b$c    $b$e$f$b$f  $a$x
+                  $a$b$c      $e  $a$b$a$f$a$x  $a  $x
+                  $a$c      $b$e  $a$b$a$f$a    $g  $a$x
+                $a$b$c    $h$d$h$e$i$b$h$d    $a$g$a  $x
+                $a$b$c  $h$d    $h  $d        $h$a    $x
+              $a$b  $c  $d                      $a$d$a$x
+              $a$b    $c$d      $b$d            $h$d$a$x
+              $a$b      $h$d  $h$b$a$d          $h$a$x
+            $a    $b      $h        $a$h$d    $h$a$x
+        $a    $j$i$a  $b      $h      $b$a      $x
+      $a$i  $a    $j$i$a    $b        $a$j$a$x
+      $a$i$a$b$c$b$a$i  $j$b$a      $e  $b$j$a$x
+      $a  $b$c      $i  $j$b$d$h    $e  $h$j$a$x
+      $a$b$c        $i  $j$d        $h$e$d$j$b$a$x
+      $a$c        $b$i  $j$d          $h$d$j$b$a$x
+    $a$b$c        $a$i$j$c$d              $j$b  $a$x
+    $a$b$c      $a$i$j$c  $h$d          $c$j$b  $a$x
+    $a$b  $h$c$b$a  $b  $c  $h$d      $h$a$b$h$b$a$x
+    $a$h$d  $h$d$a  $k          $e    $l$a$h    $a$x
+    $a$d          $a  $k$l$a    $e$a$e$a  $h    $a$x
+    $a$d      $b$h$a$l$k      $l$k  $l  $a$b  $h$a$x
+    $a$h$d    $h$b$a$k        $l$k$l    $a$b$h  $a$x
+      $a$h$d    $a$l$k        $l$a$l    $a$h  $a$x
+        $a        $l  $k      $a$l      $a    $x
+                $a                        $x
+                $a$b    $c  $b$a$b    $a$x
+                $a$b  $c      $a$b    $a$x
+              $a$b    $c      $a$b      $a  $x
+              $a$h    $b$h  $b$h$a$h    $b$h$a$x
+              $a$h  $d  $b$d  $b$d$a$h    $a$h$a$x
+              $a$h  $d  $a$d  $a$d$a$h    $a$h$a$x
+                $a                            $x
 EOC
