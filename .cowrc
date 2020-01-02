@@ -95,7 +95,7 @@ COWS=(
 
 PIXEL_COWS=(
   #Rick and Morty
-  "rick-and-morty-running" "snowball" "pickle-rick2" "pickle-rick"
+  "rick-and-morty-running" "rick-and-morty-split" "snowball" "pickle-rick2" "pickle-rick"
   "rick-and-morty2" "pickle-rick-face" "squanchy" "mr-pb" "plutonian" "pizza-phone"
   "dog" "head" "meeseeks" "scary-terry" #"scary-terry-face"
 
@@ -238,10 +238,14 @@ PIXEL_COWS=(
 
   #Increased frequency duplicates
   "fsm-creation" "fsm-creation" "fsm-creation"
+  "rick-and-morty-split" "rick-and-morty-split" "rick-and-morty-split"
 )
 
 #minimal list of cows
-#PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "peter" "bugs-bunny" "r2d2" "dilbert" "donatello" "duke-nukem" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes" "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson" "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes")
+ZPIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
+            "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
+            "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
+            "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split")
 
 #Cows used for displaying error messages with errorsay
 ERROR_COWS=(
@@ -309,6 +313,7 @@ ERROR_COWS=(
   "power-armor"
   "raphael-error"
   "raphael-error2"
+  "rick-and-morty-split"
   "ripster"
   "riddler"
   "raptor"

@@ -20,13 +20,11 @@ $m = "\e[48;5;174m  ";
 $n = "\e[48;5;181m  ";
 
 $the_cow = <<EOC
-                                      $t
-                                        $t
-                                          $t                        $a$x
-                                            $t                    $a$b$c$x
-                                              $t                  $a$d$a$x
-                                                            $c  $a$c$d$b$c  $x
-                                                          $c$a$e  $c$b$d$a  $c$x
+                                      $t                            $a$x
+                                        $t                        $a$b$c$x
+                                          $t                      $a$d$a$x
+                                            $t              $c  $a$c$d$b$c  $x
+                                              $t          $c$a$e  $c$b$d$a  $c$x
                                                       $b$c$a$e$b  $a$b$d$a$e$a$c$x
                                                       $b$a$e$b$d$b$a$b$d$a$b$e$c$b$x
                                                       $b  $a$e$b  $a$b$d$a$b$e$c$b$x

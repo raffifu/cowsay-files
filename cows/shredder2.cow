@@ -16,12 +16,10 @@ $i = "\e[48;5;8m  ";
 $j = "\e[48;5;235m  ";
 
 $the_cow = <<EOC
-                                    $t
-                                      $t
                                         $t                          $a$x
                                           $t                      $a$b$a$x
                                             $t                    $a$c$a$x
-                                                            $a      $c$b$a  $x
+                                              $t            $a      $c$b$a  $x
                                                           $a$d$e  $a$b$c$d  $a$x
                                                       $b$a$d$e$b  $d$b$c$d$e$d$a$x
                                                       $b$d$e$b$c$b$d$b$c$d$b$e$a$b$x
@@ -66,5 +64,4 @@ $the_cow = <<EOC
                                                       $a                          $h$a  $x
                                                   $a    $d  $e  $b      $e    $d$a$h$a  $x
                                                 $a  $h$a$d  $e  $b      $e    $d$a$d$h$a  $x
-                                              $a$h$d$a$d  $e  $b        $e    $d  $a$h$a  $x
 EOC

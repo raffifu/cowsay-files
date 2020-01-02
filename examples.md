@@ -695,6 +695,10 @@ X################,      -$=X#######@:
 ```
 
 
+## broken-image.cow
+<img src="converter/src_images/broken-image.png" height="200" />
+
+
 ## bruce.cow
 <img src="converter/src_images/bruce.png" height="200" />
 
@@ -3224,6 +3228,10 @@ o        o         o      o     +
 
 ## rick-and-morty-running.cow
 <img src="converter/src_images/rick-and-morty-running.png" height="200" />
+
+
+## rick-and-morty-split.cow
+<img src="converter/src_images/rick-and-morty-split.png" height="200" />
 
 
 ## rick-and-morty.cow
