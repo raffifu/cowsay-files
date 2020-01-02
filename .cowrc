@@ -166,7 +166,7 @@ PIXEL_COWS=(
   #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
 
   #Peanuts
-  "charlie-brown" "snoopy" "linus" "schroeder" "woodstock"
+  "charlie-brown" "snoopy" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "linus" "schroeder" "woodstock"
 
   #Pokemon
   "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo2"
@@ -242,8 +242,9 @@ PIXEL_COWS=(
 )
 
 #minimal list of cows
-ZPIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
+PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
+            "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
             "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
             "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split")
 

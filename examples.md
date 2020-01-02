@@ -3524,6 +3524,10 @@ LOL===__        \
 <img src="converter/src_images/shrek.png" height="200" />
 
 
+## shyguy.cow
+<img src="converter/src_images/shyguy.png" height="200" />
+
+
 ## simba.cow
 <img src="converter/src_images/simba.png" height="200" />
 
@@ -3590,6 +3594,18 @@ LOL===__        \
 
 ## snoopy-error.cow
 <img src="converter/src_images/snoopy-error.png" height="200" />
+
+
+## snoopy-sleep.cow
+<img src="converter/src_images/snoopy-sleep.png" height="200" />
+
+
+## snoopy-turkey.cow
+<img src="converter/src_images/snoopy-turkey.png" height="200" />
+
+
+## snoopy-woodstock.cow
+<img src="converter/src_images/snoopy-woodstock.png" height="200" />
 
 
 ## snoopy.cow
