@@ -218,6 +218,7 @@ PIXEL_COWS=(
   "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
   "bond" "doomguy" "deus-ex" #"assassin" "assassin2" "wheatley" "power-armor"
   "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" "spyro" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
+  "kk-slider"
 
   #Hindu gods
   #"ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
@@ -233,6 +234,7 @@ PIXEL_COWS=(
   #"mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
   "firefox" #"wyvern" "npc"
+  "koolaid"
 
   "hobo" "hobo2" "minion" "minion"
 
@@ -244,6 +246,7 @@ PIXEL_COWS=(
 #minimal list of cows
 PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
+            "shyguy" "kk-slider" "koolaid"
             "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
             "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
             "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split")
@@ -378,7 +381,8 @@ pixelsay(){
   if [ "$1" == "" ] ; then
     COWTEXT=`cat -`
   fi
-  echo $COWTEXT | cowsay -n -f $RANDOMCOW
+
+  echo $COWTEXT | cowsay -n -f `randomcow`
 }
 
 errorsay(){
@@ -398,6 +402,21 @@ errorsay(){
     COWTEXT=`cat -`
   fi
   echo $COWTEXT | cowsay -n -f $RANDOMCOW
+}
+
+randomcow(){
+  NUM_COWS=${#PIXEL_COWS[@]}
+  RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
+  COWNAME=${PIXEL_COWS[$RAND_INDEX]}.cow
+  if [ $USE_TRUE_COLOR = true ]; then
+    FILE=${COWS_DIR}/true-color/${COWNAME}
+    if test -f "$FILE"; then
+      COWNAME="true-color/${COWNAME}"
+    fi
+  fi
+  RANDOMCOW=${COWS_DIR}/$COWNAME
+
+  echo $RANDOMCOW
 }
 
 alias cows="cd $COWS_DIR"
