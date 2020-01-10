@@ -233,20 +233,16 @@ PIXEL_COWS=(
   "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
   #"mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
-  "firefox" #"wyvern" "npc"
+  "firefox" "tux-color" #"wyvern" "npc"
   "koolaid"
 
   "hobo" "hobo2" "minion" "minion"
-
-  #Increased frequency duplicates
-  "fsm-creation" "fsm-creation" "fsm-creation"
-  "rick-and-morty-split" "rick-and-morty-split" "rick-and-morty-split"
 )
 
 #minimal list of cows
 PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
-            "shyguy" "kk-slider" "koolaid"
+            "shyguy" "kk-slider" "koolaid" "tux-color"
             "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
             "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
             "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split")

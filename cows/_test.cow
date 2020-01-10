@@ -1,6 +1,6 @@
 # Cowsay test file
 
-$x = "\e[49m  ";          #reset color
+$x = "\e[49m  ";          #reset color FxhkEZoBcgA
 $t = "$thoughts ";
 $a = "\e[48;5;74m  ";
 $b = "\e[48;5;81m  ";

@@ -2055,6 +2055,10 @@ jgs
 ```
 
 
+## kk-slider.cow
+<img src="converter/src_images/kk-slider.png" height="200" />
+
+
 ## klungo.cow
 <img src="converter/src_images/klungo.png" height="200" />
 
@@ -2082,6 +2086,10 @@ jgs
 
 ## knuckles2.cow
 <img src="converter/src_images/knuckles2.png" height="200" />
+
+
+## koolaid.cow
+<img src="converter/src_images/koolaid.png" height="200" />
 
 
 ## krishna.cow
@@ -3005,6 +3013,10 @@ o        o         o      o     +
 
 ## poison-ivy.cow
 <img src="converter/src_images/poison-ivy.png" height="200" />
+
+
+## pokemon-trainers.cow
+<img src="converter/src_images/pokemon-trainers.png" height="200" />
 
 
 ## pooh.cow
@@ -4050,6 +4062,10 @@ LOL===__        \
    `'.:::::::::::88888888888.88:::::::::'
          `':::_:' -- '' -'-' `':_::::'`
 ```
+
+
+## tux-color.cow
+<img src="converter/src_images/tux-color.png" height="200" />
 
 
 ## tweety-bird.cow
