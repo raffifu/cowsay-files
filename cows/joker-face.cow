@@ -1,0 +1,73 @@
+# Joker
+# sprite from Adventure of Batman and Robin (SNES)
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;233m  ";
+$b = "\e[48;5;234m  ";
+$c = "\e[48;5;22m  ";
+$d = "\e[48;5;59m  ";
+$e = "\e[48;5;248m  ";
+$f = "\e[48;5;246m  ";
+$g = "\e[48;5;235m  ";
+$h = "\e[48;5;53m  ";
+$i = "\e[48;5;89m  ";
+$j = "\e[48;5;88m  ";
+$k = "\e[48;5;52m  ";
+$l = "\e[48;5;94m  ";
+$m = "\e[48;5;136m  ";
+$n = "\e[48;5;168m  ";
+$o = "\e[48;5;24m  ";
+
+$the_cow = <<EOC
+          $t
+            $t
+              $t
+                $t                                $a    $x
+                  $t                          $a          $x
+                                          $a          $x                    $a  $x
+                                      $a                      $x      $a      $x
+                        $a$x        $a                                      $x
+                        $a  $x    $a          $b$c      $b$a                    $x
+                          $a            $b$c              $b$a                $x
+                          $a                        $b$c  $b$a                $x
+                            $a          $d  $a        $c$b$a  $d  $a        $x
+                            $a          $e    $d$a        $d      $a        $x
+                              $a        $f$e      $a    $f$d      $a      $x
+                              $a          $e        $a$f$e  $d  $a        $x
+                $g  $x          $a        $e                $d  $a      $x
+                $g$f$g$x        $a      $g$f$e              $f$d$g$a    $x
+                $g$e$g$x          $a$f$a$d$g$d$f            $d$g$d$a$d$a$x
+                $g$e$g$x          $a$e$a$e$g$e$a$d$g$d$g$d$a$e$g$d$a$f$a$b$x      $b  $h  $b$x
+          $b    $g$f$g$b  $x      $a$d$a$e$f$g$e$f$g$e$g$f$e$g$d$f$a$d$a$h$b      $h$i      $b  $x
+        $b$i    $g$f$g$i$h$b        $a$g$e  $f$g  $d$e$d$g  $d$f  $g$a$h  $b$h      $i      $h  $b  $x
+      $b$i      $g$f$g$i$h  $i  $h$b$h$g$d$j$d$f$a$f$e$f$a$d  $j$d$g$b$h    $b$h  $i        $h  $i  $h  $x
+      $b$h$i    $g$e$g$i$h$g  $h$b$h  $g$e$k$j$d  $g$f$g$d  $j$k$d$g$b$h    $b$h  $i        $h$i        $h$b$x
+      $b$h  $i  $g$d$g$i$g$d$f$a$i$h  $g$e$k$l$j    $g$j    $l$k$d$g$b$h      $b$i          $h$i          $h$b$x
+    $b$i$b$h    $d$e$d$g$a$d$a$b$i  $h  $g$e$k$m$l$m$l$m$l$m$k$d$g$l$b$h      $b$i        $h$b$i          $h  $b$x
+  $b$i  $b$h    $d$e    $f$a$b$h  $i  $h$g$e$k$l  $m$l$m$l  $k$d$g$l$b$h      $i$h$i      $h$b$i        $h  $i  $h$x
+$b  $i  $b$h  $g$d$f$d$g  $a$h    $i  $h$g$f$e$k$l        $k$d  $g$l$b$h    $i  $h$i    $h$b$h$i      $b$h$i      $h  $x
+$i  $h$i$h$b$h$g$e      $f$g$h  $i    $b$l$g$e$k$l$m$l$m$l$k$d$g$l  $b$h  $i  $h$i    $h  $b$h$i  $h$b$h$i            $h$x
+$i    $b$h$b$h$g$e$f$d$g  $a$b$i      $b$l$g$f$e$k$m$l$m$k$d  $g    $b$h$i  $h$i  $h      $b$h$i$h$b$h$i                $h$x
+$i      $h  $g$d$e      $f$g$h$b$i  $b$l    $g$e$j        $d$g$l    $b$i  $h$b        $h  $b$h  $b$h  $i                  $h$x
+$i  $h$i$h  $g$e  $d$g    $a$b$h$i  $b$l    $g$f$e$j    $d  $g$l    $b$i            $b  $h$b$h$b$h    $i          $h  $i    $h$x
+$i  $h    $g$d$e$d$e    $f$a$h  $i  $b$l$m$l  $g$e  $d    $g$l  $m  $h$i            $b$h$b$h$b$h        $i    $h      $i      $h$x
+$i$h      $g$f$e  $f$d$a$d$a$h  $i  $b$l$m  $l$g$f$e$d    $g$l$m    $h$i    $h    $i$b$h$b  $h            $b      $h  $i        $h$x
+$i$h$g    $d$e    $d  $a$b$h  $i    $b$l$m  $l$b$g$e$f$d$g$b$l$m    $h$i  $h$n    $h$b$h$b$h        $b    $h        $i            $h$x
+$h$g$e$g$d$e    $f$d  $a$b$h$i      $b$l$m    $b$o$g    $a$b$l$m    $h$i$h$n        $b    $h  $b    $h            $i                $h$x
+$b$e$g$d$e      $d  $a$h$b$i        $b$l$m    $b  $o$b$o$b$o$b$m    $h$i$b$i$n$i$n$i$b        $h                  $i                  $h$x
+$b$e$g$d$e  $f$d    $a$h$i$b$i      $b$l$m  $b$o$b$o$b$o$b$o  $b$m  $h$i$h$b$i    $b$h$b        $h                  $i                  $h$x
+$h$e$g$d          $a$h$i  $b$i      $b$l$m  $b$o$b$o$b$o  $b$o$b$m  $h$i$h  $b$i$b$h  $b$x      $b  $h                  $i                $b$x
+$h$d$e$g$d      $a$i        $h$i    $b$l$m  $b    $o$b  $o$b    $l$m$h$i  $h  $b$h    $b$x          $b  $h              $i    $h  $i    $h  $b$x
+$h$g$d  $g$a    $i          $h$i    $b$l$m    $b$o  $b  $o$b$l    $h$i    $h$b$h      $b$x              $b$h          $i  $h    $i    $h    $b$x
+$b$d$g$d  $g$a$h$i            $h$i$h$b$l$m    $b$o$b$l$b$o$b$l$m  $h$i  $h  $b$h      $b$x                $b$h      $i$h  $b$h$i    $h      $b$x
+$h$b$a      $b$h    $i        $b$h    $b$m  $b$o  $b$l$b$o$b$l$m  $h$i$h  $b$h      $b$x                    $b$h      $b  $i      $h      $b$x
+$h  $b      $h$b$h              $b$h  $b$m  $b$o$b$l$m$b$o$b$l$m  $b$h  $b$h        $b$x                      $b$h  $b$h$i      $h$i  $h  $b$x
+$h          $b$x$b$h              $b$h$b$l$m$b$o$b$l$m$b$o$b$l$m$l$b$h  $b$h        $b$x                      $b$h$b$h$i    $h  $i    $h  $b$x
+$h        $b$x  $b$h              $b$h  $b$m$b$o$b$l$m$b    $l    $b$h$b$h          $b$x                      $b  $h$i              $h  $b$x
+$h      $b$x      $b$h              $b$h$b$l$b    $l            $b$h  $b$h        $b$x                        $b$h$i              $h    $b$x
+$h    $b$x        $b$h                $b$h$b$l                  $b$h$b$h          $b$x                      $b$h$i                $h  $b$x
+$b    $x            $b$h              $b$h$b$l                  $b$h$b$h          $b$x                      $b$h$i              $h    $b$x
+$h$b$x              $b$h                $b  $l                  $b  $h            $b$x                      $b$h$i            $h    $b$x
+EOC

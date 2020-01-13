@@ -1972,6 +1972,10 @@ jgs
 <img src="converter/src_images/john-snow.png" height="200" />
 
 
+## joker-face.cow
+<img src="converter/src_images/joker-face.png" height="200" />
+
+
 ## joker-toon.cow
 <img src="converter/src_images/joker-toon.png" height="200" />
 
@@ -2989,6 +2993,10 @@ o        o         o      o     +
 <img src="converter/src_images/plutonian.png" height="200" />
 
 
+## plutonians.cow
+<img src="converter/src_images/plutonians.png" height="200" />
+
+
 ## pod.cow
 ```
  _____ 
@@ -3280,6 +3288,10 @@ o        o         o      o     +
 
 ## robin.cow
 <img src="converter/src_images/robin.png" height="200" />
+
+
+## robin2.cow
+<img src="converter/src_images/robin2.png" height="200" />
 
 
 ## robocop.cow
@@ -4025,6 +4037,10 @@ LOL===__        \
 ```
 
 
+## toucan.cow
+<img src="converter/src_images/toucan.png" height="200" />
+
+
 ## trogdor.cow
 <img src="converter/src_images/trogdor.png" height="200" />
 
@@ -4100,6 +4116,10 @@ LOL===__        \
                          :   :
                         .'   '.
 ```
+
+
+## twoface-toon.cow
+<img src="converter/src_images/twoface-toon.png" height="200" />
 
 
 ## twoface.cow

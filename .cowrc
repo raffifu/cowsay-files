@@ -100,11 +100,11 @@ PIXEL_COWS=(
   "dog" "head" "meeseeks" "scary-terry" #"scary-terry-face"
 
   #Adult Swim characters
-  "mooninites" "master-shake" "frylock" "meatwad" "carl" "ignignokt" "err"
+  "mooninites" "master-shake" "frylock" "meatwad" "carl" "ignignokt" "err" "plutonians"
   "space-ghost" "space-ghost2" "moltar" "zorak"
 
   #Batman
-  "batman" "batman2" "robin" "alfred" #"batman-genesis" "catwoman"
+  "batman" "batman2" "robin" "robin2" "alfred" #"batman-genesis" "catwoman"
   #"riddler" "joker-toon" "joker" "twoface" "mr-freeze" "ventriloquist" "riddler" "poison-ivy" "penguin"
 
   #Banjo Kazooie
@@ -234,18 +234,18 @@ PIXEL_COWS=(
   #"mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
   "firefox" "tux-color" #"wyvern" "npc"
-  "koolaid"
+  "koolaid" "toucan"
 
   "hobo" "hobo2" "minion" "minion"
 )
 
 #minimal list of cows
-PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
+XPIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
-            "shyguy" "kk-slider" "koolaid" "tux-color"
+            "shyguy" "kk-slider" "koolaid" "tux-color" "toucan" "robin2"
             "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
             "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
-            "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split")
+            "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split" "plutonians")
 
 #Cows used for displaying error messages with errorsay
 ERROR_COWS=(
@@ -287,7 +287,7 @@ ERROR_COWS=(
   "jaws"
   "jesus-ripped"
   "jigsaw"
-  "joker" "joker-toon"
+  "joker" "joker-toon" "joker-face"
   "khal-drogo"
   "krueger"
   "leonardo-error"
@@ -313,7 +313,6 @@ ERROR_COWS=(
   "power-armor"
   "raphael-error"
   "raphael-error2"
-  "rick-and-morty-split"
   "ripster"
   "riddler"
   "raptor"
@@ -335,7 +334,7 @@ ERROR_COWS=(
   "terminator"
   "this-is-fine"
   "trogdor"
-  "twoface"
+  "twoface" "twoface-toon"
   "venom"
   "ventriloquist"
   "white-walker"
