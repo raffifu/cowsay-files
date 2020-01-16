@@ -2000,6 +2000,10 @@ jgs
 <img src="converter/src_images/kermit.png" height="200" />
 
 
+## kermit2.cow
+<img src="converter/src_images/kermit2.png" height="200" />
+
+
 ## khal-drogo.cow
 <img src="converter/src_images/khal-drogo.png" height="200" />
 
@@ -2455,6 +2459,10 @@ C{ ( o o )}
 
 ## melisandre.cow
 <img src="converter/src_images/melisandre.png" height="200" />
+
+
+## meowth.cow
+<img src="converter/src_images/meowth.png" height="200" />
 
 
 ## metaknight.cow
@@ -3686,6 +3694,14 @@ LOL===__        \
 
 ## spiderman.cow
 <img src="converter/src_images/spiderman.png" height="200" />
+
+
+## spiderman2.cow
+<img src="converter/src_images/spiderman2.png" height="200" />
+
+
+## spiderman3.cow
+<img src="converter/src_images/spiderman3.png" height="200" />
 
 
 ## splinter.cow

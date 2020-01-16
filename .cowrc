@@ -157,7 +157,7 @@ PIXEL_COWS=(
   "link" "link-toon" "link-windwaker" "link-champion" "link-glider"
   "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark"
   "link-shorts" "link-awaken" "link-stealth" "link-surf" #"ganondorf"
-  "mario" "luigi" "super-mario-world" "yoshi"
+  "mario" "luigi" "super-mario-world" "yoshi" "shyguy"
   "marth" "marth-black" "ROB" "captain-falcon" "captain-falcon2" "ness"
   #"falco" "starfox" "starfox3"
   "kirby" #"metaknight" "ike"
@@ -197,7 +197,7 @@ PIXEL_COWS=(
   #Super Heroes
   "cyclops" "superman" "gambit" #"wolverine-snes" "wolverine-genesis"
   "wolverine" "superman-batman" #"superman-flying" "ironman" #"ironman2" "one-punch-man"
-  "spiderman" "deadpool-face" #"deadpool" "captain-america" #"thor" "hulk" #"venom"
+  "spiderman" "spiderman2" "spiderman3" "deadpool-face" #"deadpool" "captain-america" #"thor" "hulk" #"venom"
 
   #Team Fortress
   "tf2-engineer" "tf2-spy" "tf2-spy2" "tf2-spy-knife"
@@ -229,21 +229,21 @@ PIXEL_COWS=(
   "ghostbusters" "the-dude" "donald" "leprechaun"
   "wall-e-plant" "shrek" "donkey" #"wall-e" "col-sanders"
   "the-jesus" "lebowski-walter" #"cthulhu" "bsod" "death" "jesus-ripped"
-  "lahey" "doc-and-marty" "neo" "smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
-  "lumbergh" "indiana-jones" "alf" "robocop" "robocop2" #"milton"
+  "lahey" "doc-and-marty" "neo" #"smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
+  "lumbergh" "indiana-jones" #"alf" "robocop" "robocop2" #"milton"
   #"mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
-  "firefox" "tux-color" #"wyvern" "npc"
+  "tux-color" #"wyvern" "npc" "firefox"
   "koolaid" "toucan"
 
   "hobo" "hobo2" "minion" "minion"
 )
 
 #minimal list of cows
-XPIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
+MIN_PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
             "shyguy" "kk-slider" "koolaid" "tux-color" "toucan" "robin2"
-            "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
+            "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "spiderman3"
             "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
             "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split" "plutonians")
 
