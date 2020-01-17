@@ -1,0 +1,68 @@
+# Bojack Horseman
+# by /r/place users - https://www.reddit.com/r/BoJackHorseman/comments/630ons/regarding_the_rplace_bojack/
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;235m  ";
+$b = "\e[48;5;137m  ";
+$c = "\e[48;5;231m  ";
+$d = "\e[48;5;184m  ";
+$e = "\e[48;5;245m  ";
+$f = "\e[48;5;254m  ";
+$g = "\e[48;5;250m  ";
+$h = "\e[48;5;217m  ";
+$i = "\e[48;5;20m  ";
+$j = "\e[48;5;172m  ";
+
+$the_cow = <<EOC
+          $t                        $a    $x$a$x  $a  $x
+            $t                    $a    $x$a            $x
+              $t                  $a                      $x
+                $t      $a$x      $a                        $x
+                  $t  $a$b$a$x  $a                            $x
+                      $a$b  $a                              $x
+                      $a$b$a$b  $a                            $x
+                      $a$b  $a$b    $a          $b  $a      $x
+                        $a$b  $a$b    $a  $b            $a$x
+                        $a$b    $a$b            $a  $b    $a$x
+                        $a  $b    $a$b          $a$c$a  $b  $a$x    $a    $x
+                            $a  $b                $a$c  $a$b  $a    $d    $a$x
+                      $a          $b              $a$c    $a$b$a$d  $e    $d$a$x
+                        $a        $b                $a$c  $f$a$d  $e      $d$a$x
+                        $a        $b                  $a    $d$c$d$e  $g$f$d$a$x
+                          $a      $b              $a  $d    $c  $d  $e$f  $d$a$x
+                            $a    $b            $a$d  $e    $d  $a$d      $a$x
+                      $a        $b            $a$d$e        $d$a$c$a        $x
+                        $a      $b          $a$d$e          $d$a$c$a$b      $a$x
+                          $a    $b    $a      $d$e      $g$f$d$a  $b      $a      $x
+                          $a          $d        $e      $f  $d$a$b        $a$c    $a$x
+                          $a    $d        $a    $d$e  $f  $d$a$b            $a$c    $a$x
+                      $a                  $b    $a$d      $a$b              $a$c      $a$x
+                      $a        $b    $a$b        $a      $b                  $a$c      $a$x
+                        $a        $b    $a$b                                    $a$c      $a$x
+                          $a      $b    $a$b                                      $a$c      $a$x
+                            $a    $b      $a$b                $a$b                $a$c        $a$x
+                        $a        $b      $a  $b              $a$b                  $a$g$c$h  $a$x
+                          $a        $b      $a$b              $a$b                $a    $h      $a$x
+                            $a      $b        $a  $b        $a  $b                $a    $h        $a$x
+                              $a    $b            $a        $b  $a    $b            $a    $h      $a$x
+                                $a    $b                              $a  $b          $a  $h      $a$x
+                            $a        $b                              $a$x$a$b$a    $b    $a$h    $a$x
+                              $a      $b                                $a$x$a$b    $a$b  $a$h  $a$x
+                                $a    $b                                  $a$x$a$b    $a        $x
+                                  $a  $b                                  $a$x  $a      $x  $a$d$a$x
+                                  $a  $b                                    $a$x              $a$d$a$x
+                                    $a$b                                      $a  $x            $a$e$a$x
+                                    $a$b                                      $a$e$a  $x          $a$g$a$x
+                                    $a  $b                                    $a$e    $a$x          $a  $x
+    $a                                  $b                                    $a  $e    $a  $x
+  $a$b$a$b                          $a$e$a$b                                    $a  $e      $a$x
+  $a$b$a$b                        $a$e  $a$b                                  $a$i  $a$e    $a$x
+    $a$b$a$b                      $a$e    $a  $b                            $a$i  $a$i$a$e    $a$x
+    $a$b$a                          $e        $a  $b                  $a    $i  $a$i    $a$e  $a$x
+      $a$b$a$j                  $a$e              $a                  $i      $a$i$a  $i  $a$e  $a$x
+      $a$b$a$j                  $a$e                $a  $i              $a    $i    $a$i  $a$e  $a$x
+        $a$b$a$j              $a$e                      $a$i$a          $i                  $a$e  $a$x
+        $a$b$a$j              $a$e                        $a$i            $a$i$a$i  $a  $i$a$i$a$e  $a$x
+EOC

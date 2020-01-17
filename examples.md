@@ -598,6 +598,18 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 <img src="converter/src_images/boggy.png" height="200" />
 
 
+## bojack.cow
+<img src="converter/src_images/bojack.png" height="200" />
+
+
+## bojack2.cow
+<img src="converter/src_images/bojack2.png" height="200" />
+
+
+## bojack3.cow
+<img src="converter/src_images/bojack3.png" height="200" />
+
+
 ## bokoblin.cow
 <img src="converter/src_images/bokoblin.png" height="200" />
 
@@ -2646,6 +2658,10 @@ C{ ( o o )}
 <img src="converter/src_images/mr-pb.png" height="200" />
 
 
+## mr-peanutbutter.cow
+<img src="converter/src_images/mr-peanutbutter.png" height="200" />
+
+
 ## mr-robot-hal.cow
 <img src="converter/src_images/mr-robot-hal.png" height="200" />
 
@@ -3057,6 +3073,10 @@ o        o         o      o     +
 
 ## power-armor.cow
 <img src="converter/src_images/power-armor.png" height="200" />
+
+
+## princess-carolyn.cow
+<img src="converter/src_images/princess-carolyn.png" height="200" />
 
 
 ## prof.cow
@@ -4033,6 +4053,10 @@ LOL===__        \
 
 ## tobias.cow
 <img src="converter/src_images/tobias.png" height="200" />
+
+
+## todd.cow
+<img src="converter/src_images/todd.png" height="200" />
 
 
 ## tombraider.cow

@@ -114,6 +114,9 @@ PIXEL_COWS=(
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
 
+  #Bojack Horseman
+  "bojack" "bojack2" "bojack3" "mr-peanutbutter" "todd" "princess-carolyn"
+
   #Cartoons
   "roadrunner" "roadrunner2" "wile-e-coyote2" "bugs-bunny"
   "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
@@ -235,14 +238,14 @@ PIXEL_COWS=(
   "liberty" #"mr-robot-hal" "guy-fawkes"
   "tux-color" #"wyvern" "npc" "firefox"
   "koolaid" "toucan"
-
-  "hobo" "hobo2" "minion" "minion"
+  #"hobo" "hobo2" "minion" "minion"
 )
 
 #minimal list of cows
 MIN_PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
             "shyguy" "kk-slider" "koolaid" "tux-color" "toucan" "robin2"
+            "bojack" "todd" "mr-peanutbutter"
             "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "spiderman3"
             "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
             "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split" "plutonians")
