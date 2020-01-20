@@ -586,6 +586,10 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 <img src="converter/src_images/boba-fett.png" height="200" />
 
 
+## boba-fett2.cow
+<img src="converter/src_images/boba-fett2.png" height="200" />
+
+
 ## bobross.cow
 <img src="converter/src_images/bobross.png" height="200" />
 
@@ -3786,8 +3790,16 @@ LOL===__        \
 ```
 
 
+## stormtrooper-error.cow
+<img src="converter/src_images/stormtrooper-error.png" height="200" />
+
+
 ## stormtrooper.cow
 <img src="converter/src_images/stormtrooper.png" height="200" />
+
+
+## stormtrooper2.cow
+<img src="converter/src_images/stormtrooper2.png" height="200" />
 
 
 ## streex.cow
@@ -4522,6 +4534,10 @@ LOL===__        \
 
 ## boba-fett.cow
 <img src="converter/src_images/boba-fett-tc.png" height="200" />
+
+
+## boba-fett2.cow
+<img src="converter/src_images/boba-fett2.png" height="200" />
 
 
 ## bobross.cow

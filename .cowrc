@@ -193,8 +193,8 @@ PIXEL_COWS=(
 
   #Star Wars
   "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" #"greedo"
-  "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "chewbacca"
-  #"darth-vader" "phasma" "palpatine" "stormtrooper" "vader"
+  "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "boba-fett2" "chewbacca"
+  #"darth-vader" "phasma" "palpatine" "stormtrooper" "stormtrooper2" "vader" "vader-toon"
   #"true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
 
   #Super Heroes
@@ -242,13 +242,14 @@ PIXEL_COWS=(
 )
 
 #minimal list of cows
-MIN_PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "hank-hill" "dale" "peter" "bugs-bunny" "r2d2"
+PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "peter" "bugs-bunny" "r2d2"
             "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
-            "shyguy" "kk-slider" "koolaid" "tux-color" "toucan" "robin2"
+            "shyguy" "kk-slider" "koolaid" "tux-color" "robin2"
             "bojack" "todd" "mr-peanutbutter"
+            "boba-fett2" "stormtrooper2"
             "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "spiderman3"
-            "it-crowd" "kermit" "link-surf" "pickle-rick-face" "rick-and-morty-running" "ron-swanson"
-            "space-ghost" "strongbad" "tim" "tails2" "tobias-8bit" "wall-e-plant" "hermes" "rick-and-morty-split" "plutonians")
+            "it-crowd" "kermit" "rick-and-morty-running" "ron-swanson"
+            "space-ghost" "strongbad" "tails2" "tobias-8bit" "hermes" "rick-and-morty-split" "plutonians")
 
 #Cows used for displaying error messages with errorsay
 ERROR_COWS=(
@@ -330,6 +331,8 @@ ERROR_COWS=(
   "smith"
   "snoopy-error"
   "sonic-error"
+  "stormtrooper-error"
+  "stormtrooper2"
   "streex"
   "superman-cyborg"
   "tails-error"
@@ -338,6 +341,7 @@ ERROR_COWS=(
   "this-is-fine"
   "trogdor"
   "twoface" "twoface-toon"
+  "vader"
   "venom"
   "ventriloquist"
   "white-walker"
