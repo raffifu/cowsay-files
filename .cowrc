@@ -474,4 +474,8 @@ palette(){
   done
 }
 
+examplecows() {
+  ${COWSAY_FILES}/make-examples.sh
+}
+
 randomfortune
