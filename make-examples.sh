@@ -2,25 +2,30 @@
 
 for cowfile in cows/*.cow; do
   cowname=$(basename $cowfile)
-  echo ""
-  echo "## ${cowname}"
-  cowname="${cowname%.*}"
+  firstchar=${cowname:0:1}
 
-  imgname=""
+  if [ $firstchar != "_" ]; then
+    # skip any cows that start with _, these are test cows
+    echo ""
+    echo "## ${cowname}"
+    cowname="${cowname%.*}"
 
-  #check if image file matching this cow name exists
-  FILE=converter/src_images/${cowname}.png
-  if test -f "$FILE"; then
-    imgname="$FILE"
+    imgname=""
+
+    #check if image file matching this cow name exists
+    FILE=converter/src_images/${cowname}.png
+    if test -f "$FILE"; then
+      imgname="$FILE"
+    fi
+    if [ -z "$imgname" ]; then  #if cow doesn't have a png image related, then just print the cow normally
+        echo '```'
+        cowsay -f ${cowfile} "$cowname"
+        echo '```'
+    else # otherwise insert an image tag for the source image
+      echo "<img src=\"$imgname\" height=\"200\" />"
+    fi
+    echo ""
   fi
-  if [ -z "$imgname" ]; then  #if cow doesn't have a png image related, then just print the cow normally
-      echo '```'
-      cowsay -f ${cowfile} "$cowname"
-      echo '```'
-  else # otherwise insert an image tag for the source image
-    echo "<img src=\"$imgname\" height=\"200\" />"
-  fi
-  echo ""
 done
 
 

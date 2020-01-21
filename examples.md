@@ -932,6 +932,14 @@ M###################@%=           =+%
 ```
 
 
+## chester.cow
+<img src="converter/src_images/chester.png" height="200" />
+
+
+## chester2.cow
+<img src="converter/src_images/chester2.png" height="200" />
+
+
 ## chewbacca.cow
 <img src="converter/src_images/chewbacca.png" height="200" />
 
@@ -4184,6 +4192,10 @@ LOL===__        \
 
 ## tywin.cow
 <img src="converter/src_images/tywin.png" height="200" />
+
+
+## vader-toon.cow
+<img src="converter/src_images/vader-toon.png" height="200" />
 
 
 ## vader.cow

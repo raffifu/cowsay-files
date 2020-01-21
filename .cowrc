@@ -237,7 +237,7 @@ PIXEL_COWS=(
   #"mike-tyson" "wall-e2" "eve" #"raptor"
   "liberty" #"mr-robot-hal" "guy-fawkes"
   "tux-color" #"wyvern" "npc" "firefox"
-  "koolaid" "toucan"
+  "koolaid" "toucan" "chester" "chester2"
   #"hobo" "hobo2" "minion" "minion"
 )
 
@@ -249,6 +249,7 @@ PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "peter" "bugs-bunny" "r
             "boba-fett2" "stormtrooper2"
             "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "spiderman3"
             "it-crowd" "kermit" "rick-and-morty-running" "ron-swanson"
+            "chester" "chester2"
             "space-ghost" "strongbad" "tails2" "tobias-8bit" "hermes" "rick-and-morty-split" "plutonians")
 
 #Cows used for displaying error messages with errorsay
