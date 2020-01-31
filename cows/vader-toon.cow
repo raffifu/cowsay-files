@@ -2,10 +2,10 @@
 # by JBrosGaming - https://www.youtube.com/watch?v=f_USp9m9Dkc
 
 $x = "\e[49m  ";            #end color
-$k = "\e[48;5;235m  ";    #black
-$l = "\e[48;5;246m  ";    #light gray
-$y = "\e[48;5;240m  ";    #dark gray
-$d = "\e[48;5;238m  ";    #darker gray
+$k = "\e[48;5;234m  ";    #black
+$l = "\e[48;5;244m  ";    #light gray
+$y = "\e[48;5;239m  ";    #dark gray
+$d = "\e[48;5;237m  ";    #darker gray
 $w = "\e[107m  ";         #white
 $r = "\e[41m  ";          #red
 $g = "\e[48;5;70m  ";     #green

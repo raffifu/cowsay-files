@@ -55,6 +55,10 @@
 <img src="converter/src_images/ROB.png" height="200" />
 
 
+## ROB2.cow
+<img src="converter/src_images/ROB2.png" height="200" />
+
+
 ## USA.cow
 ```
  _____ 
@@ -2194,6 +2198,10 @@ jgs
 
 ## leprechaun.cow
 <img src="converter/src_images/leprechaun.png" height="200" />
+
+
+## lgm.cow
+<img src="converter/src_images/lgm.png" height="200" />
 
 
 ## liberty.cow
@@ -4557,7 +4565,7 @@ LOL===__        \
 
 
 ## bobross2.cow
-<img src="converter/src_images/bobross2.png" height="200" />
+<img src="converter/src_images/bobross2-tc.png" height="200" />
 
 
 ## boomhauer.cow

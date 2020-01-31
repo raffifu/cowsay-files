@@ -122,7 +122,7 @@ PIXEL_COWS=(
   "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
   "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "garfield2" "garfield-face" "donald-duck" "martian"
   "bart" "catdog" "homer-simpson" #"mr-burns" #"plankton" "spongebob" "rocko"
-  "abu" "abu-apple" "genie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" #"jafar"
+  "abu" "abu-apple" "genie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" "lgm" #"jafar"
   "wile-e-coyote" "abu-sword"
   "adventure-time" "calvin-and-hobbes" "calvin-and-hobbes2" "calvin" "hobbes" "hobbes2"
   "kermit" "cookie-monster" "cookie-monster2" "oscar" "oscar2" "oscar-face"
@@ -194,7 +194,7 @@ PIXEL_COWS=(
   #Star Wars
   "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" #"greedo"
   "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "boba-fett2" "chewbacca"
-  #"darth-vader" "phasma" "palpatine" "stormtrooper" "stormtrooper2" "vader" "vader-toon"
+  "stormtrooper2" #"darth-vader" "phasma" "palpatine" "stormtrooper" "vader" "vader-toon"
   #"true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
 
   #Super Heroes
@@ -242,15 +242,18 @@ PIXEL_COWS=(
 )
 
 #minimal list of cows
-PIXEL_COWS=("adventure-time" "bart" "batman" "bender-md" "peter" "bugs-bunny" "r2d2"
-            "dilbert" "donatello" "yoda2" "meatwad" "fsm2" "solid-snake" "hobbes"
-            "shyguy" "kk-slider" "koolaid" "tux-color" "robin2"
-            "bojack" "todd" "mr-peanutbutter"
-            "boba-fett2" "stormtrooper2"
-            "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "spiderman3"
-            "it-crowd" "kermit" "rick-and-morty-running" "ron-swanson"
-            "chester" "chester2"
-            "space-ghost" "strongbad" "tails2" "tobias-8bit" "hermes" "rick-and-morty-split" "plutonians")
+PIXEL_COWS=("fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
+            "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
+            "boba-fett2" "stormtrooper2" "vader"
+            "batman" "batman2" "robin2" "spiderman3" "donatello2"
+            "it-crowd" "moss" "kermit" "rick-and-morty-running" "rick-and-morty-split" "meeseeks"
+            "the-boss" "mooninites" "mumbo-jumbo"
+            "roberto" "calculon"
+            "hank" "dale"
+            "bobross" "bobross2"
+            "chester" "chester2" "shrek" "donkey"
+            "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
+            "space-ghost2" "strongbad" "cheat" "plutonians" "stewie" "jimmy")
 
 #Cows used for displaying error messages with errorsay
 ERROR_COWS=(
