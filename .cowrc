@@ -110,6 +110,7 @@ PIXEL_COWS=(
   #Banjo Kazooie
   "banjo-kazooie"  "banjo-kazooie2" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars"
   "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" #"humba-wumba" "grunty-broom" #"grunty" "gruntilda"
+  "yooka-laylee" "yooka" "laylee"
 
   #Bob's Burgers
   "bob" "bob2" "louise" "tina" "gene" "linda"
@@ -250,6 +251,7 @@ PIXEL_COWS=("fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
             "the-boss" "mooninites" "mumbo-jumbo"
             "roberto" "calculon"
             "hank" "dale"
+            "yooka-laylee" "yooka-laylee" "yooka-laylee" "yooka" "yooka" "laylee"
             "bobross" "bobross2"
             "chester" "chester2" "shrek" "donkey"
             "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"

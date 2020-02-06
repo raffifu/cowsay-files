@@ -2160,6 +2160,10 @@ jgs
 <img src="converter/src_images/larry2.png" height="200" />
 
 
+## laylee.cow
+<img src="converter/src_images/laylee.png" height="200" />
+
+
 ## lebowski-walter.cow
 <img src="converter/src_images/lebowski-walter.png" height="200" />
 
@@ -4476,6 +4480,14 @@ LOL===__        \
 
 ## yoda2.cow
 <img src="converter/src_images/yoda2.png" height="200" />
+
+
+## yooka-laylee.cow
+<img src="converter/src_images/yooka-laylee.png" height="200" />
+
+
+## yooka.cow
+<img src="converter/src_images/yooka.png" height="200" />
 
 
 ## yosemite-sam.cow
