@@ -239,11 +239,12 @@ PIXEL_COWS=(
   "liberty" #"mr-robot-hal" "guy-fawkes"
   "tux-color" #"wyvern" "npc" "firefox"
   "koolaid" "toucan" "chester" "chester2"
+  "cow" "cow2"
   #"hobo" "hobo2" "minion" "minion"
 )
 
 #minimal list of cows
-PIXEL_COWS=("fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
+PIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
             "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
             "boba-fett2" "stormtrooper2" "vader"
             "batman" "batman2" "robin2" "spiderman3" "donatello2"

@@ -1040,6 +1040,14 @@ M###################@%=           =+%
 <img src="converter/src_images/cookie-monster2.png" height="200" />
 
 
+## cow.cow
+<img src="converter/src_images/cow.png" height="200" />
+
+
+## cow2.cow
+<img src="converter/src_images/cow2.png" height="200" />
+
+
 ## cthulhu-mini.cow
 ```
  ______________ 
