@@ -3676,6 +3676,10 @@ LOL===__        \
 <img src="converter/src_images/snacker.png" height="200" />
 
 
+## snek.cow
+<img src="converter/src_images/snek.png" height="200" />
+
+
 ## snoopy-error.cow
 <img src="converter/src_images/snoopy-error.png" height="200" />
 
