@@ -186,8 +186,8 @@ PIXEL_COWS=(
   #"jaws" "jaws2" "shark-smiling"
 
   #Sonic
-  "sonic" "sonic2" "tails" "tails2" "knuckles2" "shadow" "shadow2"
-  #"dr-robotnik" "sonic3" "sonic4" "knuckles"
+  "sonic" "sonic2" "sonic3" "tails" "tails2" "knuckles2" "shadow" "shadow2"
+  #"dr-robotnik" "sonic4" "knuckles"
 
   #South Park
   "chef" "cartman" "kenny" "kyle" "stan" "barbrady" "jimmy" "mr-garrison"
@@ -245,7 +245,7 @@ PIXEL_COWS=(
 )
 
 #minimal list of cows
-PIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
+ZPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
             "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
             "boba-fett2" "stormtrooper2" "vader"
             "batman" "batman2" "robin2" "spiderman3" "donatello2"
