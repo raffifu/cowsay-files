@@ -1518,6 +1518,14 @@ $@#MX %+;-                           .
 <img src="converter/src_images/gambit.png" height="200" />
 
 
+## gamecube-controller.cow
+<img src="converter/src_images/gamecube-controller.png" height="200" />
+
+
+## gamecube.cow
+<img src="converter/src_images/gamecube.png" height="200" />
+
+
 ## gandalf.cow
 <img src="converter/src_images/gandalf.png" height="200" />
 
@@ -2745,6 +2753,10 @@ C{ ( o o )}
 <img src="converter/src_images/mumbo-jumbo.png" height="200" />
 
 
+## n64.cow
+<img src="converter/src_images/n64.png" height="200" />
+
+
 ## ned-stark.cow
 <img src="converter/src_images/ned-stark.png" height="200" />
 
@@ -3678,6 +3690,10 @@ LOL===__        \
 
 ## snek.cow
 <img src="converter/src_images/snek.png" height="200" />
+
+
+## snes.cow
+<img src="converter/src_images/snes.png" height="200" />
 
 
 ## snoopy-error.cow

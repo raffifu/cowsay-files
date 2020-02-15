@@ -240,6 +240,7 @@ PIXEL_COWS=(
   "tux-color" #"wyvern" "npc" "firefox"
   "koolaid" "toucan" "chester" "chester2"
   "cow" "cow2"
+  "n64" "gamecube" "gamecube-controller" "snes"
   #"hobo" "hobo2" "minion" "minion"
 )
 
@@ -252,9 +253,10 @@ PIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
             "the-boss" "mooninites" "mumbo-jumbo"
             "roberto" "calculon"
             "hank" "dale"
-            "yooka-laylee" "yooka-laylee" "yooka-laylee" "yooka" "yooka" "laylee"
+            "n64" "gamecube" "gamecube-controller" "snes"
+            "yooka-laylee" "yooka" "laylee"
             "bobross" "bobross2"
-            "chester" "chester2" "shrek" "donkey"
+            "chester" "chester2" "shrek" "donkey" "sonic3"
             "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
             "space-ghost2" "strongbad" "cheat" "plutonians" "stewie" "jimmy")
 
