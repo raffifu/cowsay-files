@@ -3318,6 +3318,10 @@ o        o         o      o     +
 <img src="converter/src_images/reddit.png" height="200" />
 
 
+## resetti.cow
+<img src="converter/src_images/resetti.png" height="200" />
+
+
 ## rick-and-morty-running.cow
 <img src="converter/src_images/rick-and-morty-running.png" height="200" />
 
@@ -3696,6 +3700,10 @@ LOL===__        \
 <img src="converter/src_images/snes.png" height="200" />
 
 
+## snoopy-doghouse.cow
+<img src="converter/src_images/snoopy-doghouse.png" height="200" />
+
+
 ## snoopy-error.cow
 <img src="converter/src_images/snoopy-error.png" height="200" />
 
@@ -3798,6 +3806,10 @@ LOL===__        \
 
 ## squanchy.cow
 <img src="converter/src_images/squanchy.png" height="200" />
+
+
+## squidward.cow
+<img src="converter/src_images/squidward.png" height="200" />
 
 
 ## squirtle.cow
@@ -4832,6 +4844,10 @@ LOL===__        \
 <img src="converter/src_images/raptor-tc.png" height="200" />
 
 
+## resetti.cow
+<img src="converter/src_images/resetti-tc.png" height="200" />
+
+
 ## roberto.cow
 <img src="converter/src_images/roberto-tc.png" height="200" />
 
@@ -4857,7 +4873,7 @@ LOL===__        \
 
 
 ## snowball.cow
-<img src="converter/src_images/snowball.png" height="200" />
+<img src="converter/src_images/snowball-tc.png" height="200" />
 
 
 ## solid-snake.cow

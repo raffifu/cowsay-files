@@ -170,7 +170,8 @@ PIXEL_COWS=(
   #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
 
   #Peanuts
-  "charlie-brown" "snoopy" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "linus" "schroeder" "woodstock"
+  "snoopy" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
+  "charlie-brown" "linus" "schroeder" "woodstock"
 
   #Pokemon
   "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo2"
@@ -222,7 +223,7 @@ PIXEL_COWS=(
   "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
   "bond" "doomguy" "deus-ex" #"assassin" "assassin2" "wheatley" "power-armor"
   "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" "spyro" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
-  "kk-slider"
+  "kk-slider" "resetti"
 
   #Hindu gods
   #"ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
@@ -250,14 +251,14 @@ ZPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
             "boba-fett2" "stormtrooper2" "vader"
             "batman" "batman2" "robin2" "spiderman3" "donatello2"
             "it-crowd" "moss" "kermit" "rick-and-morty-running" "rick-and-morty-split" "meeseeks"
-            "the-boss" "mooninites" "mumbo-jumbo"
+            "the-boss" "mooninites" "mumbo-jumbo" "resetti"
             "roberto" "calculon"
             "hank" "dale"
             "n64" "gamecube" "gamecube-controller" "snes"
             "yooka-laylee" "yooka" "laylee"
             "bobross" "bobross2"
             "chester" "chester2" "shrek" "donkey" "sonic3"
-            "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock"
+            "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
             "space-ghost2" "strongbad" "cheat" "plutonians" "stewie" "jimmy")
 
 #Cows used for displaying error messages with errorsay
@@ -326,6 +327,7 @@ ERROR_COWS=(
   "power-armor"
   "raphael-error"
   "raphael-error2"
+  "resetti"
   "ripster"
   "riddler"
   "raptor"
