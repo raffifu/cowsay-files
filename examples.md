@@ -88,6 +88,14 @@
 <img src="converter/src_images/abominable.png" height="200" />
 
 
+## abu-apple.cow
+<img src="converter/src_images/abu-apple.png" height="200" />
+
+
+## abu-sword.cow
+<img src="converter/src_images/abu-sword.png" height="200" />
+
+
 ## abu.cow
 <img src="converter/src_images/abu.png" height="200" />
 
@@ -3490,6 +3498,10 @@ LOL===__        \
 <img src="converter/src_images/scary-terry-face.png" height="200" />
 
 
+## scary-terry.cow
+<img src="converter/src_images/scary-terry.png" height="200" />
+
+
 ## schroeder.cow
 <img src="converter/src_images/schroeder.png" height="200" />
 
@@ -4577,11 +4589,11 @@ LOL===__        \
 
 
 ## abu-apple.cow
-<img src="converter/src_images/abu-apple.png" height="200" />
+<img src="converter/src_images/abu-apple-tc.png" height="200" />
 
 
 ## abu-sword.cow
-<img src="converter/src_images/abu-sword.png" height="200" />
+<img src="converter/src_images/abu-sword-tc.png" height="200" />
 
 
 ## admiral-ackbar.cow
@@ -4861,7 +4873,7 @@ LOL===__        \
 
 
 ## scary-terry.cow
-<img src="converter/src_images/scary-terry.png" height="200" />
+<img src="converter/src_images/scary-terry-tc.png" height="200" />
 
 
 ## scruffy.cow
