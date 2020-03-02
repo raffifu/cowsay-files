@@ -8,10 +8,10 @@ $d2 = "\e[48;5;238m   ";  #darker gray
 $o = "\e[48;5;216m  ";    #skin color
 $k = "\e[48;5;215m  ";    #skin color 2
 $s = "\e[48;5;246m  ";    #gray shirt
-$w = "\e[107m  ";         #white
-$r = "\e[41m  ";          #red
+$w = "\e[48;5;231m  ";         #white
+$r = "\e[48;5;160m  ";          #red
 $g = "\e[48;5;70m  ";     #green
-$y = "\e[48;5;11m  ";     #yellow
+$y = "\e[48;5;227m  ";     #yellow
 $m = "\e[48;5;178m  ";    #hamburger bun
 $t = "$thoughts ";
 

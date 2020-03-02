@@ -4,8 +4,8 @@
 $x = "\e[49m  ";          #reset color
 $k = "\e[48;5;235m  ";  #black
 $a = "\e[48;5;246m  ";  #gray
-$e = "\e[41m  ";        #red
-$w = "\e[107m  ";       #white
+$e = "\e[48;5;160m  ";        #red
+$w = "\e[48;5;231m  ";       #white
 $r = "\e[48;5;172m  ";  #brown 1
 $t = "$thoughts ";
 

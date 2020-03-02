@@ -3,7 +3,7 @@
 
 $x = "\e[49m  ";          #reset color
 $k = "\e[48;5;233m  ";  #fake black
-$w = "\e[107m  ";       #white
+$w = "\e[48;5;231m  ";       #white
 $g = "\e[48;5;40m  ";   #green
 $n = "\e[48;5;22m  ";   #green dark
 $e = "\e[48;5;32m  ";   #blue eyebrows

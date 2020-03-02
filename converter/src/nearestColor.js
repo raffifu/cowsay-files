@@ -383,8 +383,8 @@
    * of available colors to match.
    */
   nearestColor.BASH_COLORS = mapColors([
-     '#000000',    '#c91b00',    '#00c300',    '#c7c500',    '#0225c7',    '#ca30c7',    '#00c5c7',    '#c7c7c7',
-     '#686868',    '#ff6e67',    '#60fa67',    '#fffc67',    '#6971ff',    '#ff77ff',    '#5ffdff',    '#ffffff',
+     // '#000000',    '#c91b00',    '#00c300',    '#c7c500',    '#0225c7',    '#ca30c7',    '#00c5c7',    '#c7c7c7',
+     // '#686868',    '#ff6e67',    '#60fa67',    '#fffc67',    '#6971ff',    '#ff77ff',    '#5ffdff',    '#ffffff',
      '#000000',    '#000c5f',    '#011587',    '#011faf',    '#0328d7',    '#0433ff',    '#005f01',    '#005f60',
      '#005f87',    '#005fb0',    '#005fd7',    '#005fff',    '#008701',    '#01875f',    '#008787',    '#0087af',
      '#0087d7',    '#0087ff',    '#00af01',    '#00af5f',    '#00af87',    '#00afaf',    '#00afd7',    '#00aeff',
@@ -418,7 +418,7 @@
 
   var bashMap = {};
   nearestColor.BASH_COLORS.forEach(function(color, i) {
-    bashMap[color.source] = i;
+    bashMap[color.source] = i + 16; //skip first 16 colors since they differ per terminal config
   });
   nearestColor.BASH_MAP = bashMap;
 

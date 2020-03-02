@@ -4,11 +4,11 @@
 $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;236m  ";  #fake black
 $s = "\e[48;5;223m  ";  #skin color
-$w = "\e[107m  ";       #white
-$r = "\e[48;5;9m  ";    #red
+$w = "\e[48;5;231m  ";       #white
+$r = "\e[48;5;203m  ";    #red
 $l = "\e[48;5;75m  ";   #light blue
 $j = "\e[44m  ";        #blue pants
-$y = "\e[48;5;11m  ";   #yellow shirt
+$y = "\e[48;5;227m  ";   #yellow shirt
 $t = "$thoughts ";
 
 $the_cow = <<EOC;

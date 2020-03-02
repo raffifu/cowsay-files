@@ -3,11 +3,11 @@
 
 $x = "\e[49m  ";         #reset color
 $k = "\e[48;5;236m  "; #fake black
-$w = "\e[107m  ";      #white
-$r = "\e[48;5;1m  ";   #dark red
+$w = "\e[48;5;231m  ";      #white
+$r = "\e[48;5;160m  ";   #dark red
 $u = "\e[48;5;223m  ";  #skin color
 $j = "\e[48;5;80m  ";   #light blue
-$y = "\e[48;5;11m  ";  #yellow
+$y = "\e[48;5;227m  ";  #yellow
 $z = "\e[48;5;94m  ";   #dark brown
 $a = "\e[48;5;246m  ";  #gray
 $t = "$thoughts ";

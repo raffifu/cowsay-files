@@ -3,8 +3,8 @@
 
 $x = "\e[49m  ";          #reset color
 $k = "\e[48;5;235m  ";  #fake black
-$w = "\e[107m  ";       #white
-$l = "\e[48;5;14m  ";   #light blue
+$w = "\e[48;5;231m  ";       #white
+$l = "\e[48;5;87m  ";   #light blue
 $p = "\e[48;5;212m  ";  #pink
 $y = "\e[48;5;226m  ";   #yellow
 $t = "$thoughts ";

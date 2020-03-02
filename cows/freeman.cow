@@ -3,13 +3,13 @@
 
 $x = "\e[49m  ";            #reset color
 $k = "\e[48;5;235m  ";    #black
-$w = "\e[107m  ";         #white
+$w = "\e[48;5;231m  ";         #white
 $b = "\e[48;5;94m  ";     #brown
 $l = "\e[48;5;246m  ";    #light gray
 $d = "\e[48;5;240m  ";    #dark gray
 $s = "\e[48;5;223m  ";  #skin color
 $o = "\e[48;5;208m  ";    #orange
-$r = "\e[41m  ";          #red
+$r = "\e[48;5;160m  ";          #red
 $t = "$thoughts ";
 
 $the_cow = <<EOC;

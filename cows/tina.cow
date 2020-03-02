@@ -6,11 +6,11 @@ $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;236m  ";  #fake black
 $k = "\e[48;5;235m  ";  #fake black - glasses
 $s = "\e[48;5;223m  ";  #skin color
-$w = "\e[107m  ";       #white
-$r = "\e[48;5;9m  ";    #red
+$w = "\e[48;5;231m  ";       #white
+$r = "\e[48;5;203m  ";    #red
 $l = "\e[48;5;75m  ";   #light blue
 $j = "\e[44m  ";        #blue
-$y = "\e[48;5;11m  ";
+$y = "\e[48;5;227m  ";
 
 $the_cow = <<EOC;
      $t

@@ -7,14 +7,14 @@ $g = "\e[48;5;35m  ";   #green
 $a = "\e[48;5;246m  ";  #gray
 $d = "\e[48;5;240m  ";  #dark gray pants
 $p = "\e[48;5;238m  ";  #darker gray
-$e = "\e[41m  ";        #red
-$y = "\e[48;5;11m  ";   #yellow
+$e = "\e[48;5;160m  ";  #red
+$y = "\e[48;5;227m  ";  #yellow
 $m = "\e[48;5;178m  ";  #darker yellow
 $u = "\e[48;5;223m  ";  #skin color
 $v = "\e[48;5;216m  ";  #skin color 2
 $l = "\e[48;5;75m  ";   #light blue
 $b = "\e[48;5;21m  ";   #blue
-$w = "\e[107m  ";       #white
+$w = "\e[48;5;231m  ";  #white
 $r = "\e[48;5;172m  ";  #brown 1
 $z = "\e[48;5;94m  ";   #brown 2
 

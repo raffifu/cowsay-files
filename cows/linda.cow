@@ -3,12 +3,12 @@
 
 $x = "\e[49m  ";         #reset color
 $b = "\e[48;5;236m  "; #fake black
-$r = "\e[48;5;9m  ";   #red
-$d = "\e[48;5;1m  ";   #dark red
+$r = "\e[48;5;203m  ";   #red
+$d = "\e[48;5;160m  ";   #dark red
 $s = "\e[48;5;223m  "; #skin color
-$w = "\e[107m  ";      #white
+$w = "\e[48;5;231m  ";      #white
 $j = "\e[44m  ";       #blue jeans
-$y = "\e[48;5;11m  ";  #yellow
+$y = "\e[48;5;227m  ";  #yellow
 $t = "$thoughts ";
 
 $the_cow = <<EOC;

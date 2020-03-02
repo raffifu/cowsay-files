@@ -3,7 +3,7 @@
 
 $x = "\e[49m  ";            #reset color
 $k = "\e[48;5;235m  ";    #black
-$w = "\e[107m  ";         #white
+$w = "\e[48;5;231m  ";         #white
 $s = "\e[48;5;223m  ";  #skin color
 $u = "\e[48;5;223m  ";  #skin color light
 $z = "\e[48;5;224m  ";  #skin color lighter

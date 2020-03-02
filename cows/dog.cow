@@ -3,11 +3,11 @@
 
 $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;235m  ";  #fake black
-$v = "\e[48;5;14m  ";   #visor color
+$v = "\e[48;5;87m  ";   #visor color
 $d = "\e[48;5;17m  ";   #dark blue (visor color)
 $s = "\e[48;5;145m  ";  #face color
-$w = "\e[107m  ";       #white
-$l = "\e[48;5;6m  ";    #glasses outline
+$w = "\e[48;5;231m  ";       #white
+$l = "\e[48;5;44m  ";    #glasses outline
 $h = "\e[44m  ";        #helmet blue
 $t = "$thoughts ";
 

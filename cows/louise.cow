@@ -4,7 +4,7 @@
 $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;235m  ";  #fake black
 $s = "\e[48;5;223m  ";  #skin color
-$w = "\e[107m  ";       #white
+$w = "\e[48;5;231m  ";       #white
 $r = "\e[48;5;212m  ";  #pink hat
 $g = "\e[48;5;70m  ";   #green shirt
 $t = "$thoughts ";

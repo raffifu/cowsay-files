@@ -2196,6 +2196,10 @@ jgs
 <img src="converter/src_images/leela.png" height="200" />
 
 
+## leia2.cow
+<img src="converter/src_images/leia2.png" height="200" />
+
+
 ## leon.cow
 <img src="converter/src_images/leon.png" height="200" />
 

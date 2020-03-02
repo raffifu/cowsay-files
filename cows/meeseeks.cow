@@ -4,9 +4,9 @@
 $t = "$thoughts ";
 $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;235m  ";  #fake black
-$l = "\e[48;5;14m  ";   #light blue
-$w = "\e[107m  ";       #white
-$d = "\e[48;5;6m  ";    #dark blue
+$l = "\e[48;5;87m  ";   #light blue
+$w = "\e[48;5;231m  ";       #white
+$d = "\e[48;5;44m  ";    #dark blue
 
 $the_cow = <<EOC;
         $t              $b      $x

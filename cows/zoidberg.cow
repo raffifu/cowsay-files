@@ -2,8 +2,8 @@
 # by Unknown - https://www.reddit.com/r/CrossStitch/comments/7x169q/fo_why_not_zoidberg_another_of_my_gfs_crossstich/
 
 $b = "\e[48;5;236m  ";  # black
-$r = "\e[48;5;9m  ";    # red
-$w = "\e[107m  ";       # white
+$r = "\e[48;5;203m  ";    # red
+$w = "\e[48;5;231m  ";       # white
 $x = "\e[49m  ";        # reset color
 $l = "\e[48;5;75m  ";   # light blue
 $t = "$thoughts ";

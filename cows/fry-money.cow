@@ -9,9 +9,9 @@ $s = "\e[48;5;223m  ";  #skin color
 $g = "\e[48;5;35m  ";   #green
 $n = "\e[48;5;22m  ";   #green dark
 $b = "\e[48;5;21m  ";   #blue
-$w = "\e[107m  ";       #white
-$r = "\e[48;5;9m  ";    #red
-$d = "\e[48;5;1m  ";    #dark red
+$w = "\e[48;5;231m  ";       #white
+$r = "\e[48;5;203m  ";    #red
+$d = "\e[48;5;160m  ";    #dark red
 
 $t = "$thoughts ";
 

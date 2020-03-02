@@ -4,19 +4,19 @@
 $t = "$thoughts ";
 $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;235m  ";  #fake black
-$h = "\e[48;5;14m  ";   #hair color
+$h = "\e[48;5;87m  ";   #hair color
 $m = "\e[48;5;130m  ";  #hair color
 $s = "\e[48;5;145m  ";  #face color
 $k = "\e[48;5;223m  ";  #skin color
 $p = "\e[48;5;94m  ";   #pants color
 $q = "\e[48;5;95m  ";   #pants color 2
 $d = "\e[48;5;238m  ";  #dark gray
-$w = "\e[107m  ";       #white
+$w = "\e[48;5;231m  ";       #white
 $g = "\e[48;5;251m  ";  #light gray
-$z = "\e[48;5;6m  ";    #eyebrow
+$z = "\e[48;5;44m  ";    #eyebrow
 $r = "\e[48;5;124m  ";  #mouth
 $j = "\e[44m  ";        #blue jeans
-$y = "\e[48;5;11m  ";   #yellow
+$y = "\e[48;5;227m  ";   #yellow
 
 $the_cow = <<EOC;
      $t

@@ -6,9 +6,9 @@ $x = "\e[49m  ";          #reset color
 $b = "\e[48;5;236m  ";  #fake black
 $n = "\e[48;5;95m  ";  #pants color 2
 $s = "\e[48;5;223m  "; #skin color
-$w = "\e[107m  ";       #white
+$w = "\e[48;5;231m  ";       #white
 $o = "\e[48;5;216m  ";
-$l = "\e[48;5;14m  ";   #hair color
+$l = "\e[48;5;87m  ";   #hair color
 $g = "\e[48;5;145m  ";  #gray color
 
 $the_cow = <<EOC;
