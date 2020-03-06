@@ -4462,6 +4462,14 @@ LOL===__        \
 <img src="converter/src_images/white-walker.png" height="200" />
 
 
+## wile-e-coyote-error.cow
+<img src="converter/src_images/wile-e-coyote-error.png" height="200" />
+
+
+## wile-e-coyote.cow
+<img src="converter/src_images/wile-e-coyote.png" height="200" />
+
+
 ## wile-e-coyote2.cow
 <img src="converter/src_images/wile-e-coyote2.png" height="200" />
 
@@ -4741,7 +4749,7 @@ LOL===__        \
 
 
 ## jawa.cow
-<img src="converter/src_images/jawa.png" height="200" />
+<img src="converter/src_images/jawa-tc.png" height="200" />
 
 
 ## jerry.cow
@@ -4929,11 +4937,11 @@ LOL===__        \
 
 
 ## wile-e-coyote-error.cow
-<img src="converter/src_images/wile-e-coyote-error.png" height="200" />
+<img src="converter/src_images/wile-e-coyote-error-tc.png" height="200" />
 
 
 ## wile-e-coyote.cow
-<img src="converter/src_images/wile-e-coyote.png" height="200" />
+<img src="converter/src_images/wile-e-coyote-tc.png" height="200" />
 
 
 ## yoda2.cow
