@@ -170,7 +170,7 @@ PIXEL_COWS=(
   #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
 
   #Peanuts
-  "snoopy" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
+  "peanuts" "snoopy" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
   "charlie-brown" "linus" "schroeder" "woodstock"
 
   #Pokemon
@@ -256,7 +256,7 @@ ZPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
             "hank" "dale"
             "n64" "gamecube" "gamecube-controller" "snes"
             "yooka-laylee" "yooka" "laylee"
-            "bobross" "bobross2"
+            "bobross" "bobross2" "peanuts"
             "chester" "chester2" "shrek" "donkey" "sonic3"
             "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
             "space-ghost2" "strongbad" "cheat" "plutonians" "stewie" "jimmy")
