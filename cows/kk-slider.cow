@@ -1,4 +1,4 @@
-# kk-slider
+# KK Slider (Animal Crossing)
 # by - https://kandipatterns.com/patterns/characters/kk-slider-from-animal-crossing-3999
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
@@ -13,7 +13,8 @@ $f = "\e[48;5;196m  ";
 $g = "\e[48;5;166m  ";
 $h = "\e[48;5;208m  ";
 $i = "\e[48;5;226m  ";
-$j = "\e[48;5;94m  ";
+$j = "\e[48;5;136m  ";
+$k = "\e[48;5;94m  ";
 
 $the_cow = <<EOC
           $t
@@ -50,10 +51,10 @@ $the_cow = <<EOC
                   $d$h$f$g      $f$h$i$d$c  $a$x
                   $d$i$h$f      $h$d  $c    $a$x
                     $d$i        $d$c$a$c$b$c$a$x
-                    $d          $c$b$c$a$b$a$g$x
-                    $j    $g$a$c$b    $a  $j$g$j$x
-                    $j      $g$a  $b$a$c$a$j    $x
-                  $j  $g  $j  $g  $a$c$a  $g$j  $x
-                  $j            $a$c    $a$j    $x
+                    $d          $c$b$c$a$b$a$j$x
+                    $k    $j$a$c$b    $a  $k$j$k$x
+                    $k      $j$a  $b$a$c$a$k    $x
+                  $k  $j  $k  $j  $a$c$a  $j$k  $x
+                  $k            $a$c    $a$k    $x
                                 $a        $x
 EOC

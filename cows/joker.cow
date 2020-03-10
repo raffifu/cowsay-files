@@ -71,12 +71,12 @@ $the_cow = <<EOC
                     $c$s    $g$e  $y    $f        $e  $y$A$g$o    $s  $c$x
                       $s$c$s  $g  $e$y$e$f        $e  $A$g$o    $s$c  $x
                     $s$c$x$s  $v$g    $y$e$f      $e  $g$o    $s  $c  $x
-              $c$s  $x  $s    $v  $B$g$e            $g$o  $C$s  $c$s$x
-                        $D    $v  $B  $v            $C      $s  $x
-                        $D    $v  $B          $v      $C  $E$D    $x
-                      $D      $s$v$B          $v      $C$E$s$D    $x
-                    $D        $F$s$v$B        $v    $C$E$s  $D      $x
-                    $D      $F    $s$E$B    $v    $C$E$s    $D      $x
+              $c$s  $x  $s    $v  $B$g$e            $g$o    $s  $c$s$x
+                        $D    $v  $B  $v                    $s  $x
+                        $D    $v  $B          $v          $E$D    $x
+                      $D      $s$v$B          $v        $E$s$D    $x
+                    $D        $F$s$v$B        $v      $E$s  $D      $x
+                    $D      $F    $s$E$B    $v      $E$s    $D      $x
                     $D      $F      $s$E  $B$v  $E  $s      $D  $A  $x
 $G  $D            $H$A  $D  $F        $s  $E    $s          $A  $D    $x
 $H$D              $H  $D$A  $D$F        $s                $D              $x

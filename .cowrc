@@ -146,7 +146,7 @@ PIXEL_COWS=(
   #Game of Thrones
   "john-snow" "tyrion" "hodor"
   "the-hound" "arya" "ned-stark" "varys"
-  #"melisandre" "tywin" "joffrey" "danerys" "white-walker" "khal-drogo" "true-color/night-king"
+  #"melisandre" "tywin" "joffrey" "danerys" "white-walker" "khal-drogo" "night-king"
 
   #King of the Hill
   "hank-hill" "hank" "dale" "bill" "boomhauer"
@@ -162,11 +162,11 @@ PIXEL_COWS=(
   "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark"
   "link-shorts" "link-awaken" "link-stealth" "link-surf" #"ganondorf"
   "mario" "luigi" "super-mario-world" "yoshi" "shyguy"
-  "marth" "marth-black" "ROB" "captain-falcon" "captain-falcon2" "ness"
+  "marth" "marth-black" "ROB" "ROB2" "captain-falcon" "captain-falcon2" "ness"
   #"falco" "starfox" "starfox3"
   "kirby" #"metaknight" "ike"
   "megaman" #"donkeykong" "dr-mario"
-  "samus" "samus2" #"samus3" "samus-cannon"
+  "samus" "samus2" "samus3" #"samus-cannon"
   #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
 
   #Peanuts
@@ -174,8 +174,8 @@ PIXEL_COWS=(
   "charlie-brown" "linus" "schroeder" "woodstock"
 
   #Pokemon
-  "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo2"
-  "pikachu" "mew" #"mewtwo" "pikachu-jason"
+  "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo" "mewtwo2"
+  "pikachu" "mew" # "pikachu-jason"
 
   #Scientists
   "hawking" "tesla" "darwin" "einstein" "einstein-face"
@@ -201,19 +201,19 @@ PIXEL_COWS=(
 
   #Super Heroes
   "cyclops" "superman" "gambit" #"wolverine-snes" "wolverine-genesis"
-  "wolverine" "superman-batman" #"superman-flying" "ironman" #"ironman2" "one-punch-man"
+  "wolverine" "superman-batman" "ironman" #"superman-flying" #"ironman2" "one-punch-man"
   "spiderman" "spiderman2" "spiderman3" "deadpool-face" #"deadpool" "captain-america" #"thor" "hulk" #"venom"
 
   #Team Fortress
   "tf2-engineer" "tf2-spy" "tf2-spy2" "tf2-spy-knife"
-  "tf2-pyro" #"tf2-medic" "tf2-heavy" "tf2-demo" "tf2-sniper" "tf2-scout" "tf2-soldier"
+  "tf2-pyro" "tf2-medic" "tf2-sniper" "tf2-scout" "tf2-soldier" #"tf2-heavy" "tf2-demo"
 
   #TMNT
   "michaelangelo" "michaelangelo2" "donatello" "donatello2" "raphael" "raphael2" "leonardo" "leonardo2" "splinter"
   "donatello3" "leonardo3" #"michaelangelo3" "raphael4" "leonardo4" "raphael3"
 
   #TV Characters
-  "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias-8bit"
+  "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias"
   "brian"
   #kramer2" "newman" "larry2" "jerry" "costanza" "elaine" "tobias" "kramer" "larry"
 
@@ -229,11 +229,11 @@ PIXEL_COWS=(
   #"ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
 
   #Misc
-  "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus"
+  "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus" "dave" "forrest-gump" "rambo" "beetlejuice"
   "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson" "mr-t"
   "ghostbusters" "the-dude" "donald" "leprechaun"
   "wall-e-plant" "shrek" "donkey" #"wall-e" "col-sanders"
-  "the-jesus" "lebowski-walter" #"cthulhu" "bsod" "death" "jesus-ripped"
+  "the-jesus" "lebowski-walter" "jesus-ripped" #"cthulhu" "bsod" "death"
   "lahey" "doc-and-marty" "neo" #"smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
   "lumbergh" "indiana-jones" #"alf" "robocop" "robocop2" #"milton"
   #"mike-tyson" "wall-e2" "eve" #"raptor"
@@ -242,18 +242,19 @@ PIXEL_COWS=(
   "koolaid" "toucan" "chester" "chester2"
   "cow" "cow2"
   "n64" "gamecube" "gamecube-controller" "snes"
+  "jayhawk"
   #"hobo" "hobo2" "minion" "minion"
 )
 
 #minimal list of cows
-ZPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm"
+PIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm" "dave" "forrest-gump" "rambo" "beetlejuice" "jayhawk"
             "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
             "boba-fett2" "stormtrooper2" "vader"
             "batman" "batman2" "robin2" "spiderman3" "donatello2"
             "it-crowd" "moss" "kermit" "rick-and-morty-running" "rick-and-morty-split" "meeseeks"
             "the-boss" "mooninites" "mumbo-jumbo" "resetti"
             "roberto" "calculon"
-            "hank" "dale"
+            "hank" "dale" "lahey"
             "n64" "gamecube" "gamecube-controller" "snes"
             "yooka-laylee" "yooka" "laylee"
             "bobross" "bobross2" "peanuts"
@@ -333,6 +334,7 @@ ERROR_COWS=(
   "ripster"
   "riddler"
   "raptor"
+  "rdr"
   "roberto-face"
   "robot-devil"
   "scar"

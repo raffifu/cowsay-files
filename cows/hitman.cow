@@ -20,13 +20,10 @@ $l = "\e[48;5;60m  ";
 $the_cow = <<EOC
                             $t
                               $t
-                                $t
-                                  $t
-                                    $t
-                                      $t          $a    $x
-                                                $a        $x
-                                              $a          $x                                        $b$x
-                                              $a          $x                                      $c$x
+                                $t                $a    $x
+                                  $t            $a        $x
+                                    $t        $a          $x                                        $b$x
+                                      $t      $a          $x                                      $c$x
                                               $a          $x
     $d  $e$f      $e  $x                      $a          $g$x                                        $f$e  $f        $e$d      $x
             $e  $f$g    $x                    $a        $h$i$g  $x                                  $g    $f    $e  $f$x

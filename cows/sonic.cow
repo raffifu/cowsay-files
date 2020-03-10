@@ -19,11 +19,10 @@ $l = "\e[48;5;238m  ";
 $m = "\e[48;5;160m  ";
 
 $the_cow = <<EOC
-          $t
-            $t
-              $t
-                $t                  $a        $x
-                  $t          $a    $b  $a            $x
+                $t
+                  $t
+                    $t              $a        $x
+                              $a    $b  $a            $x
                 $c$x      $a  $b    $c  $a        $c      $x
                 $c  $x$a  $b      $c$d$c$a  $c        $x
                 $c  $a$b    $e$b$c$d  $f$c      $x

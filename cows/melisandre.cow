@@ -10,13 +10,14 @@ $c = "\e[48;5;88m  ";
 $d = "\e[48;5;231m  ";
 $e = "\e[48;5;223m  ";
 $f = "\e[48;5;52m  ";
-$g = "\e[48;5;215m  ";
+$g = "\e[48;5;216m  ";
 $h = "\e[48;5;173m  ";
 $i = "\e[48;5;166m  ";
-$j = "\e[48;5;178m  ";
-$k = "\e[48;5;235m  ";
+$j = "\e[48;5;220m  ";
+$k = "\e[48;5;234m  ";
 
 $the_cow = <<EOC
+        $t
           $t                    $a$b  $c$d$x
             $t                $a$b        $d$x
               $t            $b        $e$b$d$x
@@ -67,14 +68,4 @@ $the_cow = <<EOC
               $b$c  $b$c      $k    $f$c    $b  $x
         $c$b        $k$c      $k  $c        $b$c$x
   $c  $a    $b$k      $c    $k    $c$f$c    $b$c$x
-$c$a  $b  $k          $c    $k    $c        $b$c$x
-$a$b$k                $c  $k    $b$c$f$c    $b$c$x
-$b$k                  $c  $k    $b$c$f$c    $b$x
-  $k              $f$k$c  $k  $b  $c$f$c    $b$x
-    $k        $f  $k  $c$k    $b  $c$f$c  $b$c$x
-      $k$f      $k    $c$k      $b$c$f$c  $b$c$x
-        $f  $k      $c  $k            $x$c$b$c$x
-            $k      $b  $k    $x          $f$c$f$x
-                  $b    $x                $f      $x
-                $b      $x                $f$x$f    $x
 EOC

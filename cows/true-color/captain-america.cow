@@ -36,38 +36,38 @@ $E = "\e[48;2;0;48;85m  ";
 $F = "\e[48;2;51;78;109m  ";
 
 $the_cow = <<EOC
-          $t                                                                        
-            $t                                                                      
-              $t                  $a    $b$c$x                                      
-                $t              $a$b      $c  $x                                    
-                  $t          $a$b    $d$c      $x                                  
-                              $a$b  $d$b$d$c    $x                                  
-                              $a$b  $d    $c    $x                                  
-                              $a$b$c  $b$c      $x                                  
-                              $a$b$e  $b$e  $c  $x                                  
-                              $f$b$c  $g$b$c  $f$x                                  
-                                $h$g    $h    $x                                    
-                                $h$g  $h      $x                                    
-                                $f$h$g$h    $f$x                                    
-                                $i$f$h    $f$i$x                                    
-                                $b$i$f    $i$c$x                                    
-                  $c      $x$j$b    $i    $b$c  $j$x$c      $x                      
-                $k$c$b  $l  $j$b    $m    $b$c  $j$l  $c    $k$x                    
-              $c  $k$b  $l  $j$b    $m$n$m$b    $j$l  $c  $k$c  $x                  
-              $c    $b$k$l$j$m        $n$m        $j$l$k$c      $x                  
-              $c  $b    $l$j$m  $n      $o    $m  $j$l$c$b$c    $x                  
-              $b    $c$b$l$j$k$m    $n$o  $m    $k$j$l$c  $b  $c$x                  
-              $i  $b$c$l$j$b  $k  $m$n$m$o$m$k  $b  $j$l$c$b$i  $x                  
-              $p  $i  $l$j$b      $n$m$b$m$o$b      $j$l$i  $p  $x                  
-              $p      $j$b        $m$b    $m$b      $c$j$p      $x                  
-            $q    $p  $c$b                        $c    $p  $r    $x                
-            $q  $r    $c                                $r$q$r    $x                
-            $q  $r    $x$c$k  $c                $p  $c$x$r$q  $r  $x                
-            $q  $r    $x$c$k  $c  $q$k    $q$c  $p  $c$x$r  $q$r$k          $x      
-          $s  $r    $x  $q$k  $q    $k    $q$r  $p  $r$x  $r$k            $u  $x    
-          $s      $x    $q  $k$q    $k    $q$r  $p$r  $x  $k    $v        $w$u$x    
-        $b  $c$s  $x      $q$k$q    $r$k$q  $r  $p$r$x  $k  $v      $k    $w  $u$x  
-      $b    $c  $s$x      $q$k  $q  $r$k$q$r  $p  $r$x  $k  $v  $k        $u$w$u$x  
+          $t
+            $t
+              $t                  $a    $b$c$x
+                $t              $a$b      $c  $x
+                  $t          $a$b    $d$c      $x
+                              $a$b  $d$b$d$c    $x
+                              $a$b  $d    $c    $x
+                              $a$b$c  $b$c      $x
+                              $a$b$e  $b$e  $c  $x
+                              $f$b$c  $g$b$c  $f$x
+                                $h$g    $h    $x
+                                $h$g  $h      $x
+                                $f$h$g$h    $f$x
+                                $i$f$h    $f$i$x
+                                $b$i$f    $i$c$x
+                  $c      $x$j$b    $i    $b$c  $j$x$c      $x
+                $k$c$b  $l  $j$b    $m    $b$c  $j$l  $c    $k$x
+              $c  $k$b  $l  $j$b    $m$n$m$b    $j$l  $c  $k$c  $x
+              $c    $b$k$l$j$m        $n$m        $j$l$k$c      $x
+              $c  $b    $l$j$m  $n      $o    $m  $j$l$c$b$c    $x
+              $b    $c$b$l$j$k$m    $n$o  $m    $k$j$l$c  $b  $c$x
+              $i  $b$c$l$j$b  $k  $m$n$m$o$m$k  $b  $j$l$c$b$i  $x
+              $p  $i  $l$j$b      $n$m$b$m$o$b      $j$l$i  $p  $x
+              $p      $j$b        $m$b    $m$b      $c$j$p      $x
+            $q    $p  $c$b                        $c    $p  $r    $x
+            $q  $r    $c                                $r$q$r    $x
+            $q  $r    $x$c$k  $c                $p  $c$x$r$q  $r  $x
+            $q  $r    $x$c$k  $c  $q$k    $q$c  $p  $c$x$r  $q$r$k          $x
+          $s  $r    $x  $q$k  $q    $k    $q$r  $p  $r$x  $r$k            $u  $x
+          $s      $x    $q  $k$q    $k    $q$r  $p$r  $x  $k    $v        $w$u$x
+        $b  $c$s  $x      $q$k$q    $r$k$q  $r  $p$r$x  $k  $v      $k    $w  $u$x
+      $b    $c  $s$x      $q$k  $q  $r$k$q$r  $p  $r$x  $k  $v  $k        $u$w$u$x
       $b  $c    $x        $q$k  $q$r$k  $p$r  $p  $r$x$k  $v  $k    $y  $z$u  $w$u$x
       $b  $c    $x        $q$k  $q$r$k  $p$r  $p  $r$x$k  $v  $k    $y  $z$y$u$w$u$x
       $b$c      $x        $q  $k$q$r$k$p  $r  $p$r  $k    $v  $k  $y    $z$y$u$w$u$x
@@ -82,8 +82,8 @@ $the_cow = <<EOC
     $l$g$l$g$x        $c$F$b      $c      $b      $c$F$p  $z  $p  $z$E  $C  $u$D$u$x
     $l$g    $x        $c$F$b    $c          $b    $c$F$p  $z  $p    $E  $C  $u$D$u$x
       $l  $g$x        $b$F$b    $c  $x    $b      $c$F$p  $z  $p    $E  $C$u  $D$u$x
-                      $b  $F$b$c    $x    $b      $F$c  $p  $z  $p    $u    $D$u$x  
-                      $b  $F$b$c  $x        $b    $F$c  $p    $z    $p$u  $D$u  $x  
-                      $b  $F$b$c  $x        $b    $F$c  $x$p      $z$D    $u  $x    
-                      $b  $F$c    $x        $b    $F$c  $x  $p      $u      $x      
+                      $b  $F$b$c    $x    $b      $F$c  $p  $z  $p    $u    $D$u$x
+                      $b  $F$b$c  $x        $b    $F$c  $p    $z    $p$u  $D$u  $x
+                      $b  $F$b$c  $x        $b    $F$c  $x$p      $z$D    $u  $x
+                      $b  $F$c    $x        $b    $F$c  $x  $p      $u      $x
 EOC

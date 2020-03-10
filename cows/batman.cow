@@ -7,17 +7,16 @@ $t = "$thoughts ";
 $a = "\e[48;5;233m  ";
 $b = "\e[48;5;18m  ";
 $c = "\e[48;5;231m  ";
-$d = "\e[48;5;174m  ";
+$d = "\e[48;5;173m  ";
 $e = "\e[48;5;235m  ";
-$f = "\e[48;5;223m  ";
+$f = "\e[48;5;216m  ";
 $g = "\e[48;5;244m  ";
 $h = "\e[48;5;239m  ";
 $i = "\e[48;5;214m  ";
-$j = "\e[48;5;233m  ";
-$k = "\e[48;5;220m  ";
-$l = "\e[48;5;236m  ";
-$m = "\e[48;5;232m  ";
-$n = "\e[48;5;208m  ";
+$j = "\e[48;5;220m  ";
+$k = "\e[48;5;236m  ";
+$l = "\e[48;5;232m  ";
+$m = "\e[48;5;208m  ";
 
 $the_cow = <<EOC
         $t
@@ -39,25 +38,25 @@ $the_cow = <<EOC
             $g$a                                $b$x
           $g  $a$b            $a  $h$g    $h$a  $b$x
         $g  $h$g  $i      $g                $h$a  $x
-        $g      $j$k$j$k$j$i$g                $h$l$x
-        $g      $j        $i$g    $h  $g      $h$l$a$x
-        $g      $j$k$j$k$j$g    $h    $g      $h$l$a$x
-        $g  $h$g              $h      $l$g    $h$l$a$x
-        $g  $h$g              $h      $l$g    $h$l$a  $x
-        $g  $h                        $l$m$g  $h$l$a  $x
-        $g  $h$g            $h        $l$m$g  $h$l$a  $x
-        $g  $h$g            $h      $l$m  $g  $h$l$a  $x
-        $g$h$l$g              $h    $l$m  $g  $h  $l$a$x
-        $g$h$l$g              $h  $l$m    $g  $h  $l$a$x
-        $g$h$l  $g            $h  $l$m    $g  $h  $l$a  $x
-        $g$h$l  $g            $h$l$m      $g  $h  $l$a  $x
-        $b$a    $g            $h$l$m      $b  $a        $x
-        $b$a    $g            $h$l$m      $b  $a    $l$a$x
-        $b$a    $k  $i  $k  $i  $n$m        $b$a        $x
-        $b$a    $k  $i  $k  $i  $n$m        $b$a    $l$a$x
-        $b$a    $b$a              $m        $b$a        $x
-        $b$a    $b$a              $m        $b$a    $l$a$x
-      $b$a      $g$b$a      $h$l  $m      $b  $a        $x
-      $b$a      $g$b$a      $h  $l  $m    $b$a          $x
-        $b$a    $g$h$b  $a$g  $h$l  $m    $b$a    $b$a  $x
+        $g      $a$j$a$j$a$i$g                $h$k$x
+        $g      $a        $i$g    $h  $g      $h$k$a$x
+        $g      $a$j$a$j$a$g    $h    $g      $h$k$a$x
+        $g  $h$g              $h      $k$g    $h$k$a$x
+        $g  $h$g              $h      $k$g    $h$k$a  $x
+        $g  $h                        $k$l$g  $h$k$a  $x
+        $g  $h$g            $h        $k$l$g  $h$k$a  $x
+        $g  $h$g            $h      $k$l  $g  $h$k$a  $x
+        $g$h$k$g              $h    $k$l  $g  $h  $k$a$x
+        $g$h$k$g              $h  $k$l    $g  $h  $k$a$x
+        $g$h$k  $g            $h  $k$l    $g  $h  $k$a  $x
+        $g$h$k  $g            $h$k$l      $g  $h  $k$a  $x
+        $b$a    $g            $h$k$l      $b  $a        $x
+        $b$a    $g            $h$k$l      $b  $a    $k$a$x
+        $b$a    $j  $i  $j  $i  $m$l        $b$a        $x
+        $b$a    $j  $i  $j  $i  $m$l        $b$a    $k$a$x
+        $b$a    $b$a              $l        $b$a        $x
+        $b$a    $b$a              $l        $b$a    $k$a$x
+      $b$a      $g$b$a      $h$k  $l      $b  $a        $x
+      $b$a      $g$b$a      $h  $k  $l    $b$a          $x
+        $b$a    $g$h$b  $a$g  $h$k  $l    $b$a    $b$a  $x
 EOC

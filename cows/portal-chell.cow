@@ -9,7 +9,7 @@ $b = "\e[48;5;223m  ";
 $c = "\e[48;5;234m  ";
 $d = "\e[48;5;216m  ";
 $e = "\e[48;5;231m  ";
-$f = "\e[48;5;255m  ";
+$f = "\e[48;5;254m  ";
 $g = "\e[48;5;104m  ";
 $h = "\e[48;5;103m  ";
 $i = "\e[48;5;236m  ";
@@ -61,13 +61,13 @@ $the_cow = <<EOC
               $b      $d      $o        $n    $o  $x    $e        $x  $b            $x$e          $x  $i$x    $i$x
               $d          $x$o            $n$o    $x                      $b      $x                    $i    $x
                 $d  $x      $n    $o        $n$o  $x
-                            $p$f  $n      $q$p  $n$x
-                        $p    $f$p  $f$q    $p  $f$n$x
-                    $p      $f$p$q    $f  $q  $p    $x
-                $q                $f$q    $r$q$p    $f$x
-                $q            $f    $q    $r$q  $p  $f$x
-                $q        $f      $q      $r$q  $p    $x
-                  $q  $f        $p$q      $r  $q$p    $x
+                            $p$e  $n      $q$p  $n$x
+                        $p    $e$p  $e$q    $p  $e$n$x
+                    $p      $e$p$q    $e  $q  $p    $x
+                $q                $e$q    $r$q$p    $e$x
+                $q            $e    $q    $r$q  $p  $e$x
+                $q        $e      $q      $r$q  $p    $x
+                  $q  $e        $p$q      $r  $q$p    $x
                   $q$p$q    $p    $q    $r$q$r$q$p  $q$x
                       $q  $p    $q$p$q  $r$q$r$p    $q$x
                     $q    $p    $q$p$q  $r$q$p$r$q  $x

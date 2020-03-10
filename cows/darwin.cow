@@ -4,24 +4,24 @@
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;5;224m  ";
+$a = "\e[48;5;223m  ";
 $b = "\e[48;5;180m  ";
 $c = "\e[48;5;248m  ";
 $d = "\e[48;5;253m  ";
 $e = "\e[48;5;137m  ";
 $f = "\e[48;5;234m  ";
-$g = "\e[48;5;237m  ";
-$h = "\e[48;5;60m  ";
-$i = "\e[48;5;232m  ";
-$j = "\e[48;5;236m  ";
-$k = "\e[48;5;240m  ";
+$g = "\e[48;5;23m  ";
+$h = "\e[48;5;30m  ";
+$i = "\e[48;5;236m  ";
+$j = "\e[48;5;240m  ";
 
 $the_cow = <<EOC
-                $t                      $a            $x
-                  $t                  $b    $a            $x
-                    $t              $c$d  $b  $a            $x
-                      $t            $c$d    $b$a              $x
-                        $t        $c$d      $b    $a            $x
+            $t
+              $t                        $a            $x
+                $t                    $b    $a            $x
+                  $t                $c$d  $b  $a            $x
+                    $t              $c$d    $b$a              $x
+                                  $c$d      $b    $a            $x
                                   $c$d$b$c$d$b    $a              $x
                                   $c  $b  $d$b    $a    $b    $a  $x
                                 $c    $b$e$d$b$a  $c    $d$b$c    $x
@@ -33,7 +33,7 @@ $the_cow = <<EOC
                     $h            $g$h  $g$c  $d        $c    $d  $x
                   $h    $g$h    $g$h      $c    $d    $c$e  $d    $x  $a      $x
                 $h      $g  $h  $g$h        $c    $d  $c      $d$c$x  $b$a      $x
-                $h      $g        $a    $b$e$c    $d$c$d$c$d$c$d$c$i$a  $e$a    $x
+                $h      $g        $a    $b$e$c    $d$c$d$c$d$c$d$c$x$a  $e$a    $x
               $h      $g        $a  $e      $c    $d            $c$g$b    $e$b$a  $x
             $h      $g        $a      $b  $e$c    $d              $g  $e    $b$e  $x
           $h    $g        $h  $a    $b$e  $f$c    $d$c$d        $c$g  $e    $b$e  $g$x
@@ -56,13 +56,14 @@ $the_cow = <<EOC
                   $f$g        $h            $g    $f$g$h      $g    $f$x
                   $f$g      $h              $g  $f$g    $h        $g  $f$x
                   $f$g    $h              $g  $f    $g      $h      $g  $f$x
-                $f$g    $h            $g    $f$j    $f$g        $h      $g$f$x
-                $f$g  $h          $g      $f$j        $f  $g              $f$x
-              $f$g  $h          $g      $f$j              $f  $g          $f$x
-              $f$g$h        $g      $f  $j                    $f        $g$f$x
-              $f$g$h    $g        $f$j                                  $f$x
-              $f$g$h$g        $f  $j        $f        $j      $k            $x
-              $f$g        $f  $j          $f              $j    $k          $x
-              $f$g  $f    $j      $k$j  $f                $j    $k            $x
-                $f  $j        $k    $j  $f              $x  $j    $k            $x
+                $f$g    $h            $g    $f$i    $f$g        $h      $g$f$x
+                $f$g  $h          $g      $f$i        $f  $g              $f$x
+              $f$g  $h          $g      $f$i              $f  $g          $f$x
+              $f$g$h        $g      $f  $i                    $f        $g$f$x
+              $f$g$h    $g        $f$i                                  $f$x
+              $f$g$h$g        $f  $i        $f        $i      $j            $x
+              $f$g        $f  $i          $f              $i    $j          $x
+              $f$g  $f    $i      $j$i  $f                $i    $j            $x
+                $f  $i        $j    $i  $f              $x  $i    $j            $x
+                $f$i        $j      $i$f              $x      $i  $j            $x
 EOC

@@ -4,7 +4,7 @@
 $x = "\e[49m  ";          #reset color
 $k = "\e[48;5;235m  ";  #black
 $u = "\e[48;5;223m  ";  #skin color
-$r = "\e[48;5;215m  ";  #skin shadow
+$r = "\e[48;5;216m  ";  #skin shadow
 $w = "\e[48;5;231m  ";       #white
 $e = "\e[48;5;160m  ";        #red
 $b = "\e[48;5;21m  ";   #blue

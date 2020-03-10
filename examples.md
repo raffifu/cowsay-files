@@ -1,6 +1,6 @@
 
 ## 47.cow
-<img src="converter/src_images/47.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/47.png" height="200" />
 
 
 ## C3PO.cow
@@ -52,11 +52,11 @@
 
 
 ## ROB.cow
-<img src="converter/src_images/ROB.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ROB.png" height="200" />
 
 
 ## ROB2.cow
-<img src="converter/src_images/ROB2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ROB2.png" height="200" />
 
 
 ## USA.cow
@@ -85,19 +85,19 @@
 
 
 ## abominable.cow
-<img src="converter/src_images/abominable.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/abominable.png" height="200" />
 
 
 ## abu-apple.cow
-<img src="converter/src_images/abu-apple.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/abu-apple.png" height="200" />
 
 
 ## abu-sword.cow
-<img src="converter/src_images/abu-sword.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/abu-sword.png" height="200" />
 
 
 ## abu.cow
-<img src="converter/src_images/abu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/abu.png" height="200" />
 
 
 ## ackbar.cow
@@ -149,39 +149,39 @@
 
 
 ## admiral-ackbar.cow
-<img src="converter/src_images/admiral-ackbar.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/admiral-ackbar.png" height="200" />
 
 
 ## adventure-time.cow
-<img src="converter/src_images/adventure-time.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/adventure-time.png" height="200" />
 
 
 ## agent-smith.cow
-<img src="converter/src_images/agent-smith.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/agent-smith.png" height="200" />
 
 
 ## aladdin.cow
-<img src="converter/src_images/aladdin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/aladdin.png" height="200" />
 
 
 ## aladdin2.cow
-<img src="converter/src_images/aladdin2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/aladdin2.png" height="200" />
 
 
 ## alf.cow
-<img src="converter/src_images/alf.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/alf.png" height="200" />
 
 
 ## alfred.cow
-<img src="converter/src_images/alfred.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/alfred.png" height="200" />
 
 
 ## amy.cow
-<img src="converter/src_images/amy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/amy.png" height="200" />
 
 
 ## ant.cow
-<img src="converter/src_images/ant.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ant.png" height="200" />
 
 
 ## aperture-blank.cow
@@ -245,7 +245,7 @@
 
 
 ## archer.cow
-<img src="converter/src_images/archer.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/archer.png" height="200" />
 
 
 ## armadillo.cow
@@ -266,11 +266,11 @@
 
 
 ## assassin.cow
-<img src="converter/src_images/assassin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/assassin.png" height="200" />
 
 
 ## assassin2.cow
-<img src="converter/src_images/assassin2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/assassin2.png" height="200" />
 
 
 ## atat.cow
@@ -335,7 +335,7 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 
 
 ## atst-atat.cow
-<img src="converter/src_images/atst-atat.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/atst-atat.png" height="200" />
 
 
 ## awesome-face.cow
@@ -389,55 +389,55 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 
 
 ## banjo-kazooie.cow
-<img src="converter/src_images/banjo-kazooie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/banjo-kazooie.png" height="200" />
 
 
 ## banjo-kazooie2.cow
-<img src="converter/src_images/banjo-kazooie2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/banjo-kazooie2.png" height="200" />
 
 
 ## banjo.cow
-<img src="converter/src_images/banjo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/banjo.png" height="200" />
 
 
 ## barbrady.cow
-<img src="converter/src_images/barbrady.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/barbrady.png" height="200" />
 
 
 ## barney.cow
-<img src="converter/src_images/barney.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/barney.png" height="200" />
 
 
 ## barney2.cow
-<img src="converter/src_images/barney2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/barney2.png" height="200" />
 
 
 ## bart-zombie.cow
-<img src="converter/src_images/bart-zombie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bart-zombie.png" height="200" />
 
 
 ## bart.cow
-<img src="converter/src_images/bart.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bart.png" height="200" />
 
 
 ## batman-genesis.cow
-<img src="converter/src_images/batman-genesis.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/batman-genesis.png" height="200" />
 
 
 ## batman-toon.cow
-<img src="converter/src_images/batman-toon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/batman-toon.png" height="200" />
 
 
 ## batman-toon2.cow
-<img src="converter/src_images/batman-toon2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/batman-toon2.png" height="200" />
 
 
 ## batman.cow
-<img src="converter/src_images/batman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/batman.png" height="200" />
 
 
 ## batman2.cow
-<img src="converter/src_images/batman2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/batman2.png" height="200" />
 
 
 ## bees.cow
@@ -465,24 +465,28 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 ```
 
 
+## beetlejuice.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/beetlejuice.png" height="200" />
+
+
 ## bender-md.cow
-<img src="converter/src_images/bender-md.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bender-md.png" height="200" />
 
 
 ## bender.cow
-<img src="converter/src_images/bender.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bender.png" height="200" />
 
 
 ## bert-ernie.cow
-<img src="converter/src_images/bert-ernie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bert-ernie.png" height="200" />
 
 
 ## big-slammu.cow
-<img src="converter/src_images/big-slammu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/big-slammu.png" height="200" />
 
 
 ## biggs.cow
-<img src="converter/src_images/biggs.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/biggs.png" height="200" />
 
 
 ## bill-the-cat.cow
@@ -500,7 +504,7 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 
 
 ## bill.cow
-<img src="converter/src_images/bill.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bill.png" height="200" />
 
 
 ## biohazard.cow
@@ -535,7 +539,7 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 
 
 ## bioshock.cow
-<img src="converter/src_images/bioshock.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bioshock.png" height="200" />
 
 
 ## bishop.cow
@@ -587,79 +591,79 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 
 
 ## bob.cow
-<img src="converter/src_images/bob.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bob.png" height="200" />
 
 
 ## bob2.cow
-<img src="converter/src_images/bob2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bob2.png" height="200" />
 
 
 ## boba-fett.cow
-<img src="converter/src_images/boba-fett.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boba-fett.png" height="200" />
 
 
 ## boba-fett2.cow
-<img src="converter/src_images/boba-fett2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boba-fett2.png" height="200" />
 
 
 ## bobross.cow
-<img src="converter/src_images/bobross.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bobross.png" height="200" />
 
 
 ## bobross2.cow
-<img src="converter/src_images/bobross2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bobross2.png" height="200" />
 
 
 ## boggy.cow
-<img src="converter/src_images/boggy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boggy.png" height="200" />
 
 
 ## bojack.cow
-<img src="converter/src_images/bojack.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bojack.png" height="200" />
 
 
 ## bojack2.cow
-<img src="converter/src_images/bojack2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bojack2.png" height="200" />
 
 
 ## bojack3.cow
-<img src="converter/src_images/bojack3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bojack3.png" height="200" />
 
 
 ## bokoblin.cow
-<img src="converter/src_images/bokoblin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bokoblin.png" height="200" />
 
 
 ## bokoblin2.cow
-<img src="converter/src_images/bokoblin2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bokoblin2.png" height="200" />
 
 
 ## bomberman.cow
-<img src="converter/src_images/bomberman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bomberman.png" height="200" />
 
 
 ## bomberman2.cow
-<img src="converter/src_images/bomberman2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bomberman2.png" height="200" />
 
 
 ## bond.cow
-<img src="converter/src_images/bond.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bond.png" height="200" />
 
 
 ## boomhauer.cow
-<img src="converter/src_images/boomhauer.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boomhauer.png" height="200" />
 
 
 ## bottles.cow
-<img src="converter/src_images/bottles.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bottles.png" height="200" />
 
 
 ## bowser-jr.cow
-<img src="converter/src_images/bowser-jr.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bowser-jr.png" height="200" />
 
 
 ## bowser.cow
-<img src="converter/src_images/bowser.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bowser.png" height="200" />
 
 
 ## box.cow
@@ -690,7 +694,7 @@ H@:         :HHHHHHHHHHHHHHHHHHX,    =@H
 
 
 ## brian.cow
-<img src="converter/src_images/brian.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/brian.png" height="200" />
 
 
 ## broken-heart.cow
@@ -724,35 +728,35 @@ X################,      -$=X#######@:
 
 
 ## broken-image.cow
-<img src="converter/src_images/broken-image.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/broken-image.png" height="200" />
 
 
 ## bruce.cow
-<img src="converter/src_images/bruce.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bruce.png" height="200" />
 
 
 ## bsod.cow
-<img src="converter/src_images/bsod.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bsod.png" height="200" />
 
 
 ## bugs-bunny-error.cow
-<img src="converter/src_images/bugs-bunny-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bugs-bunny-error.png" height="200" />
 
 
 ## bugs-bunny.cow
-<img src="converter/src_images/bugs-bunny.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bugs-bunny.png" height="200" />
 
 
 ## bulbasaur.cow
-<img src="converter/src_images/bulbasaur.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bulbasaur.png" height="200" />
 
 
 ## buzz-lightyear.cow
-<img src="converter/src_images/buzz-lightyear.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/buzz-lightyear.png" height="200" />
 
 
 ## c3po-color.cow
-<img src="converter/src_images/c3po-color.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/c3po-color.png" height="200" />
 
 
 ## cake-with-candles.cow
@@ -830,39 +834,39 @@ M###################@%=           =+%
 
 
 ## calculon.cow
-<img src="converter/src_images/calculon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/calculon.png" height="200" />
 
 
 ## calvin-and-hobbes.cow
-<img src="converter/src_images/calvin-and-hobbes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/calvin-and-hobbes.png" height="200" />
 
 
 ## calvin-and-hobbes2.cow
-<img src="converter/src_images/calvin-and-hobbes2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/calvin-and-hobbes2.png" height="200" />
 
 
 ## calvin.cow
-<img src="converter/src_images/calvin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/calvin.png" height="200" />
 
 
 ## captain-america.cow
-<img src="converter/src_images/captain-america.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/captain-america.png" height="200" />
 
 
 ## captain-falcon.cow
-<img src="converter/src_images/captain-falcon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/captain-falcon.png" height="200" />
 
 
 ## captain-falcon2.cow
-<img src="converter/src_images/captain-falcon2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/captain-falcon2.png" height="200" />
 
 
 ## carl.cow
-<img src="converter/src_images/carl.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/carl.png" height="200" />
 
 
 ## cartman.cow
-<img src="converter/src_images/cartman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cartman.png" height="200" />
 
 
 ## cat.cow
@@ -887,31 +891,31 @@ M###################@%=           =+%
 
 
 ## catbert.cow
-<img src="converter/src_images/catbert.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/catbert.png" height="200" />
 
 
 ## catdog.cow
-<img src="converter/src_images/catdog.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/catdog.png" height="200" />
 
 
 ## catwoman.cow
-<img src="converter/src_images/catwoman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/catwoman.png" height="200" />
 
 
 ## charlie-brown.cow
-<img src="converter/src_images/charlie-brown.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/charlie-brown.png" height="200" />
 
 
 ## charmander.cow
-<img src="converter/src_images/charmander.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/charmander.png" height="200" />
 
 
 ## cheat.cow
-<img src="converter/src_images/cheat.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cheat.png" height="200" />
 
 
 ## chef.cow
-<img src="converter/src_images/chef.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/chef.png" height="200" />
 
 
 ## chessmen.cow
@@ -945,15 +949,15 @@ M###################@%=           =+%
 
 
 ## chester.cow
-<img src="converter/src_images/chester.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/chester.png" height="200" />
 
 
 ## chester2.cow
-<img src="converter/src_images/chester2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/chester2.png" height="200" />
 
 
 ## chewbacca.cow
-<img src="converter/src_images/chewbacca.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/chewbacca.png" height="200" />
 
 
 ## claw-arm.cow
@@ -1006,7 +1010,7 @@ M###################@%=           =+%
 
 
 ## col-sanders.cow
-<img src="converter/src_images/col-sanders.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/col-sanders.png" height="200" />
 
 
 ## companion-cube.cow
@@ -1041,19 +1045,19 @@ M###################@%=           =+%
 
 
 ## cookie-monster.cow
-<img src="converter/src_images/cookie-monster.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cookie-monster.png" height="200" />
 
 
 ## cookie-monster2.cow
-<img src="converter/src_images/cookie-monster2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cookie-monster2.png" height="200" />
 
 
 ## cow.cow
-<img src="converter/src_images/cow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cow.png" height="200" />
 
 
 ## cow2.cow
-<img src="converter/src_images/cow2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cow2.png" height="200" />
 
 
 ## cthulhu-mini.cow
@@ -1070,7 +1074,7 @@ M###################@%=           =+%
 
 
 ## cthulhu.cow
-<img src="converter/src_images/cthulhu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cthulhu.png" height="200" />
 
 
 ## cube.cow
@@ -1096,19 +1100,19 @@ M###################@%=           =+%
 
 
 ## cyclops.cow
-<img src="converter/src_images/cyclops.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cyclops.png" height="200" />
 
 
 ## cyclops2.cow
-<img src="converter/src_images/cyclops2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cyclops2.png" height="200" />
 
 
 ## daffy-duck.cow
-<img src="converter/src_images/daffy-duck.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/daffy-duck.png" height="200" />
 
 
 ## dale.cow
-<img src="converter/src_images/dale.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dale.png" height="200" />
 
 
 ## dalek-shooting.cow
@@ -1163,63 +1167,67 @@ snd     [_____________]
 
 
 ## danerys.cow
-<img src="converter/src_images/danerys.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/danerys.png" height="200" />
 
 
 ## darth-vader.cow
-<img src="converter/src_images/darth-vader.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/darth-vader.png" height="200" />
 
 
 ## darwin.cow
-<img src="converter/src_images/darwin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/darwin.png" height="200" />
+
+
+## dave.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dave.png" height="200" />
 
 
 ## deadpool-bob-ross.cow
-<img src="converter/src_images/deadpool-bob-ross.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadpool-bob-ross.png" height="200" />
 
 
 ## deadpool-face.cow
-<img src="converter/src_images/deadpool-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadpool-face.png" height="200" />
 
 
 ## deadpool.cow
-<img src="converter/src_images/deadpool.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadpool.png" height="200" />
 
 
 ## deadspace.cow
-<img src="converter/src_images/deadspace.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadspace.png" height="200" />
 
 
 ## death.cow
-<img src="converter/src_images/death.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/death.png" height="200" />
 
 
 ## deus-ex.cow
-<img src="converter/src_images/deus-ex.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deus-ex.png" height="200" />
 
 
 ## dilbert-boss.cow
-<img src="converter/src_images/dilbert-boss.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dilbert-boss.png" height="200" />
 
 
 ## dilbert.cow
-<img src="converter/src_images/dilbert.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dilbert.png" height="200" />
 
 
 ## dishonored.cow
-<img src="converter/src_images/dishonored.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dishonored.png" height="200" />
 
 
 ## doc-and-marty.cow
-<img src="converter/src_images/doc-and-marty.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/doc-and-marty.png" height="200" />
 
 
 ## dog.cow
-<img src="converter/src_images/dog.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dog.png" height="200" />
 
 
 ## dogbert.cow
-<img src="converter/src_images/dogbert.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dogbert.png" height="200" />
 
 
 ## dolphin.cow
@@ -1238,83 +1246,83 @@ snd     [_____________]
 
 
 ## donald-duck-angry.cow
-<img src="converter/src_images/donald-duck-angry.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donald-duck-angry.png" height="200" />
 
 
 ## donald-duck.cow
-<img src="converter/src_images/donald-duck.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donald-duck.png" height="200" />
 
 
 ## donald-hat.cow
-<img src="converter/src_images/donald-hat.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donald-hat.png" height="200" />
 
 
 ## donald.cow
-<img src="converter/src_images/donald.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donald.png" height="200" />
 
 
 ## donatello-error.cow
-<img src="converter/src_images/donatello-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donatello-error.png" height="200" />
 
 
 ## donatello-error2.cow
-<img src="converter/src_images/donatello-error2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donatello-error2.png" height="200" />
 
 
 ## donatello.cow
-<img src="converter/src_images/donatello.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donatello.png" height="200" />
 
 
 ## donatello2.cow
-<img src="converter/src_images/donatello2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donatello2.png" height="200" />
 
 
 ## donatello3.cow
-<img src="converter/src_images/donatello3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donatello3.png" height="200" />
 
 
 ## donkey.cow
-<img src="converter/src_images/donkey.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donkey.png" height="200" />
 
 
 ## donkeykong.cow
-<img src="converter/src_images/donkeykong.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/donkeykong.png" height="200" />
 
 
 ## doomguy.cow
-<img src="converter/src_images/doomguy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/doomguy.png" height="200" />
 
 
 ## doomkart.cow
-<img src="converter/src_images/doomkart.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/doomkart.png" height="200" />
 
 
 ## doomkart2.cow
-<img src="converter/src_images/doomkart2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/doomkart2.png" height="200" />
 
 
 ## dr-mario.cow
-<img src="converter/src_images/dr-mario.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dr-mario.png" height="200" />
 
 
 ## dr-robotnik.cow
-<img src="converter/src_images/dr-robotnik.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dr-robotnik.png" height="200" />
 
 
 ## duke-nukem.cow
-<img src="converter/src_images/duke-nukem.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/duke-nukem.png" height="200" />
 
 
 ## earthworm-jim.cow
-<img src="converter/src_images/earthworm-jim.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/earthworm-jim.png" height="200" />
 
 
 ## einstein-face.cow
-<img src="converter/src_images/einstein-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/einstein-face.png" height="200" />
 
 
 ## einstein.cow
-<img src="converter/src_images/einstein.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/einstein.png" height="200" />
 
 
 ## elephant2.cow
@@ -1334,23 +1342,23 @@ snd     [_____________]
 
 
 ## elmer-fudd.cow
-<img src="converter/src_images/elmer-fudd.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/elmer-fudd.png" height="200" />
 
 
 ## elmo.cow
-<img src="converter/src_images/elmo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/elmo.png" height="200" />
 
 
 ## err.cow
-<img src="converter/src_images/err.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/err.png" height="200" />
 
 
 ## eve.cow
-<img src="converter/src_images/eve.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/eve.png" height="200" />
 
 
 ## ewok.cow
-<img src="converter/src_images/ewok.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ewok.png" height="200" />
 
 
 ## explosion.cow
@@ -1384,11 +1392,11 @@ snd     [_____________]
 
 
 ## falco.cow
-<img src="converter/src_images/falco.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/falco.png" height="200" />
 
 
 ## farnsworth.cow
-<img src="converter/src_images/farnsworth.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/farnsworth.png" height="200" />
 
 
 ## fat-banana.cow
@@ -1452,23 +1460,27 @@ $@#MX %+;-                           .
 
 
 ## firefox.cow
-<img src="converter/src_images/firefox.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/firefox.png" height="200" />
 
 
 ## flanders-devil.cow
-<img src="converter/src_images/flanders-devil.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/flanders-devil.png" height="200" />
 
 
 ## flintstone.cow
-<img src="converter/src_images/flintstone.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/flintstone.png" height="200" />
 
 
 ## flintstone2.cow
-<img src="converter/src_images/flintstone2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/flintstone2.png" height="200" />
 
 
 ## foghorn-leghorn.cow
-<img src="converter/src_images/foghorn-leghorn.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/foghorn-leghorn.png" height="200" />
+
+
+## forrest-gump.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/forrest-gump.png" height="200" />
 
 
 ## fox.cow
@@ -1491,87 +1503,87 @@ $@#MX %+;-                           .
 
 
 ## freeman-face.cow
-<img src="converter/src_images/freeman-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman-face.png" height="200" />
 
 
 ## freeman.cow
-<img src="converter/src_images/freeman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman.png" height="200" />
 
 
 ## freeman2.cow
-<img src="converter/src_images/freeman2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman2.png" height="200" />
 
 
 ## fry-money.cow
-<img src="converter/src_images/fry-money.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fry-money.png" height="200" />
 
 
 ## frylock.cow
-<img src="converter/src_images/frylock.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/frylock.png" height="200" />
 
 
 ## fsm-creation.cow
-<img src="converter/src_images/fsm-creation.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fsm-creation.png" height="200" />
 
 
 ## fsm.cow
-<img src="converter/src_images/fsm.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fsm.png" height="200" />
 
 
 ## fsm2.cow
-<img src="converter/src_images/fsm2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fsm2.png" height="200" />
 
 
 ## gambit.cow
-<img src="converter/src_images/gambit.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gambit.png" height="200" />
 
 
 ## gamecube-controller.cow
-<img src="converter/src_images/gamecube-controller.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gamecube-controller.png" height="200" />
 
 
 ## gamecube.cow
-<img src="converter/src_images/gamecube.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gamecube.png" height="200" />
 
 
 ## gandalf.cow
-<img src="converter/src_images/gandalf.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gandalf.png" height="200" />
 
 
 ## ganesha.cow
-<img src="converter/src_images/ganesha.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ganesha.png" height="200" />
 
 
 ## ganondorf.cow
-<img src="converter/src_images/ganondorf.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ganondorf.png" height="200" />
 
 
 ## garfield-face.cow
-<img src="converter/src_images/garfield-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/garfield-face.png" height="200" />
 
 
 ## garfield.cow
-<img src="converter/src_images/garfield.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/garfield.png" height="200" />
 
 
 ## garfield2.cow
-<img src="converter/src_images/garfield2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/garfield2.png" height="200" />
 
 
 ## garfield3.cow
-<img src="converter/src_images/garfield3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/garfield3.png" height="200" />
 
 
 ## gene.cow
-<img src="converter/src_images/gene.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gene.png" height="200" />
 
 
 ## genie.cow
-<img src="converter/src_images/genie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/genie.png" height="200" />
 
 
 ## genie2.cow
-<img src="converter/src_images/genie2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/genie2.png" height="200" />
 
 
 ## ghost.cow
@@ -1596,11 +1608,11 @@ $@#MX %+;-                           .
 
 
 ## ghostbusters.cow
-<img src="converter/src_images/ghostbusters.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ghostbusters.png" height="200" />
 
 
 ## ghostface.cow
-<img src="converter/src_images/ghostface.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ghostface.png" height="200" />
 
 
 ## giving-bunny.cow
@@ -1617,15 +1629,15 @@ $@#MX %+;-                           .
 
 
 ## glados-color.cow
-<img src="converter/src_images/glados-color.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/glados-color.png" height="200" />
 
 
 ## glados-potato.cow
-<img src="converter/src_images/glados-potato.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/glados-potato.png" height="200" />
 
 
 ## glados-wrecked.cow
-<img src="converter/src_images/glados-wrecked.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/glados-wrecked.png" height="200" />
 
 
 ## glados.cow
@@ -1659,11 +1671,11 @@ $@#MX %+;-                           .
 
 
 ## glados2.cow
-<img src="converter/src_images/glados2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/glados2.png" height="200" />
 
 
 ## gobi.cow
-<img src="converter/src_images/gobi.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gobi.png" height="200" />
 
 
 ## golden-eagle.cow
@@ -1714,55 +1726,55 @@ $@#MX %+;-                           .
 
 
 ## good-vs-evil.cow
-<img src="converter/src_images/good-vs-evil.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/good-vs-evil.png" height="200" />
 
 
 ## gray-fox.cow
-<img src="converter/src_images/gray-fox.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox.png" height="200" />
 
 
 ## gray-fox2.cow
-<img src="converter/src_images/gray-fox2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox2.png" height="200" />
 
 
 ## greedo.cow
-<img src="converter/src_images/greedo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/greedo.png" height="200" />
 
 
 ## grinch.cow
-<img src="converter/src_images/grinch.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/grinch.png" height="200" />
 
 
 ## gruntilda.cow
-<img src="converter/src_images/gruntilda.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gruntilda.png" height="200" />
 
 
 ## grunty-broom.cow
-<img src="converter/src_images/grunty-broom.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/grunty-broom.png" height="200" />
 
 
 ## grunty.cow
-<img src="converter/src_images/grunty.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/grunty.png" height="200" />
 
 
 ## guy-fawkes.cow
-<img src="converter/src_images/guy-fawkes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/guy-fawkes.png" height="200" />
 
 
 ## hammerhead.cow
-<img src="converter/src_images/hammerhead.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hammerhead.png" height="200" />
 
 
 ## hank-hill.cow
-<img src="converter/src_images/hank-hill.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hank-hill.png" height="200" />
 
 
 ## hank.cow
-<img src="converter/src_images/hank.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hank.png" height="200" />
 
 
 ## hanuman.cow
-<img src="converter/src_images/hanuman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hanuman.png" height="200" />
 
 
 ## happy-whale.cow
@@ -1788,11 +1800,11 @@ $@#MX %+;-                           .
 
 
 ## harley-quinn.cow
-<img src="converter/src_images/harley-quinn.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/harley-quinn.png" height="200" />
 
 
 ## hawking.cow
-<img src="converter/src_images/hawking.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hawking.png" height="200" />
 
 
 ## head.cow
@@ -1826,47 +1838,47 @@ $@#MX %+;-                           .
 
 
 ## headcrab.cow
-<img src="converter/src_images/headcrab.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/headcrab.png" height="200" />
 
 
 ## hermes.cow
-<img src="converter/src_images/hermes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hermes.png" height="200" />
 
 
 ## hitman-face.cow
-<img src="converter/src_images/hitman-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hitman-face.png" height="200" />
 
 
 ## hitman.cow
-<img src="converter/src_images/hitman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hitman.png" height="200" />
 
 
 ## hl2-dog.cow
-<img src="converter/src_images/hl2-dog.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hl2-dog.png" height="200" />
 
 
 ## hobbes.cow
-<img src="converter/src_images/hobbes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hobbes.png" height="200" />
 
 
 ## hobbes2.cow
-<img src="converter/src_images/hobbes2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hobbes2.png" height="200" />
 
 
 ## hobbes3.cow
-<img src="converter/src_images/hobbes3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hobbes3.png" height="200" />
 
 
 ## hodor.cow
-<img src="converter/src_images/hodor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hodor.png" height="200" />
 
 
 ## homer-shining.cow
-<img src="converter/src_images/homer-shining.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/homer-shining.png" height="200" />
 
 
 ## homer-simpson.cow
-<img src="converter/src_images/homer-simpson.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/homer-simpson.png" height="200" />
 
 
 ## homer.cow
@@ -1904,75 +1916,79 @@ $@#MX %+;-                           .
 
 
 ## homestar.cow
-<img src="converter/src_images/homestar.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/homestar.png" height="200" />
 
 
 ## hulk.cow
-<img src="converter/src_images/hulk.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hulk.png" height="200" />
 
 
 ## humba-wumba.cow
-<img src="converter/src_images/humba-wumba.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/humba-wumba.png" height="200" />
 
 
 ## hypnotoad.cow
-<img src="converter/src_images/hypnotoad.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hypnotoad.png" height="200" />
 
 
 ## ignignokt.cow
-<img src="converter/src_images/ignignokt.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ignignokt.png" height="200" />
 
 
 ## ike.cow
-<img src="converter/src_images/ike.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ike.png" height="200" />
 
 
 ## indiana-jones.cow
-<img src="converter/src_images/indiana-jones.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/indiana-jones.png" height="200" />
 
 
 ## ironman.cow
-<img src="converter/src_images/ironman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ironman.png" height="200" />
 
 
 ## ironman2.cow
-<img src="converter/src_images/ironman2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ironman2.png" height="200" />
 
 
 ## isaac.cow
-<img src="converter/src_images/isaac.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/isaac.png" height="200" />
 
 
 ## it-crowd.cow
-<img src="converter/src_images/it-crowd.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/it-crowd.png" height="200" />
 
 
 ## it.cow
-<img src="converter/src_images/it.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/it.png" height="200" />
 
 
 ## jab.cow
-<img src="converter/src_images/jab.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jab.png" height="200" />
 
 
 ## jafar.cow
-<img src="converter/src_images/jafar.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jafar.png" height="200" />
 
 
 ## jafar2.cow
-<img src="converter/src_images/jafar2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jafar2.png" height="200" />
 
 
 ## jamjars.cow
-<img src="converter/src_images/jamjars.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jamjars.png" height="200" />
 
 
 ## jaws.cow
-<img src="converter/src_images/jaws.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jaws.png" height="200" />
 
 
 ## jaws2.cow
-<img src="converter/src_images/jaws2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jaws2.png" height="200" />
+
+
+## jayhawk.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jayhawk.png" height="200" />
 
 
 ## jellyfish.cow
@@ -2001,63 +2017,63 @@ jgs
 
 
 ## jerry-mouse.cow
-<img src="converter/src_images/jerry-mouse.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jerry-mouse.png" height="200" />
 
 
 ## jesus-ripped.cow
-<img src="converter/src_images/jesus-ripped.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jesus-ripped.png" height="200" />
 
 
 ## jigsaw.cow
-<img src="converter/src_images/jigsaw.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jigsaw.png" height="200" />
 
 
 ## jimmy.cow
-<img src="converter/src_images/jimmy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jimmy.png" height="200" />
 
 
 ## joffrey.cow
-<img src="converter/src_images/joffrey.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/joffrey.png" height="200" />
 
 
 ## john-snow.cow
-<img src="converter/src_images/john-snow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/john-snow.png" height="200" />
 
 
 ## joker-face.cow
-<img src="converter/src_images/joker-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/joker-face.png" height="200" />
 
 
 ## joker-toon.cow
-<img src="converter/src_images/joker-toon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/joker-toon.png" height="200" />
 
 
 ## joker.cow
-<img src="converter/src_images/joker.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/joker.png" height="200" />
 
 
 ## kazooie.cow
-<img src="converter/src_images/kazooie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kazooie.png" height="200" />
 
 
 ## ken.cow
-<img src="converter/src_images/ken.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ken.png" height="200" />
 
 
 ## kenny.cow
-<img src="converter/src_images/kenny.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kenny.png" height="200" />
 
 
 ## kermit.cow
-<img src="converter/src_images/kermit.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kermit.png" height="200" />
 
 
 ## kermit2.cow
-<img src="converter/src_images/kermit2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kermit2.png" height="200" />
 
 
 ## khal-drogo.cow
-<img src="converter/src_images/khal-drogo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/khal-drogo.png" height="200" />
 
 
 ## kilroy.cow
@@ -2097,7 +2113,7 @@ jgs
 
 
 ## kirby.cow
-<img src="converter/src_images/kirby.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kirby.png" height="200" />
 
 
 ## kitten.cow
@@ -2116,11 +2132,11 @@ jgs
 
 
 ## kk-slider.cow
-<img src="converter/src_images/kk-slider.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kk-slider.png" height="200" />
 
 
 ## klungo.cow
-<img src="converter/src_images/klungo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/klungo.png" height="200" />
 
 
 ## knight.cow
@@ -2141,103 +2157,107 @@ jgs
 
 
 ## knuckles.cow
-<img src="converter/src_images/knuckles.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/knuckles.png" height="200" />
 
 
 ## knuckles2.cow
-<img src="converter/src_images/knuckles2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/knuckles2.png" height="200" />
 
 
 ## koolaid.cow
-<img src="converter/src_images/koolaid.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/koolaid.png" height="200" />
 
 
 ## krishna.cow
-<img src="converter/src_images/krishna.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/krishna.png" height="200" />
 
 
 ## krueger.cow
-<img src="converter/src_images/krueger.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/krueger.png" height="200" />
 
 
 ## kyle.cow
-<img src="converter/src_images/kyle.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kyle.png" height="200" />
+
+
+## lahey-8bit.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey-8bit.png" height="200" />
 
 
 ## lahey.cow
-<img src="converter/src_images/lahey.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey.png" height="200" />
 
 
 ## lara-croft.cow
-<img src="converter/src_images/lara-croft.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lara-croft.png" height="200" />
 
 
 ## lara-croft2.cow
-<img src="converter/src_images/lara-croft2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lara-croft2.png" height="200" />
 
 
 ## larry.cow
-<img src="converter/src_images/larry.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/larry.png" height="200" />
 
 
 ## larry2.cow
-<img src="converter/src_images/larry2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/larry2.png" height="200" />
 
 
 ## laylee.cow
-<img src="converter/src_images/laylee.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/laylee.png" height="200" />
 
 
 ## lebowski-walter.cow
-<img src="converter/src_images/lebowski-walter.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lebowski-walter.png" height="200" />
 
 
 ## leela.cow
-<img src="converter/src_images/leela.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leela.png" height="200" />
 
 
 ## leia2.cow
-<img src="converter/src_images/leia2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leia2.png" height="200" />
 
 
 ## leon.cow
-<img src="converter/src_images/leon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leon.png" height="200" />
 
 
 ## leonardo-error.cow
-<img src="converter/src_images/leonardo-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leonardo-error.png" height="200" />
 
 
 ## leonardo-error2.cow
-<img src="converter/src_images/leonardo-error2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leonardo-error2.png" height="200" />
 
 
 ## leonardo.cow
-<img src="converter/src_images/leonardo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leonardo.png" height="200" />
 
 
 ## leonardo2.cow
-<img src="converter/src_images/leonardo2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leonardo2.png" height="200" />
 
 
 ## leonardo3.cow
-<img src="converter/src_images/leonardo3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leonardo3.png" height="200" />
 
 
 ## leonardo4.cow
-<img src="converter/src_images/leonardo4.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leonardo4.png" height="200" />
 
 
 ## leprechaun.cow
-<img src="converter/src_images/leprechaun.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leprechaun.png" height="200" />
 
 
 ## lgm.cow
-<img src="converter/src_images/lgm.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lgm.png" height="200" />
 
 
 ## liberty.cow
-<img src="converter/src_images/liberty.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/liberty.png" height="200" />
 
 
 ## lightbulb.cow
@@ -2271,91 +2291,91 @@ H#,                     =;+/;,       ,#X
 
 
 ## linda.cow
-<img src="converter/src_images/linda.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/linda.png" height="200" />
 
 
 ## link-awaken.cow
-<img src="converter/src_images/link-awaken.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-awaken.png" height="200" />
 
 
 ## link-barbarian.cow
-<img src="converter/src_images/link-barbarian.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-barbarian.png" height="200" />
 
 
 ## link-champion.cow
-<img src="converter/src_images/link-champion.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-champion.png" height="200" />
 
 
 ## link-dark.cow
-<img src="converter/src_images/link-dark.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-dark.png" height="200" />
 
 
 ## link-desert.cow
-<img src="converter/src_images/link-desert.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-desert.png" height="200" />
 
 
 ## link-fire.cow
-<img src="converter/src_images/link-fire.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-fire.png" height="200" />
 
 
 ## link-glider.cow
-<img src="converter/src_images/link-glider.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-glider.png" height="200" />
 
 
 ## link-hylian.cow
-<img src="converter/src_images/link-hylian.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-hylian.png" height="200" />
 
 
 ## link-shorts.cow
-<img src="converter/src_images/link-shorts.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-shorts.png" height="200" />
 
 
 ## link-snow.cow
-<img src="converter/src_images/link-snow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-snow.png" height="200" />
 
 
 ## link-soldier.cow
-<img src="converter/src_images/link-soldier.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-soldier.png" height="200" />
 
 
 ## link-stealth.cow
-<img src="converter/src_images/link-stealth.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-stealth.png" height="200" />
 
 
 ## link-surf.cow
-<img src="converter/src_images/link-surf.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-surf.png" height="200" />
 
 
 ## link-toon.cow
-<img src="converter/src_images/link-toon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-toon.png" height="200" />
 
 
 ## link-windwaker.cow
-<img src="converter/src_images/link-windwaker.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-windwaker.png" height="200" />
 
 
 ## link-zora.cow
-<img src="converter/src_images/link-zora.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-zora.png" height="200" />
 
 
 ## link.cow
-<img src="converter/src_images/link.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link.png" height="200" />
 
 
 ## link2.cow
-<img src="converter/src_images/link2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link2.png" height="200" />
 
 
 ## link3.cow
-<img src="converter/src_images/link3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link3.png" height="200" />
 
 
 ## linus.cow
-<img src="converter/src_images/linus.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/linus.png" height="200" />
 
 
 ## lizalfo.cow
-<img src="converter/src_images/lizalfo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lizalfo.png" height="200" />
 
 
 ## lobster.cow
@@ -2398,23 +2418,23 @@ H#,                     =;+/;,       ,#X
 
 
 ## louise.cow
-<img src="converter/src_images/louise.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/louise.png" height="200" />
 
 
 ## luigi.cow
-<img src="converter/src_images/luigi.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/luigi.png" height="200" />
 
 
 ## lumbergh.cow
-<img src="converter/src_images/lumbergh.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lumbergh.png" height="200" />
 
 
 ## magneto.cow
-<img src="converter/src_images/magneto.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/magneto.png" height="200" />
 
 
 ## magneto2.cow
-<img src="converter/src_images/magneto2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/magneto2.png" height="200" />
 
 
 ## mailchimp.cow
@@ -2434,39 +2454,39 @@ C{ ( o o )}
 
 
 ## mario.cow
-<img src="converter/src_images/mario.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mario.png" height="200" />
 
 
 ## marth-black.cow
-<img src="converter/src_images/marth-black.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-black.png" height="200" />
 
 
 ## marth-toon.cow
-<img src="converter/src_images/marth-toon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-toon.png" height="200" />
 
 
 ## marth.cow
-<img src="converter/src_images/marth.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth.png" height="200" />
 
 
 ## martian.cow
-<img src="converter/src_images/martian.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/martian.png" height="200" />
 
 
 ## master-chief.cow
-<img src="converter/src_images/master-chief.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief.png" height="200" />
 
 
 ## master-chief2.cow
-<img src="converter/src_images/master-chief2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief2.png" height="200" />
 
 
 ## master-shake.cow
-<img src="converter/src_images/master-shake.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-shake.png" height="200" />
 
 
 ## max-payne.cow
-<img src="converter/src_images/max-payne.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/max-payne.png" height="200" />
 
 
 ## maze-runner.cow
@@ -2506,95 +2526,95 @@ C{ ( o o )}
 
 
 ## meatwad.cow
-<img src="converter/src_images/meatwad.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/meatwad.png" height="200" />
 
 
 ## meeseeks.cow
-<img src="converter/src_images/meeseeks.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/meeseeks.png" height="200" />
 
 
 ## megaman.cow
-<img src="converter/src_images/megaman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/megaman.png" height="200" />
 
 
 ## megazord.cow
-<img src="converter/src_images/megazord.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/megazord.png" height="200" />
 
 
 ## melisandre.cow
-<img src="converter/src_images/melisandre.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/melisandre.png" height="200" />
 
 
 ## meowth.cow
-<img src="converter/src_images/meowth.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/meowth.png" height="200" />
 
 
 ## metaknight.cow
-<img src="converter/src_images/metaknight.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/metaknight.png" height="200" />
 
 
 ## metal-gear.cow
-<img src="converter/src_images/metal-gear.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/metal-gear.png" height="200" />
 
 
 ## mew.cow
-<img src="converter/src_images/mew.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mew.png" height="200" />
 
 
 ## mewtwo.cow
-<img src="converter/src_images/mewtwo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mewtwo.png" height="200" />
 
 
 ## mewtwo2.cow
-<img src="converter/src_images/mewtwo2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mewtwo2.png" height="200" />
 
 
 ## michael-jackson.cow
-<img src="converter/src_images/michael-jackson.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/michael-jackson.png" height="200" />
 
 
 ## michaelangelo-error.cow
-<img src="converter/src_images/michaelangelo-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/michaelangelo-error.png" height="200" />
 
 
 ## michaelangelo-error2.cow
-<img src="converter/src_images/michaelangelo-error2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/michaelangelo-error2.png" height="200" />
 
 
 ## michaelangelo.cow
-<img src="converter/src_images/michaelangelo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/michaelangelo.png" height="200" />
 
 
 ## michaelangelo2.cow
-<img src="converter/src_images/michaelangelo2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/michaelangelo2.png" height="200" />
 
 
 ## michaelangelo3.cow
-<img src="converter/src_images/michaelangelo3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/michaelangelo3.png" height="200" />
 
 
 ## mike-tyson.cow
-<img src="converter/src_images/mike-tyson.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mike-tyson.png" height="200" />
 
 
 ## milton.cow
-<img src="converter/src_images/milton.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/milton.png" height="200" />
 
 
 ## minion-laugh.cow
-<img src="converter/src_images/minion-laugh.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion-laugh.png" height="200" />
 
 
 ## minion.cow
-<img src="converter/src_images/minion.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion.png" height="200" />
 
 
 ## minion2.cow
-<img src="converter/src_images/minion2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion2.png" height="200" />
 
 
 ## moltar.cow
-<img src="converter/src_images/moltar.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/moltar.png" height="200" />
 
 
 ## mona-lisa.cow
@@ -2679,63 +2699,63 @@ C{ ( o o )}
 
 
 ## moon.cow
-<img src="converter/src_images/moon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/moon.png" height="200" />
 
 
 ## moon2.cow
-<img src="converter/src_images/moon2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/moon2.png" height="200" />
 
 
 ## mooninites.cow
-<img src="converter/src_images/mooninites.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mooninites.png" height="200" />
 
 
 ## morpheus.cow
-<img src="converter/src_images/morpheus.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/morpheus.png" height="200" />
 
 
 ## moss.cow
-<img src="converter/src_images/moss.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/moss.png" height="200" />
 
 
 ## mr-burns-sm.cow
-<img src="converter/src_images/mr-burns-sm.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-burns-sm.png" height="200" />
 
 
 ## mr-burns.cow
-<img src="converter/src_images/mr-burns.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-burns.png" height="200" />
 
 
 ## mr-freeze.cow
-<img src="converter/src_images/mr-freeze.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-freeze.png" height="200" />
 
 
 ## mr-garrison.cow
-<img src="converter/src_images/mr-garrison.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-garrison.png" height="200" />
 
 
 ## mr-pb.cow
-<img src="converter/src_images/mr-pb.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-pb.png" height="200" />
 
 
 ## mr-peanutbutter.cow
-<img src="converter/src_images/mr-peanutbutter.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-peanutbutter.png" height="200" />
 
 
 ## mr-robot-hal.cow
-<img src="converter/src_images/mr-robot-hal.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-robot-hal.png" height="200" />
 
 
 ## mr-t.cow
-<img src="converter/src_images/mr-t.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-t.png" height="200" />
 
 
 ## mr-vile.cow
-<img src="converter/src_images/mr-vile.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-vile.png" height="200" />
 
 
 ## mr-x.cow
-<img src="converter/src_images/mr-x.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-x.png" height="200" />
 
 
 ## mule.cow
@@ -2770,31 +2790,31 @@ C{ ( o o )}
 
 
 ## mumbo-jumbo.cow
-<img src="converter/src_images/mumbo-jumbo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mumbo-jumbo.png" height="200" />
 
 
 ## n64.cow
-<img src="converter/src_images/n64.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/n64.png" height="200" />
 
 
 ## ned-stark.cow
-<img src="converter/src_images/ned-stark.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ned-stark.png" height="200" />
 
 
 ## nemo.cow
-<img src="converter/src_images/nemo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/nemo.png" height="200" />
 
 
 ## neo.cow
-<img src="converter/src_images/neo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/neo.png" height="200" />
 
 
 ## ness.cow
-<img src="converter/src_images/ness.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ness.png" height="200" />
 
 
 ## npc.cow
-<img src="converter/src_images/npc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/npc.png" height="200" />
 
 
 ## nyan.cow
@@ -2823,7 +2843,7 @@ o        o         o      o     +
 
 
 ## obi-wan.cow
-<img src="converter/src_images/obi-wan.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/obi-wan.png" height="200" />
 
 
 ## octopus.cow
@@ -2853,19 +2873,19 @@ o        o         o      o     +
 
 
 ## one-punch-man.cow
-<img src="converter/src_images/one-punch-man.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/one-punch-man.png" height="200" />
 
 
 ## oscar-face.cow
-<img src="converter/src_images/oscar-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/oscar-face.png" height="200" />
 
 
 ## oscar.cow
-<img src="converter/src_images/oscar.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/oscar.png" height="200" />
 
 
 ## oscar2.cow
-<img src="converter/src_images/oscar2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/oscar2.png" height="200" />
 
 
 ## owl.cow
@@ -2883,11 +2903,11 @@ o        o         o      o     +
 
 
 ## palpatine.cow
-<img src="converter/src_images/palpatine.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/palpatine.png" height="200" />
 
 
 ## patrick.cow
-<img src="converter/src_images/patrick.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/patrick.png" height="200" />
 
 
 ## pawn.cow
@@ -2906,23 +2926,23 @@ o        o         o      o     +
 
 
 ## peach.cow
-<img src="converter/src_images/peach.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/peach.png" height="200" />
 
 
 ## peanuts.cow
-<img src="converter/src_images/peanuts.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/peanuts.png" height="200" />
 
 
 ## peep-show.cow
-<img src="converter/src_images/peep-show.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/peep-show.png" height="200" />
 
 
 ## penguin.cow
-<img src="converter/src_images/penguin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/penguin.png" height="200" />
 
 
 ## pepe.cow
-<img src="converter/src_images/pepe.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pepe.png" height="200" />
 
 
 ## periodic-table.cow
@@ -2987,47 +3007,47 @@ o        o         o      o     +
 
 
 ## peter-pan.cow
-<img src="converter/src_images/peter-pan.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/peter-pan.png" height="200" />
 
 
 ## peter.cow
-<img src="converter/src_images/peter.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/peter.png" height="200" />
 
 
 ## phasma.cow
-<img src="converter/src_images/phasma.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/phasma.png" height="200" />
 
 
 ## pickle-rick-face.cow
-<img src="converter/src_images/pickle-rick-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pickle-rick-face.png" height="200" />
 
 
 ## pickle-rick.cow
-<img src="converter/src_images/pickle-rick.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pickle-rick.png" height="200" />
 
 
 ## pickle-rick2.cow
-<img src="converter/src_images/pickle-rick2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pickle-rick2.png" height="200" />
 
 
 ## pikachu-jason.cow
-<img src="converter/src_images/pikachu-jason.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pikachu-jason.png" height="200" />
 
 
 ## pikachu.cow
-<img src="converter/src_images/pikachu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pikachu.png" height="200" />
 
 
 ## pikachu2.cow
-<img src="converter/src_images/pikachu2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pikachu2.png" height="200" />
 
 
 ## pikachu3.cow
-<img src="converter/src_images/pikachu3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pikachu3.png" height="200" />
 
 
 ## pimple.cow
-<img src="converter/src_images/pimple.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pimple.png" height="200" />
 
 
 ## pinball-machine.cow
@@ -3070,23 +3090,23 @@ o        o         o      o     +
 
 
 ## pit.cow
-<img src="converter/src_images/pit.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pit.png" height="200" />
 
 
 ## pizza-phone.cow
-<img src="converter/src_images/pizza-phone.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pizza-phone.png" height="200" />
 
 
 ## plankton.cow
-<img src="converter/src_images/plankton.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/plankton.png" height="200" />
 
 
 ## plutonian.cow
-<img src="converter/src_images/plutonian.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/plutonian.png" height="200" />
 
 
 ## plutonians.cow
-<img src="converter/src_images/plutonians.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/plutonians.png" height="200" />
 
 
 ## pod.cow
@@ -3112,47 +3132,47 @@ o        o         o      o     +
 
 
 ## poison-ivy.cow
-<img src="converter/src_images/poison-ivy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/poison-ivy.png" height="200" />
 
 
 ## pokemon-trainers.cow
-<img src="converter/src_images/pokemon-trainers.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pokemon-trainers.png" height="200" />
 
 
 ## pooh.cow
-<img src="converter/src_images/pooh.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pooh.png" height="200" />
 
 
 ## pooh2.cow
-<img src="converter/src_images/pooh2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pooh2.png" height="200" />
 
 
 ## popeye.cow
-<img src="converter/src_images/popeye.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/popeye.png" height="200" />
 
 
 ## portal-chell.cow
-<img src="converter/src_images/portal-chell.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/portal-chell.png" height="200" />
 
 
 ## portal-turrets.cow
-<img src="converter/src_images/portal-turrets.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/portal-turrets.png" height="200" />
 
 
 ## power-armor.cow
-<img src="converter/src_images/power-armor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/power-armor.png" height="200" />
 
 
 ## princess-carolyn.cow
-<img src="converter/src_images/princess-carolyn.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/princess-carolyn.png" height="200" />
 
 
 ## prof.cow
-<img src="converter/src_images/prof.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/prof.png" height="200" />
 
 
 ## professor.cow
-<img src="converter/src_images/professor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/professor.png" height="200" />
 
 
 ## pterodactyl.cow
@@ -3250,11 +3270,11 @@ o        o         o      o     +
 
 
 ## r2d2-c3po.cow
-<img src="converter/src_images/r2d2-c3po.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/r2d2-c3po.png" height="200" />
 
 
 ## r2d2.cow
-<img src="converter/src_images/r2d2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/r2d2.png" height="200" />
 
 
 ## radio.cow
@@ -3287,123 +3307,127 @@ o        o         o      o     +
 
 
 ## rama.cow
-<img src="converter/src_images/rama.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rama.png" height="200" />
+
+
+## rambo.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rambo.png" height="200" />
 
 
 ## raphael-error.cow
-<img src="converter/src_images/raphael-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael-error.png" height="200" />
 
 
 ## raphael-error2.cow
-<img src="converter/src_images/raphael-error2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael-error2.png" height="200" />
 
 
 ## raphael.cow
-<img src="converter/src_images/raphael.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael.png" height="200" />
 
 
 ## raphael2.cow
-<img src="converter/src_images/raphael2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael2.png" height="200" />
 
 
 ## raphael3.cow
-<img src="converter/src_images/raphael3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael3.png" height="200" />
 
 
 ## raphael4.cow
-<img src="converter/src_images/raphael4.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael4.png" height="200" />
 
 
 ## raphael5.cow
-<img src="converter/src_images/raphael5.png" height="200" />
-
-
-## raptor-jesus.cow
-<img src="converter/src_images/raptor-jesus.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raphael5.png" height="200" />
 
 
 ## raptor.cow
-<img src="converter/src_images/raptor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raptor.png" height="200" />
 
 
 ## rash.cow
-<img src="converter/src_images/rash.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rash.png" height="200" />
 
 
 ## rayman.cow
-<img src="converter/src_images/rayman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rayman.png" height="200" />
 
 
 ## rayman2.cow
-<img src="converter/src_images/rayman2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rayman2.png" height="200" />
+
+
+## rdr.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rdr.png" height="200" />
 
 
 ## reddit.cow
-<img src="converter/src_images/reddit.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/reddit.png" height="200" />
 
 
 ## resetti.cow
-<img src="converter/src_images/resetti.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/resetti.png" height="200" />
 
 
 ## rick-and-morty-running.cow
-<img src="converter/src_images/rick-and-morty-running.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rick-and-morty-running.png" height="200" />
 
 
 ## rick-and-morty-split.cow
-<img src="converter/src_images/rick-and-morty-split.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rick-and-morty-split.png" height="200" />
 
 
 ## rick-and-morty.cow
-<img src="converter/src_images/rick-and-morty.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rick-and-morty.png" height="200" />
 
 
 ## rick-and-morty2.cow
-<img src="converter/src_images/rick-and-morty2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rick-and-morty2.png" height="200" />
 
 
 ## riddler.cow
-<img src="converter/src_images/riddler.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/riddler.png" height="200" />
 
 
 ## ripster.cow
-<img src="converter/src_images/ripster.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ripster.png" height="200" />
 
 
 ## roadrunner.cow
-<img src="converter/src_images/roadrunner.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/roadrunner.png" height="200" />
 
 
 ## roadrunner2.cow
-<img src="converter/src_images/roadrunner2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/roadrunner2.png" height="200" />
 
 
 ## roberto-face.cow
-<img src="converter/src_images/roberto-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/roberto-face.png" height="200" />
 
 
 ## roberto.cow
-<img src="converter/src_images/roberto.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/roberto.png" height="200" />
 
 
 ## robin.cow
-<img src="converter/src_images/robin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/robin.png" height="200" />
 
 
 ## robin2.cow
-<img src="converter/src_images/robin2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/robin2.png" height="200" />
 
 
 ## robocop.cow
-<img src="converter/src_images/robocop.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/robocop.png" height="200" />
 
 
 ## robocop2.cow
-<img src="converter/src_images/robocop2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/robocop2.png" height="200" />
 
 
 ## robot-devil.cow
-<img src="converter/src_images/robot-devil.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/robot-devil.png" height="200" />
 
 
 ## robot.cow
@@ -3437,7 +3461,7 @@ o        o         o      o     +
 
 
 ## rocko.cow
-<img src="converter/src_images/rocko.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rocko.png" height="200" />
 
 
 ## roflcopter.cow
@@ -3458,7 +3482,7 @@ LOL===__        \
 
 
 ## ron-swanson.cow
-<img src="converter/src_images/ron-swanson.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ron-swanson.png" height="200" />
 
 
 ## rook.cow
@@ -3479,63 +3503,63 @@ LOL===__        \
 
 
 ## roy.cow
-<img src="converter/src_images/roy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/roy.png" height="200" />
 
 
 ## ryu.cow
-<img src="converter/src_images/ryu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ryu.png" height="200" />
 
 
 ## samus-cannon.cow
-<img src="converter/src_images/samus-cannon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/samus-cannon.png" height="200" />
 
 
 ## samus.cow
-<img src="converter/src_images/samus.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/samus.png" height="200" />
 
 
 ## samus2.cow
-<img src="converter/src_images/samus2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/samus2.png" height="200" />
 
 
 ## samus3.cow
-<img src="converter/src_images/samus3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/samus3.png" height="200" />
 
 
 ## scar.cow
-<img src="converter/src_images/scar.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scar.png" height="200" />
 
 
 ## scarecrow.cow
-<img src="converter/src_images/scarecrow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scarecrow.png" height="200" />
 
 
 ## scary-terry-face.cow
-<img src="converter/src_images/scary-terry-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scary-terry-face.png" height="200" />
 
 
 ## scary-terry.cow
-<img src="converter/src_images/scary-terry.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scary-terry.png" height="200" />
 
 
 ## schroeder.cow
-<img src="converter/src_images/schroeder.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/schroeder.png" height="200" />
 
 
 ## scooby-doo.cow
-<img src="converter/src_images/scooby-doo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scooby-doo.png" height="200" />
 
 
 ## scorpion.cow
-<img src="converter/src_images/scorpion.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scorpion.png" height="200" />
 
 
 ## scrooge-mcduck.cow
-<img src="converter/src_images/scrooge-mcduck.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scrooge-mcduck.png" height="200" />
 
 
 ## scruffy.cow
-<img src="converter/src_images/scruffy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scruffy.png" height="200" />
 
 
 ## seahorse-big.cow
@@ -3605,67 +3629,67 @@ LOL===__        \
 
 
 ## shadow.cow
-<img src="converter/src_images/shadow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shadow.png" height="200" />
 
 
 ## shadow2.cow
-<img src="converter/src_images/shadow2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shadow2.png" height="200" />
 
 
 ## shaggy.cow
-<img src="converter/src_images/shaggy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shaggy.png" height="200" />
 
 
 ## shark-dude.cow
-<img src="converter/src_images/shark-dude.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shark-dude.png" height="200" />
 
 
 ## shark-smiling.cow
-<img src="converter/src_images/shark-smiling.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shark-smiling.png" height="200" />
 
 
 ## sheik.cow
-<img src="converter/src_images/sheik.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sheik.png" height="200" />
 
 
 ## sherlock.cow
-<img src="converter/src_images/sherlock.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sherlock.png" height="200" />
 
 
 ## shiva.cow
-<img src="converter/src_images/shiva.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shiva.png" height="200" />
 
 
 ## shredder-snes.cow
-<img src="converter/src_images/shredder-snes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shredder-snes.png" height="200" />
 
 
 ## shredder.cow
-<img src="converter/src_images/shredder.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shredder.png" height="200" />
 
 
 ## shredder2.cow
-<img src="converter/src_images/shredder2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shredder2.png" height="200" />
 
 
 ## shrek.cow
-<img src="converter/src_images/shrek.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shrek.png" height="200" />
 
 
 ## shyguy.cow
-<img src="converter/src_images/shyguy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/shyguy.png" height="200" />
 
 
 ## simba.cow
-<img src="converter/src_images/simba.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/simba.png" height="200" />
 
 
 ## skull-kid.cow
-<img src="converter/src_images/skull-kid.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/skull-kid.png" height="200" />
 
 
 ## sleepycat.cow
-<img src="converter/src_images/sleepycat.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sleepycat.png" height="200" />
 
 
 ## smiling-octopus.cow
@@ -3713,155 +3737,155 @@ LOL===__        \
 
 
 ## smith.cow
-<img src="converter/src_images/smith.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/smith.png" height="200" />
 
 
 ## snacker.cow
-<img src="converter/src_images/snacker.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snacker.png" height="200" />
 
 
 ## snek.cow
-<img src="converter/src_images/snek.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snek.png" height="200" />
 
 
 ## snes.cow
-<img src="converter/src_images/snes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snes.png" height="200" />
 
 
 ## snoopy-doghouse.cow
-<img src="converter/src_images/snoopy-doghouse.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snoopy-doghouse.png" height="200" />
 
 
 ## snoopy-error.cow
-<img src="converter/src_images/snoopy-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snoopy-error.png" height="200" />
 
 
 ## snoopy-sleep.cow
-<img src="converter/src_images/snoopy-sleep.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snoopy-sleep.png" height="200" />
 
 
 ## snoopy-turkey.cow
-<img src="converter/src_images/snoopy-turkey.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snoopy-turkey.png" height="200" />
 
 
 ## snoopy-woodstock.cow
-<img src="converter/src_images/snoopy-woodstock.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snoopy-woodstock.png" height="200" />
 
 
 ## snoopy.cow
-<img src="converter/src_images/snoopy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snoopy.png" height="200" />
 
 
 ## snowball.cow
-<img src="converter/src_images/snowball.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snowball.png" height="200" />
 
 
 ## solid-snake.cow
-<img src="converter/src_images/solid-snake.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake.png" height="200" />
 
 
 ## solid-snake2.cow
-<img src="converter/src_images/solid-snake2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake2.png" height="200" />
 
 
 ## solo.cow
-<img src="converter/src_images/solo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/solo.png" height="200" />
 
 
 ## sonic-error.cow
-<img src="converter/src_images/sonic-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sonic-error.png" height="200" />
 
 
 ## sonic.cow
-<img src="converter/src_images/sonic.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sonic.png" height="200" />
 
 
 ## sonic2.cow
-<img src="converter/src_images/sonic2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sonic2.png" height="200" />
 
 
 ## sonic3.cow
-<img src="converter/src_images/sonic3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sonic3.png" height="200" />
 
 
 ## sonic4.cow
-<img src="converter/src_images/sonic4.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sonic4.png" height="200" />
 
 
 ## space-ghost.cow
-<img src="converter/src_images/space-ghost.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/space-ghost.png" height="200" />
 
 
 ## space-ghost2.cow
-<img src="converter/src_images/space-ghost2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/space-ghost2.png" height="200" />
 
 
 ## speedy-gonzales.cow
-<img src="converter/src_images/speedy-gonzales.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/speedy-gonzales.png" height="200" />
 
 
 ## spiderman.cow
-<img src="converter/src_images/spiderman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spiderman.png" height="200" />
 
 
 ## spiderman2.cow
-<img src="converter/src_images/spiderman2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spiderman2.png" height="200" />
 
 
 ## spiderman3.cow
-<img src="converter/src_images/spiderman3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spiderman3.png" height="200" />
 
 
 ## splinter.cow
-<img src="converter/src_images/splinter.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/splinter.png" height="200" />
 
 
 ## splinter2.cow
-<img src="converter/src_images/splinter2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/splinter2.png" height="200" />
 
 
 ## spongebob.cow
-<img src="converter/src_images/spongebob.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spongebob.png" height="200" />
 
 
 ## spyro.cow
-<img src="converter/src_images/spyro.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spyro.png" height="200" />
 
 
 ## spyro2.cow
-<img src="converter/src_images/spyro2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spyro2.png" height="200" />
 
 
 ## squanchy.cow
-<img src="converter/src_images/squanchy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/squanchy.png" height="200" />
 
 
 ## squidward.cow
-<img src="converter/src_images/squidward.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/squidward.png" height="200" />
 
 
 ## squirtle.cow
-<img src="converter/src_images/squirtle.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/squirtle.png" height="200" />
 
 
 ## stan.cow
-<img src="converter/src_images/stan.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stan.png" height="200" />
 
 
 ## starfox.cow
-<img src="converter/src_images/starfox.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/starfox.png" height="200" />
 
 
 ## starfox2.cow
-<img src="converter/src_images/starfox2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/starfox2.png" height="200" />
 
 
 ## starfox3.cow
-<img src="converter/src_images/starfox3.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/starfox3.png" height="200" />
 
 
 ## stewie.cow
-<img src="converter/src_images/stewie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stewie.png" height="200" />
 
 
 ## stick-figure.cow
@@ -3879,31 +3903,31 @@ LOL===__        \
 
 
 ## stormtrooper-error.cow
-<img src="converter/src_images/stormtrooper-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stormtrooper-error.png" height="200" />
 
 
 ## stormtrooper.cow
-<img src="converter/src_images/stormtrooper.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stormtrooper.png" height="200" />
 
 
 ## stormtrooper2.cow
-<img src="converter/src_images/stormtrooper2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stormtrooper2.png" height="200" />
 
 
 ## streex.cow
-<img src="converter/src_images/streex.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/streex.png" height="200" />
 
 
 ## strongbad.cow
-<img src="converter/src_images/strongbad.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/strongbad.png" height="200" />
 
 
 ## stu.cow
-<img src="converter/src_images/stu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stu.png" height="200" />
 
 
 ## subzero.cow
-<img src="converter/src_images/subzero.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/subzero.png" height="200" />
 
 
 ## sudowoodo.cow
@@ -3931,39 +3955,39 @@ LOL===__        \
 
 
 ## super-mario-world.cow
-<img src="converter/src_images/super-mario-world.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/super-mario-world.png" height="200" />
 
 
 ## superman-batman.cow
-<img src="converter/src_images/superman-batman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman-batman.png" height="200" />
 
 
 ## superman-cyborg.cow
-<img src="converter/src_images/superman-cyborg.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman-cyborg.png" height="200" />
 
 
 ## superman-flying.cow
-<img src="converter/src_images/superman-flying.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman-flying.png" height="200" />
 
 
 ## superman.cow
-<img src="converter/src_images/superman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman.png" height="200" />
 
 
 ## sylvester.cow
-<img src="converter/src_images/sylvester.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sylvester.png" height="200" />
 
 
 ## tails-error.cow
-<img src="converter/src_images/tails-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tails-error.png" height="200" />
 
 
 ## tails.cow
-<img src="converter/src_images/tails.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tails.png" height="200" />
 
 
 ## tails2.cow
-<img src="converter/src_images/tails2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tails2.png" height="200" />
 
 
 ## taxi.cow
@@ -3986,87 +4010,87 @@ LOL===__        \
 
 
 ## taz.cow
-<img src="converter/src_images/taz.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/taz.png" height="200" />
 
 
 ## terminator.cow
-<img src="converter/src_images/terminator.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/terminator.png" height="200" />
 
 
 ## tesla.cow
-<img src="converter/src_images/tesla.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tesla.png" height="200" />
 
 
 ## tf2-demo.cow
-<img src="converter/src_images/tf2-demo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-demo.png" height="200" />
 
 
 ## tf2-engineer.cow
-<img src="converter/src_images/tf2-engineer.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-engineer.png" height="200" />
 
 
 ## tf2-heavy.cow
-<img src="converter/src_images/tf2-heavy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-heavy.png" height="200" />
 
 
 ## tf2-medic.cow
-<img src="converter/src_images/tf2-medic.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-medic.png" height="200" />
 
 
 ## tf2-pyro.cow
-<img src="converter/src_images/tf2-pyro.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-pyro.png" height="200" />
 
 
 ## tf2-scout.cow
-<img src="converter/src_images/tf2-scout.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-scout.png" height="200" />
 
 
 ## tf2-sniper.cow
-<img src="converter/src_images/tf2-sniper.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-sniper.png" height="200" />
 
 
 ## tf2-soldier.cow
-<img src="converter/src_images/tf2-soldier.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-soldier.png" height="200" />
 
 
 ## tf2-spy-knife.cow
-<img src="converter/src_images/tf2-spy-knife.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-spy-knife.png" height="200" />
 
 
 ## tf2-spy.cow
-<img src="converter/src_images/tf2-spy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-spy.png" height="200" />
 
 
 ## tf2-spy2.cow
-<img src="converter/src_images/tf2-spy2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tf2-spy2.png" height="200" />
 
 
 ## the-boss.cow
-<img src="converter/src_images/the-boss.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/the-boss.png" height="200" />
 
 
 ## the-count.cow
-<img src="converter/src_images/the-count.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/the-count.png" height="200" />
 
 
 ## the-dude.cow
-<img src="converter/src_images/the-dude.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/the-dude.png" height="200" />
 
 
 ## the-hound.cow
-<img src="converter/src_images/the-hound.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/the-hound.png" height="200" />
 
 
 ## the-jesus.cow
-<img src="converter/src_images/the-jesus.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/the-jesus.png" height="200" />
 
 
 ## this-is-fine.cow
-<img src="converter/src_images/this-is-fine.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/this-is-fine.png" height="200" />
 
 
 ## thor.cow
-<img src="converter/src_images/thor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/thor.png" height="200" />
 
 
 ## threecubes.cow
@@ -4102,24 +4126,28 @@ LOL===__        \
 ```
 
 
+## tiger.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tiger.png" height="200" />
+
+
 ## tigger.cow
-<img src="converter/src_images/tigger.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tigger.png" height="200" />
 
 
 ## tim.cow
-<img src="converter/src_images/tim.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tim.png" height="200" />
 
 
 ## tina.cow
-<img src="converter/src_images/tina.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tina.png" height="200" />
 
 
 ## tiptup.cow
-<img src="converter/src_images/tiptup.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tiptup.png" height="200" />
 
 
 ## toast.cow
-<img src="converter/src_images/toast.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/toast.png" height="200" />
 
 
 ## toaster.cow
@@ -4147,20 +4175,16 @@ LOL===__        \
 ```
 
 
-## tobias-8bit.cow
-<img src="converter/src_images/tobias-8bit.png" height="200" />
-
-
 ## tobias.cow
-<img src="converter/src_images/tobias.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tobias.png" height="200" />
 
 
 ## todd.cow
-<img src="converter/src_images/todd.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/todd.png" height="200" />
 
 
 ## tombraider.cow
-<img src="converter/src_images/tombraider.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tombraider.png" height="200" />
 
 
 ## tortoise.cow
@@ -4178,11 +4202,11 @@ LOL===__        \
 
 
 ## toucan.cow
-<img src="converter/src_images/toucan.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/toucan.png" height="200" />
 
 
 ## trogdor.cow
-<img src="converter/src_images/trogdor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/trogdor.png" height="200" />
 
 
 ## tux-big.cow
@@ -4221,7 +4245,7 @@ LOL===__        \
 
 
 ## tux-color.cow
-<img src="converter/src_images/tux-color.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tux-color.png" height="200" />
 
 
 ## tweety-bird.cow
@@ -4259,79 +4283,79 @@ LOL===__        \
 
 
 ## twoface-toon.cow
-<img src="converter/src_images/twoface-toon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/twoface-toon.png" height="200" />
 
 
 ## twoface.cow
-<img src="converter/src_images/twoface.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/twoface.png" height="200" />
 
 
 ## tyrion.cow
-<img src="converter/src_images/tyrion.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tyrion.png" height="200" />
 
 
 ## tywin.cow
-<img src="converter/src_images/tywin.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tywin.png" height="200" />
 
 
 ## vader-toon.cow
-<img src="converter/src_images/vader-toon.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/vader-toon.png" height="200" />
 
 
 ## vader.cow
-<img src="converter/src_images/vader.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/vader.png" height="200" />
 
 
 ## varys.cow
-<img src="converter/src_images/varys.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/varys.png" height="200" />
 
 
 ## vault-boy.cow
-<img src="converter/src_images/vault-boy.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/vault-boy.png" height="200" />
 
 
 ## venom.cow
-<img src="converter/src_images/venom.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/venom.png" height="200" />
 
 
 ## ventriloquist.cow
-<img src="converter/src_images/ventriloquist.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ventriloquist.png" height="200" />
 
 
 ## vishnu.cow
-<img src="converter/src_images/vishnu.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/vishnu.png" height="200" />
 
 
 ## vortigaunt.cow
-<img src="converter/src_images/vortigaunt.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/vortigaunt.png" height="200" />
 
 
 ## wall-e-plant.cow
-<img src="converter/src_images/wall-e-plant.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wall-e-plant.png" height="200" />
 
 
 ## wall-e.cow
-<img src="converter/src_images/wall-e.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wall-e.png" height="200" />
 
 
 ## wall-e2.cow
-<img src="converter/src_images/wall-e2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wall-e2.png" height="200" />
 
 
 ## wally.cow
-<img src="converter/src_images/wally.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wally.png" height="200" />
 
 
 ## walter-white.cow
-<img src="converter/src_images/walter-white.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/walter-white.png" height="200" />
 
 
 ## walter.cow
-<img src="converter/src_images/walter.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/walter.png" height="200" />
 
 
 ## wario.cow
-<img src="converter/src_images/wario.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wario.png" height="200" />
 
 
 ## weeping-angel.cow
@@ -4459,23 +4483,23 @@ LOL===__        \
 
 
 ## wheatley.cow
-<img src="converter/src_images/wheatley.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wheatley.png" height="200" />
 
 
 ## white-walker.cow
-<img src="converter/src_images/white-walker.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/white-walker.png" height="200" />
 
 
 ## wile-e-coyote-error.cow
-<img src="converter/src_images/wile-e-coyote-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wile-e-coyote-error.png" height="200" />
 
 
 ## wile-e-coyote.cow
-<img src="converter/src_images/wile-e-coyote.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wile-e-coyote.png" height="200" />
 
 
 ## wile-e-coyote2.cow
-<img src="converter/src_images/wile-e-coyote2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wile-e-coyote2.png" height="200" />
 
 
 ## wizard.cow
@@ -4511,23 +4535,23 @@ LOL===__        \
 
 
 ## wolverine-error.cow
-<img src="converter/src_images/wolverine-error.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wolverine-error.png" height="200" />
 
 
 ## wolverine-genesis.cow
-<img src="converter/src_images/wolverine-genesis.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wolverine-genesis.png" height="200" />
 
 
 ## wolverine-snes.cow
-<img src="converter/src_images/wolverine-snes.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wolverine-snes.png" height="200" />
 
 
 ## wolverine.cow
-<img src="converter/src_images/wolverine.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wolverine.png" height="200" />
 
 
 ## woodstock.cow
-<img src="converter/src_images/woodstock.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/woodstock.png" height="200" />
 
 
 ## world.cow
@@ -4547,407 +4571,399 @@ LOL===__        \
 
 
 ## wyvern.cow
-<img src="converter/src_images/wyvern.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wyvern.png" height="200" />
 
 
 ## yoda.cow
-<img src="converter/src_images/yoda.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yoda.png" height="200" />
 
 
 ## yoda2.cow
-<img src="converter/src_images/yoda2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yoda2.png" height="200" />
 
 
 ## yooka-laylee.cow
-<img src="converter/src_images/yooka-laylee.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yooka-laylee.png" height="200" />
 
 
 ## yooka.cow
-<img src="converter/src_images/yooka.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yooka.png" height="200" />
 
 
 ## yosemite-sam.cow
-<img src="converter/src_images/yosemite-sam.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yosemite-sam.png" height="200" />
 
 
 ## yoshi.cow
-<img src="converter/src_images/yoshi.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yoshi.png" height="200" />
 
 
 ## zapp-kif.cow
-<img src="converter/src_images/zapp-kif.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zapp-kif.png" height="200" />
 
 
 ## zelda.cow
-<img src="converter/src_images/zelda.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zelda.png" height="200" />
 
 
 ## zitz.cow
-<img src="converter/src_images/zitz.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zitz.png" height="200" />
 
 
 ## zoidberg.cow
-<img src="converter/src_images/zoidberg.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zoidberg.png" height="200" />
 
 
 ## zoidberg2.cow
-<img src="converter/src_images/zoidberg2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zoidberg2.png" height="200" />
 
 
 ## zombie-police.cow
-<img src="converter/src_images/zombie-police.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zombie-police.png" height="200" />
 
 
 ## zombie.cow
-<img src="converter/src_images/zombie.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zombie.png" height="200" />
 
 
 ## zorak.cow
-<img src="converter/src_images/zorak.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zorak.png" height="200" />
 
 
 # True Color cows
 
-## 47.cow
-<img src="converter/src_images/47-tc.png" height="200" />
-
-
 ## abu-apple.cow
-<img src="converter/src_images/abu-apple-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/abu-apple-tc.png" height="200" />
 
 
 ## abu-sword.cow
-<img src="converter/src_images/abu-sword-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/abu-sword-tc.png" height="200" />
 
 
 ## admiral-ackbar.cow
-<img src="converter/src_images/admiral-ackbar-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/admiral-ackbar-tc.png" height="200" />
 
 
 ## arya.cow
-<img src="converter/src_images/arya.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/arya.png" height="200" />
 
 
 ## biggs.cow
-<img src="converter/src_images/biggs-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/biggs-tc.png" height="200" />
 
 
 ## bill.cow
-<img src="converter/src_images/bill-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bill-tc.png" height="200" />
 
 
 ## bioshock.cow
-<img src="converter/src_images/bioshock-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bioshock-tc.png" height="200" />
 
 
 ## boba-fett.cow
-<img src="converter/src_images/boba-fett-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boba-fett-tc.png" height="200" />
 
 
 ## boba-fett2.cow
-<img src="converter/src_images/boba-fett2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boba-fett2.png" height="200" />
 
 
 ## bobross.cow
-<img src="converter/src_images/bobross-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bobross-tc.png" height="200" />
 
 
 ## bobross2.cow
-<img src="converter/src_images/bobross2-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bobross2-tc.png" height="200" />
 
 
 ## boomhauer.cow
-<img src="converter/src_images/boomhauer-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/boomhauer-tc.png" height="200" />
 
 
 ## captain-america.cow
-<img src="converter/src_images/captain-america-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/captain-america-tc.png" height="200" />
 
 
 ## captain-falcon2.cow
-<img src="converter/src_images/captain-falcon2-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/captain-falcon2-tc.png" height="200" />
 
 
 ## costanza.cow
-<img src="converter/src_images/costanza.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/costanza.png" height="200" />
 
 
 ## cthulhu.cow
-<img src="converter/src_images/cthulhu-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/cthulhu-tc.png" height="200" />
 
 
 ## deadpool-bob-ross.cow
-<img src="converter/src_images/deadpool-bob-ross.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadpool-bob-ross.png" height="200" />
 
 
 ## einstein-face.cow
-<img src="converter/src_images/einstein-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/einstein-face.png" height="200" />
 
 
 ## elaine.cow
-<img src="converter/src_images/elaine.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/elaine.png" height="200" />
 
 
 ## flanders-devil.cow
-<img src="converter/src_images/flanders-devil.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/flanders-devil.png" height="200" />
 
 
 ## freeman-face.cow
-<img src="converter/src_images/freeman-face.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman-face-tc.png" height="200" />
 
 
 ## gambit.cow
-<img src="converter/src_images/gambit-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gambit-tc.png" height="200" />
 
 
 ## glados-potato.cow
-<img src="converter/src_images/glados-potato-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/glados-potato-tc.png" height="200" />
 
 
 ## gray-fox.cow
-<img src="converter/src_images/gray-fox-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox-tc.png" height="200" />
 
 
 ## gray-fox2.cow
-<img src="converter/src_images/gray-fox2-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox2-tc.png" height="200" />
 
 
 ## greedo.cow
-<img src="converter/src_images/greedo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/greedo.png" height="200" />
 
 
 ## hank-hill.cow
-<img src="converter/src_images/hank-hill-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hank-hill-tc.png" height="200" />
 
 
 ## hank.cow
-<img src="converter/src_images/hank-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hank-tc.png" height="200" />
 
 
 ## hermes.cow
-<img src="converter/src_images/hermes-tc.png" height="200" />
-
-
-## hitman-face.cow
-<img src="converter/src_images/hitman-face-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hermes-tc.png" height="200" />
 
 
 ## hobo.cow
-<img src="converter/src_images/hobo.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hobo.png" height="200" />
 
 
 ## hobo2.cow
-<img src="converter/src_images/hobo2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hobo2.png" height="200" />
 
 
 ## hodor.cow
-<img src="converter/src_images/hodor.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hodor.png" height="200" />
 
 
 ## ike.cow
-<img src="converter/src_images/ike.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ike.png" height="200" />
 
 
 ## jawa-engineer.cow
-<img src="converter/src_images/jawa-engineer.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jawa-engineer.png" height="200" />
 
 
 ## jawa.cow
-<img src="converter/src_images/jawa-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jawa.png" height="200" />
 
 
 ## jerry.cow
-<img src="converter/src_images/jerry.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jerry.png" height="200" />
 
 
 ## jesus-ripped.cow
-<img src="converter/src_images/jesus-ripped-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jesus-ripped-tc.png" height="200" />
 
 
 ## john-snow.cow
-<img src="converter/src_images/john-snow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/john-snow.png" height="200" />
 
 
 ## kramer.cow
-<img src="converter/src_images/kramer.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kramer.png" height="200" />
 
 
 ## kramer2.cow
-<img src="converter/src_images/kramer2.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kramer2.png" height="200" />
 
 
-## lahey.cow
-<img src="converter/src_images/lahey-tc.png" height="200" />
+## lahey2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey2.png" height="200" />
 
 
 ## leia.cow
-<img src="converter/src_images/leia-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leia-tc.png" height="200" />
 
 
 ## leia2.cow
-<img src="converter/src_images/leia2-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leia2-tc.png" height="200" />
 
 
 ## link-awaken.cow
-<img src="converter/src_images/link-awaken.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-awaken.png" height="200" />
 
 
 ## link-barbarian.cow
-<img src="converter/src_images/link-barbarian-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-barbarian-tc.png" height="200" />
 
 
 ## link-dark.cow
-<img src="converter/src_images/link-dark-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-dark-tc.png" height="200" />
 
 
 ## link-desert.cow
-<img src="converter/src_images/link-desert.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-desert.png" height="200" />
 
 
 ## link-fire.cow
-<img src="converter/src_images/link-fire.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-fire.png" height="200" />
 
 
 ## link-glider.cow
-<img src="converter/src_images/link-glider-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-glider-tc.png" height="200" />
 
 
 ## link-hylian.cow
-<img src="converter/src_images/link-hylian.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-hylian.png" height="200" />
 
 
 ## link-shorts.cow
-<img src="converter/src_images/link-shorts-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-shorts-tc.png" height="200" />
 
 
 ## link-snow.cow
-<img src="converter/src_images/link-snow.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-snow.png" height="200" />
 
 
 ## link-soldier.cow
-<img src="converter/src_images/link-soldier.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-soldier.png" height="200" />
 
 
 ## link-stealth.cow
-<img src="converter/src_images/link-stealth.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-stealth.png" height="200" />
 
 
 ## link-surf.cow
-<img src="converter/src_images/link-surf-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-surf-tc.png" height="200" />
 
 
 ## link-zora.cow
-<img src="converter/src_images/link-zora.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-zora.png" height="200" />
 
 
 ## link.cow
-<img src="converter/src_images/link-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/link-tc.png" height="200" />
 
 
 ## marth-black.cow
-<img src="converter/src_images/marth-black-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-black-tc.png" height="200" />
 
 
 ## marth.cow
-<img src="converter/src_images/marth-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-tc.png" height="200" />
 
 
 ## master-chief2.cow
-<img src="converter/src_images/master-chief2-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief2-tc.png" height="200" />
 
 
 ## mr-t.cow
-<img src="converter/src_images/mr-t-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-t-tc.png" height="200" />
 
 
 ## newman.cow
-<img src="converter/src_images/newman.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/newman.png" height="200" />
 
 
 ## night-king.cow
-<img src="converter/src_images/night-king.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/night-king.png" height="200" />
 
 
 ## obi-wan.cow
-<img src="converter/src_images/obi-wan.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/obi-wan-tc.png" height="200" />
 
 
 ## peep-show.cow
-<img src="converter/src_images/peep-show.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/peep-show.png" height="200" />
+
+
+## raptor-jesus.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raptor-jesus.png" height="200" />
 
 
 ## raptor.cow
-<img src="converter/src_images/raptor-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/raptor-tc.png" height="200" />
 
 
 ## resetti.cow
-<img src="converter/src_images/resetti-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/resetti-tc.png" height="200" />
 
 
 ## roberto.cow
-<img src="converter/src_images/roberto-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/roberto-tc.png" height="200" />
 
 
 ## ron-swanson.cow
-<img src="converter/src_images/ron-swanson-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ron-swanson-tc.png" height="200" />
 
 
 ## scarecrow.cow
-<img src="converter/src_images/scarecrow-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scarecrow-tc.png" height="200" />
 
 
 ## scary-terry.cow
-<img src="converter/src_images/scary-terry-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scary-terry-tc.png" height="200" />
 
 
 ## scruffy.cow
-<img src="converter/src_images/scruffy-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/scruffy-tc.png" height="200" />
 
 
 ## sherlock.cow
-<img src="converter/src_images/sherlock-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sherlock-tc.png" height="200" />
 
 
 ## snowball.cow
-<img src="converter/src_images/snowball-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/snowball-tc.png" height="200" />
 
 
 ## solid-snake.cow
-<img src="converter/src_images/solid-snake.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake.png" height="200" />
 
 
 ## superman-flying.cow
-<img src="converter/src_images/superman-flying-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman-flying-tc.png" height="200" />
 
 
 ## the-hound.cow
-<img src="converter/src_images/the-hound.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/the-hound.png" height="200" />
 
 
 ## toast.cow
-<img src="converter/src_images/toast.png" height="200" />
-
-
-## tobias.cow
-<img src="converter/src_images/tobias-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/toast.png" height="200" />
 
 
 ## tyrion.cow
-<img src="converter/src_images/tyrion.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tyrion.png" height="200" />
 
 
 ## white-walker.cow
-<img src="converter/src_images/white-walker-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/white-walker-tc.png" height="200" />
 
 
 ## wile-e-coyote-error.cow
-<img src="converter/src_images/wile-e-coyote-error-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wile-e-coyote-error-tc.png" height="200" />
 
 
 ## wile-e-coyote.cow
-<img src="converter/src_images/wile-e-coyote-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wile-e-coyote-tc.png" height="200" />
 
 
 ## yoda2.cow
-<img src="converter/src_images/yoda2-tc.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/yoda2-tc.png" height="200" />
 

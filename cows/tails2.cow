@@ -12,7 +12,7 @@ $e = "\e[48;5;172m  ";
 $f = "\e[48;5;130m  ";
 $g = "\e[48;5;88m  ";
 $h = "\e[48;5;238m  ";
-$i = "\e[48;5;233m  ";
+$i = "\e[48;5;234m  ";
 $j = "\e[48;5;160m  ";
 
 $the_cow = <<EOC
@@ -39,19 +39,19 @@ $the_cow = <<EOC
                         $f$e$d$e$f$h$e  $f  $e    $d    $b$a    $e  $a$e$x  $e$x
                         $f$e$d  $f$h$f$d$e$f$e      $d  $a    $i$e  $i$e$x
                           $g$e$d$e$b$c$e  $f      $e  $d$a    $h$e  $h$e$x
-                      $h$c$g$e$d$f$x$b$e$g$f  $c$a$f$e  $d$a  $i$e  $i  $x
-                    $h$c$g  $f    $x$g$e$d$g$c$a                    $b$c$x
+                      $h$c$g$e$d$f$i$b$e$g$f  $c$a$f$e  $d$a  $i$e  $i  $x
+                    $h$c$g  $f    $i$g$e$d$g$c$a                    $b$c$x
                     $h$b  $g    $x  $g$e$d$g  $c$a                      $b$x
                     $g$h$b$a  $h$x  $g$e$d  $c  $b$a          $h$a  $b  $x
-                    $g  $h    $x      $g$e$h    $c    $b  $a$b    $c$x
-                  $g$j    $g$x        $g$h$c$b$a$h$x  $h      $x
-                  $g$j    $g$x      $g$h$c$b$a  $c  $x  $g      $h    $x
-                  $h$c  $b$h$x      $g$h$c$b$a  $c$h$x    $g  $h$b$h$b$c$x
-                  $h$b$a  $x          $h$c$b$a  $h$x        $g$h$b$h$b$c$x
-                  $h$a    $x        $h$i$h$c  $b$h$x          $h    $c  $x
-                  $h$b$a  $x        $h  $x$h    $x              $h    $x
-                  $h$b$a$b$x        $h$c$x
-                    $c$b$x          $h$x
+                    $g  $h    $x    $i$g$e$h    $c    $b  $a$b    $c$x
+                  $g$j    $g$x    $i  $g$h$c$b$a$h$x  $h      $x
+                  $g$j    $g$x    $i$g$h$c$b$a  $c  $x  $g      $h    $x
+                  $h$c  $b$h$x    $i$g$h$c$b$a  $c$h$x    $g  $h$b$h$b$c$x
+                  $h$b$a  $x      $i  $h$c$b$a  $h$x        $g$h$b$h$b$c$x
+                  $h$a    $x      $i$h$i$h$c  $b$h$x          $h    $c  $x
+                  $h$b$a  $x      $i$h  $x$h    $x              $h    $x
+                  $h$b$a$b$x      $i$h$c$x
+                    $c$b$x        $i$h$x
                     $h  $x        $h$c$x
 
 EOC

@@ -5,11 +5,11 @@
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;235m  ";
-$b = "\e[48;5;220m  ";
-$c = "\e[48;5;208m  ";
-$d = "\e[48;5;52m  ";
+$b = "\e[48;5;226m  ";
+$c = "\e[48;5;214m  ";
+$d = "\e[48;5;130m  ";
 $e = "\e[48;5;255m  ";
-$f = "\e[48;5;196m  ";
+$f = "\e[48;5;160m  ";
 
 $the_cow = <<EOC
           $t
@@ -47,7 +47,7 @@ $the_cow = <<EOC
                 $a$c    $a  $b    $c$a$b    $a$b      $a$b    $a$c$b  $a$x
                   $a$c$d  $a$b      $c$a$b  $a$b      $a$b  $a$c$b    $a$x
                 $a$d      $a$b        $c$a  $b          $a  $c$b      $a$x
-                  $d      $a$b                                        $a$x
+                  $a$d    $a$b                                        $a$x
                     $a  $d$a$c$b                                      $a$x
                         $a    $b                                    $a$x
                             $a$c$b                                  $a$x

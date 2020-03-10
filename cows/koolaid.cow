@@ -6,7 +6,7 @@ $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;235m  ";
 $b = "\e[48;5;252m  ";
-$c = "\e[48;5;124m  ";
+$c = "\e[48;5;160m  ";
 
 $the_cow = <<EOC
         $t                            $a      $x        $a    $x

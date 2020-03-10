@@ -5,59 +5,58 @@
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;52m  ";
-$b = "\e[48;5;167m  ";
-$c = "\e[48;5;203m  ";
-$d = "\e[48;5;209m  ";
-$e = "\e[48;5;210m  ";
-$f = "\e[48;5;203m  ";
-$g = "\e[48;5;234m  ";
-$h = "\e[48;5;253m  ";
-$i = "\e[48;5;249m  ";
-$j = "\e[48;5;233m  ";
-$k = "\e[48;5;133m  ";
-$l = "\e[48;5;70m  ";
-$m = "\e[48;5;54m  ";
-$n = "\e[48;5;112m  ";
-$o = "\e[48;5;91m  ";
+$b = "\e[48;5;203m  ";
+$c = "\e[48;5;210m  ";
+$d = "\e[48;5;217m  ";
+$e = "\e[48;5;234m  ";
+$f = "\e[48;5;254m  ";
+$g = "\e[48;5;250m  ";
+$h = "\e[48;5;22m  ";
+$i = "\e[48;5;134m  ";
+$j = "\e[48;5;70m  ";
+$k = "\e[48;5;54m  ";
+$l = "\e[48;5;112m  ";
+$m = "\e[48;5;90m  ";
 
 $the_cow = <<EOC
           $t
             $t              $a  $x
               $t          $a$b$c$a$x
                 $t      $a$b  $c$d$a$x
-                  $t    $a$b$c  $e$a$x
-                      $a$b  $c  $e$d$a$x
-                      $a$b$c    $e$d$a$x
-                    $a$b  $c      $e$d$x
-                    $a$b$c        $e$f$a$x
+                  $t    $a$b$c  $d$a$x
+                      $a$b  $c  $d  $a$x
+                      $a$b$c    $d  $a$x
+                    $a$b  $c      $d  $a$x
+                    $a$b$c        $d  $a$x
                     $a$b$c          $d$a$x
-                  $a$b  $g  $c  $g  $c$a$x
+                  $a$b  $e  $c  $e  $c$a$x
                   $a$b$c              $d$a$x
-                  $a$b$a$h    $g$h    $c$a$x
-                $a$b  $a$i$g$h$g$i$g$h$c$a$x
-                $a$b$c$a$i  $h$g$i  $h$c$a$x
+                  $a$b$a$f    $e$f    $c$a$x
+                $a$b  $a$g$e$f$e$g$e$f$c$a$x
+                $a$b$c$a$g  $f$e$g  $f$c$a$x
               $a$b  $c  $a    $b$a    $c$a$x
-              $a$b$c$a$c                  $a$x
-            $a  $b$c$b$a            $b$d  $c$a$x
-          $a$b  $c$b  $a          $b  $c$f$c  $a$x
-        $a$b  $c      $b$a$c    $a$b$c    $d$f$c$a$x
-      $a$b  $c          $a        $b$c      $d$c  $a$x
-      $a$b$e  $a$b$c                    $b  $c$b$e  $a$x
-    $a$b$c    $a$b  $c                  $b  $a$b$f$c$a$x
+              $a$b$c$a$c                $d$a$x
+            $a  $b$c  $a            $b$c  $d$a$x
+          $a$b  $c    $a          $b  $c    $d$a$x
+        $a$b  $c        $a$c    $a$b$c        $d$a$x
+      $a$b  $c          $a        $b$c          $d$a$x
+      $a$b$c  $a$b$c                    $b  $c    $d$a$x
+    $a$b$c    $a$b  $c                  $b  $a$b$c$d$a$x
     $a$c      $a$b    $c    $b  $c      $b    $a$b$c  $a$x
-  $a$c      $a$b    $c                      $b$a$b  $c  $a$x
+  $a$c      $a$b    $c                      $b$a$b$c    $a$x
   $a$c      $a$b  $c                        $b$a  $b$c  $a$x
   $a$c    $a  $b    $c                      $b$a  $b$c  $a$x
-  $a$c  $a$x$a$b      $c                  $b  $a$x$a$c  $a$x
+  $a$c  $a$x$a$b      $c                  $b  $a$x$a$b$c$a$x
     $a  $x  $a$b          $c  $a  $c      $b  $a$x  $a  $x
-            $j      $b                  $j      $x
-            $j$k$l  $j                  $l    $j$x
-            $m$k  $m$n  $m$k      $n      $m$k$o$x
-            $m$k  $m$n    $m$k  $m$n      $m$k$o$x
-            $j$k$n        $l$j  $l  $n        $j$x
-            $j              $x  $j              $x
-              $a$b  $c    $a$x    $a$c$b$c$b$a$x
-                $a$b$c  $a$x        $a$b$c$b$a$x
-                $a$b$c  $a$x        $a$b$c$b$a$x
+            $h      $b                $c$h      $x
+            $h$i$j  $h                  $j    $h$x
+            $k$i  $k$l  $k$i      $l      $k$i$m$x
+            $k$i  $k$l    $k$i  $k$l      $k$i$m$x
+            $h$i$l        $j$h  $j  $l        $h$x
+            $h              $x  $h              $x
+              $a$b  $c    $a$x    $a$b  $c  $a$x
+                $a$b$c  $a$x        $a$b$c  $a$x
+                $a$b$c  $a$x        $a$b$c  $a$x
                   $a    $x            $a    $x
+
 EOC

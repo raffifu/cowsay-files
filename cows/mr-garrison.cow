@@ -14,6 +14,7 @@ $g = "\e[48;5;70m  ";
 $h = "\e[48;5;132m  ";
 $i = "\e[48;5;172m  ";
 $j = "\e[48;5;28m  ";
+$xa = "\e[49m $a";
 
 $the_cow = <<EOC
       $t
@@ -29,12 +30,12 @@ $the_cow = <<EOC
               $a      $c$d    $c$a$c$d    $c$a      $x
                 $a      $c    $a    $c    $a      $x
                 $a                                $x
-          $e      $a          $c    $a            $x
-          $f      $a        $c$a    $c$a        $x
-          $e      $x$a                        $x
-          $f      $x  $c$g$a          $g  $c$x
-        $c          $g  $c$g$c$g$c$g$c$g$c$g  $x
-        $d$c$d  $c$d$g    $c$g  $c$g  $c$g      $x
+           $e      $a         $c    $a            $x
+           $f      $a       $c$a    $c$a        $x
+           $e      $xa                        $x
+           $f      $x $c$g$a          $g  $c$x
+         $c          $g $c$g$c$g$c$g$c$g$c$g  $x
+         $d$c$d  $c$d$g   $c$g  $c$g  $c$g      $x
         $e$h$i    $h$e$g        $c$g            $x
           $h  $i$h  $g          $c$g              $x
           $h        $g          $c$g              $x

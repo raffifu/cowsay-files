@@ -6,7 +6,7 @@ makeExamples() {
     cowname=$(basename $cowfile)
     firstchar=${cowname:0:1}
 
-    if [ $firstchar != "_" ]; then
+    if [[ $firstchar != "_" && $cowname != "default.cow" ]]; then
       # skip any cows that start with _, these are test cows
       echo ""
       echo "## ${cowname}"
@@ -24,7 +24,7 @@ makeExamples() {
           cowsay -f ${cowfile} "$cowname"
           echo '```'
       else # otherwise insert an image tag for the source image
-        echo "<img src=\"$imgname\" height=\"200\" />"
+        echo "<img src=\"https://charc0al.github.io/cowsay-files/$imgname\" height=\"200\" />"
       fi
       echo ""
     fi
@@ -57,7 +57,7 @@ makeExamples() {
         echo "COW SOURCE IMAGE NOT FOUND"
         echo '```'
     else # otherwise insert an image tag for the source image
-      echo "<img src=\"$imgname\" height=\"200\" />"
+      echo "<img src=\"https://charc0al.github.io/cowsay-files/$imgname\" height=\"200\" />"
     fi
     echo ""
   done

@@ -29,10 +29,8 @@ $w = "\e[48;5;18m  ";
 
 $the_cow = <<EOC
           $t
-            $t
-              $t
-                $t          $a          $x
-                  $t    $a$b$c          $a  $x
+            $t              $a          $x
+              $t        $a$b$c          $a  $x
                       $a$b$c                $a$x
                     $a$b  $c                  $a$x
                   $a$b$d$c                $d$c  $a$x

@@ -1,52 +1,51 @@
 # Rick and Morty
 # by u/Ramen_enthusiast - https://www.reddit.com/r/rickandmorty/comments/6p39qt/im_pixel_rick/
 
-$t = "$thoughts ";
 $x = "\e[49m  ";          #reset color
-$b = "\e[48;5;235m  ";  #fake black
-$h = "\e[48;5;87m  ";   #hair color
-$m = "\e[48;5;130m  ";  #hair color
-$s = "\e[48;5;145m  ";  #face color
-$k = "\e[48;5;223m  ";  #skin color
-$p = "\e[48;5;94m  ";   #pants color
-$q = "\e[48;5;95m  ";   #pants color 2
-$d = "\e[48;5;238m  ";  #dark gray
-$w = "\e[48;5;231m  ";       #white
-$g = "\e[48;5;251m  ";  #light gray
-$z = "\e[48;5;44m  ";    #eyebrow
-$r = "\e[48;5;124m  ";  #mouth
-$j = "\e[44m  ";        #blue jeans
-$y = "\e[48;5;227m  ";   #yellow
+$t = "$thoughts ";
+$a = "\e[48;5;153m  ";
+$b = "\e[48;5;251m  ";
+$c = "\e[48;5;110m  ";
+$d = "\e[48;5;231m  ";
+$e = "\e[48;5;235m  ";
+$f = "\e[48;5;130m  ";
+$g = "\e[48;5;223m  ";
+$h = "\e[48;5;131m  ";
+$i = "\e[48;5;116m  ";
+$j = "\e[48;5;227m  ";
+$k = "\e[48;5;94m  ";
+$l = "\e[48;5;20m  ";
+$m = "\e[48;5;238m  ";
 
-$the_cow = <<EOC;
+$the_cow = <<EOC
      $t
-      $t      $h$x  $h$x
-       $t   $h    $x$h  $x
-            $h          $x
-      $h      $s      $h    $x
-        $h  $s          $h$x
-          $h$s$z        $x
-        $h  $s$w  $s$w  $h$x
-      $h    $s$w$b$s$w$b$h  $x            $m          $x
-        $h$s            $h$x            $m            $x
-          $h$s          $x              $k          $m  $x
-        $h  $s  $r    $s$x            $k            $m  $x
-              $s      $x             $w   $k  $w  $k  $m$x
-                $s  $x               $b$w $k  $b$w  $k$m$x
-             $w$z    $w$x            $w   $b$k$w    $k  $x
-           $w  $z    $w$g$x           $k              $x
-         $w$x$w$z    $w$x$g$x         $k              $x
-         $w$x$w$z    $w$x$g$x           $k  $b  $k  $x
-         $w$x$w$z    $w$x$g$x             $k      $x
-         $w$x$w$z    $w$x$g$x           $y          $x
-         $w$x$w$b$y$b$w$x$g$x           $y          $x
-         $w$x$w$p    $w$x$g$x           $k$y      $k$x
-         $h$x$w$p$g$q$w$x$z$x           $k$y      $k$x
-         $s$x$w$p$g$q$w$x$s$x           $k$y      $k$x
-             $w$p$g$q$w$x               $k$j      $k$x
-             $w$p$g$q$w$x               $k$j$x  $j$k$x
-               $p$x$q$x                   $j$x  $j$x
-               $p$x$q$x                   $j$x  $j$x
-               $w$x$g$x                   $g$x  $g$x
-               $d  $b  $x               $g  $x$g  $x
+      $t      $a$x  $a$x
+       $t   $a    $x$a  $x
+            $a          $x
+      $a      $b      $a    $x
+        $a  $b          $a$x
+          $a$b$c        $x
+        $a  $b$d  $b$d  $a$x
+      $a    $b$d$e$b$d$e$a  $x            $f          $x
+        $a$b            $a$x            $f            $x
+          $a$b          $x              $g          $f  $x
+        $a  $b  $h    $b$x            $g            $f  $x
+              $b      $x             $d   $g  $d  $g  $f$x
+                $b  $x               $e$d $g  $e$d  $g$f$x
+             $d$i    $d$x            $d   $e$g$d    $g  $x
+           $d  $i    $d  $x           $g              $x
+         $d$x$d$i    $d$x$d$x         $g              $x
+         $d$x$d$i    $d$x$d$x           $g  $e  $g  $x
+         $d$x$d$i    $d$x$d$x             $g      $x
+         $d$x$d$i    $d$x$d$x           $j          $x
+         $d$x$d$e$j$e$d$x$d$x           $j          $x
+         $d$x$d$k    $d$x$d$x           $g$j      $g$x
+         $i$x$d$k$b$k$d$x$i$x           $g$j      $g$x
+         $b$x$d$k$b$k$d$x$b$x           $g$j      $g$x
+             $d$k$b$k$d$x               $g$l      $g$x
+             $d$k$b$k$d$x               $g$l$x  $l$g$x
+               $k$x$k$x                   $l$x  $l$x
+               $k$x$k$x                   $l$x  $l$x
+               $d$x$b$x                   $b$x  $b$x
+               $m  $e  $x               $b  $x$b  $x
 EOC
