@@ -1,31 +1,33 @@
-.example_images {
+body, h1, h2, h4: {
+  background-color: #F00;
+  color: #FFF;
+}
+
+.cow-tile {
+  margin: 1em;
+}
+
+.image-container {
   display: flex;
+  flex-wrap: wrap;
 }
 
-.example_images img {
-  height: 100px;
-  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
-  image-rendering: -moz-crisp-edges;          /* Firefox                        */
-  image-rendering: -o-crisp-edges;            /* Opera                          */
-  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
-  image-rendering: pixelated; /* Chrome */
-  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
-  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-}
-
-.img-container {
-
-}
-
-.grid {
+.wrapper {
   display: table;
   position: relative;
   height: 200px;
 }
 
-.box {
+.relative-position-box {
+  float: left;
+  position: relative;
+  width: 330px;
+  height: 100%;
+}
+
+.max-height-box {
   position: absolute;
-  display: table-row;
+  /* display: table-row; */
   float: left;
   width: 340px;
   max-height: 200px;
@@ -34,55 +36,26 @@
   bottom: 0;
 }
 
-/* .box::after {
-  content: ' ';
-  display: inline-block;
-} */
-
-.relBox {
-  float: left;
-  position: relative;
-  width: 350px;
-  height: 100%;
-}
-
-.wrap {
-    /*overflow: hidden;*/
-    position: absolute;
-    float: left;
-}
-
-img.sizer {
-    float: left;
-    visibility: hidden;
-    width: auto;
-}
-
-img.spacer {
+img.cow-img {
   height: 400%;
-  visibility:hidden;
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated; /* Chrome */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+ */
 }
 
-.img_wrap {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    height: 400%;
+.label {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  margin-left: 20px;
 }
 
-.wrap .scale {
-   width: 300%;
-}
-
-.img_wrap img.normal {
-    height: 100%;
-    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
-    image-rendering: -moz-crisp-edges;          /* Firefox                        */
-    image-rendering: -o-crisp-edges;            /* Opera                          */
-    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
-    image-rendering: pixelated; /* Chrome */
-    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
-    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-}​
+/* .cow-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
