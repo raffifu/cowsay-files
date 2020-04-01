@@ -1,15 +1,15 @@
 EXAMPLES=(
-"leonardo" "michaelangelo" "donatello" "raphael"
-"fsm-creation" "this-is-fine"
-"hank" "dale" "boomhauer" "bill" "hank-hill-tc"
-"link-surf-tc" "link-champion" "link-awaken" "link-glider" "link-snow" "link-zora" "link-stealth" "link-dark-tc" "link-shorts-tc"
-"strongbad" "trogdor"
-"homer-simpson" "bart" "mr-burns" "flanders-devil"
-"duke-nukem" "master-chief2" "banjo-kazooie2" "grunty-broom" "gruntilda" "boggy" "snacker" "klungo"
-"tobias"
-"hermes-tc" "robot-devil" "roberto-tc"
-"ken" "ryu" "max-payne"
-"tf2-spy2"
+"michaelangelo" "donatello" "peanuts" "rambo" "dave" "lahey"
+"pickle-rick" "rick-and-morty-split" "rick-and-morty-running"
+"fsm-creation" "this-is-fine" "tf2-spy2"
+"forrest-gump" "beetlejuice" "jayhawk"
+"bojack" "mr-peanutbutter"
+"stormtrooper2" "vader"
+"batman2" "spiderman3"
+"it-crowd" "kermit"
+"roberto" "calculon"
+"chester"
+"garfield-face" "snoopy-doghouse"
 )
 
 SCRIPT_DIR=$(dirname "$0")
@@ -21,14 +21,15 @@ function generate() {
 
   for cowfile in ${EXAMPLES[@]}; do
     echo '  <div class="cow-tile">'
-    echo "    <span class=\"label\">${cowfile}.cow</span>"
+    echo "    <div class=\"label\">${cowfile}.cow</div>"
     echo '    <div class="wrapper">'
-    echo '      <div class="relative-position-box">'
-    echo '        <div class="max-height-box">'
-    echo "          <img src=\"src_images/${cowfile}.png\" class=\"cow-img\">"
-    echo '        </div>'
+    # echo '      <div class="relative-position-box">'
+    echo "        <img src=\"src_images/${cowfile}.png\" class=\"sizer\">"
+    # echo '        <div class="max-height-box">'
+    # echo "          <img src=\"src_images/${cowfile}.png\" class=\"cow-img\">"
+    # echo '        </div>'
     echo '      </div>'
-    echo '    </div>'
+    # echo '    </div>'
     echo '  </div>'
   done
 
@@ -47,26 +48,36 @@ function generate() {
       #check if image file matching this cow name exists
       FILE=converter/src_images/${cowname}.png
       if test -f "${SCRIPT_DIR}/../$FILE"; then
-        imgname="$FILE"
-      fi
-      if [ ! -z "$imgname" ]; then  #if cow doesn't have a png image related, then just print the cow normally
-
-          # echo '```'
-          # cowsay -f ${cowfile} "$cowname"
-          # echo '```'
-      #else # otherwise insert an image tag for the source image
         echo '  <div class="cow-tile">'
-        echo "    <span class=\"label\">${cowname}.cow</span>"
+        echo "    <div class=\"label\">${cowname}.cow</div>"
         echo '    <div class="wrapper">'
-        echo '      <div class="relative-position-box">'
-        echo '        <div class="max-height-box">'
-        echo "          <img src=\"src_images/${cowname}.png\" class=\"cow-img\">"
-        echo '        </div>'
-        echo '      </div>'
+        # echo '      <div class="relative-position-box">'
+        # echo '        <div class="max-height-box">'
+        echo "          <img src=\"src_images/${cowname}.png\" class=\"sizer\">"
+        # echo '        </div>'
+        # echo '      </div>'
         echo '    </div>'
         echo '  </div>'
       fi
-      echo ""
+
+
+      COW="cows/true-color/${cowname}.cow"
+      if test -f "${SCRIPT_DIR}/../$COW"; then
+        FILE="converter/src_images/${cowname}-tc.png"
+        imgname="${cowname}"
+        if test -f "${SCRIPT_DIR}/../$FILE"; then
+          echo '  <div class="cow-tile">'
+          echo "    <div class=\"label\">${cowname}.cow (true color)</div>"
+          echo '    <div class="wrapper">'
+          # echo '      <div class="relative-position-box">'
+          # echo '        <div class="max-height-box">'
+          echo "          <img src=\"src_images/${cowname}-tc.png\" class=\"sizer\">"
+          # echo '        </div>'
+          # echo '      </div>'
+          echo '    </div>'
+          echo '  </div>'
+        fi
+      fi
     fi
   done
 
