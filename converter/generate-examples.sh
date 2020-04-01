@@ -21,8 +21,8 @@ function printcow() {
   echo '  <div class="cow-tile">'
   echo "    <div class=\"label\">${1}.cow${EXTRATEXT}</div>"
   echo '    <div class="wrapper">'
-  # echo "      <a href=\"https://raw.githubusercontent.com/charc0al/cowsay-files/master/cows/${4}${1}.cow\">"
-  echo "      <a href=\"../cows/${4}${1}.cow\" target=\"_blank\">"
+  echo "      <a href=\"https://raw.githubusercontent.com/charc0al/cowsay-files/master/cows/${4}${1}.cow\">"
+  # echo "      <a href=\"../cows/${4}${1}.cow\" target=\"_blank\">"
   echo "        <img src=\"src_images/${COWIMG}.png\" class=\"sizer yeah\">"
   echo '      </a>'
   echo '    </div>'
@@ -30,7 +30,7 @@ function printcow() {
 }
 
 function generate() {
-  echo '<h2>Cowsay file examples</h2>'
+  echo '<h2>Cowsay file examples</h2><h4>(click to view)</h4>'
   echo '<link rel="stylesheet" type="text/css" href="src/style.css">'
   echo '<div class="image-container" style="background: #000;">'
 
