@@ -7,7 +7,6 @@ $t = "$thoughts ";
 $a = "\e[48;5;234m  ";
 $b = "\e[48;5;94m  ";
 $c = "\e[48;5;172m  ";
-$d = "\e[48;5;130m  ";
 $e = "\e[48;5;153m  ";
 $f = "\e[48;5;255m  ";
 $g = "\e[48;5;63m  ";
@@ -23,12 +22,12 @@ $the_cow = <<EOC
                         $a    $b  $c      $b  $a$x                        $a        $x
                       $a$b$c                $b  $a$x                  $a  $b$c    $b$a  $x
                       $a$c  $b$c            $b$a  $x                $a$b$c            $b$a$x
-                      $a$b          $c    $b$d  $b$a$x            $a$c                  $b$a$x
-                    $a$b$a$e        $b$c  $b$d      $a$x        $a$c                    $b$a$x
-                  $a$b  $a  $e$a$f  $b$c  $b$d      $b$a$x    $a$b$c                    $b  $a$x
-                $a$b$a      $e$a$f  $b$c  $b$d        $a$x    $a$c                        $b  $a$x
-                $a  $b$c  $b  $g$e  $b$c  $b  $d      $b$a$x$a$b$c                        $b  $a$x
-                $a$c            $b  $c    $b$a$d    $b  $a    $b  $c                      $b    $a$x
+                      $a$b          $c    $b$c  $b$a$x            $a$c                  $b$a$x
+                    $a$b$a$e        $b$c  $b$c      $a$x        $a$c                    $b$a$x
+                  $a$b  $a  $e$a$f  $b$c  $b$c      $b$a$x    $a$b$c                    $b  $a$x
+                $a$b$a      $e$a$f  $b$c  $b$c        $a$x    $a$c                        $b  $a$x
+                $a  $b$c  $b  $g$e  $b$c  $b  $c      $b$a$x$a$b$c                        $b  $a$x
+                $a$c            $b  $c    $b$a$c    $b  $a    $b  $c                      $b    $a$x
               $a$c                      $b  $a$b          $a    $b  $c                      $b  $a$x
             $a$c                        $b  $a  $b        $a$b  $a$b  $c                    $b  $a$x
           $a$b$c                      $b      $a    $b    $a$c  $b$a$b$c                      $b  $a$x

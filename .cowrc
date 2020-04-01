@@ -247,7 +247,7 @@ PIXEL_COWS=(
 )
 
 #minimal list of cows
-PIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm" "dave" "forrest-gump" "rambo" "beetlejuice" "jayhawk"
+zPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm" "dave" "forrest-gump" "rambo" "beetlejuice" "jayhawk"
             "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
             "boba-fett2" "stormtrooper2" "vader"
             "batman" "batman2" "robin2" "spiderman3" "donatello2"

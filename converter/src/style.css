@@ -14,5 +14,75 @@
 }
 
 .img-container {
-  
+
 }
+
+.grid {
+  display: table;
+  position: relative;
+  height: 200px;
+}
+
+.box {
+  position: absolute;
+  display: table-row;
+  float: left;
+  width: 340px;
+  max-height: 200px;
+  border-bottom: 1px solid red;
+  overflow:hidden;
+  bottom: 0;
+}
+
+/* .box::after {
+  content: ' ';
+  display: inline-block;
+} */
+
+.relBox {
+  float: left;
+  position: relative;
+  width: 350px;
+  height: 100%;
+}
+
+.wrap {
+    /*overflow: hidden;*/
+    position: absolute;
+    float: left;
+}
+
+img.sizer {
+    float: left;
+    visibility: hidden;
+    width: auto;
+}
+
+img.spacer {
+  height: 400%;
+  visibility:hidden;
+}
+
+.img_wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 400%;
+}
+
+.wrap .scale {
+   width: 300%;
+}
+
+.img_wrap img.normal {
+    height: 100%;
+    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;          /* Firefox                        */
+    image-rendering: -o-crisp-edges;            /* Opera                          */
+    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+    image-rendering: pixelated; /* Chrome */
+    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+}​
