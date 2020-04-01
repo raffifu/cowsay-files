@@ -1,157 +1,158 @@
-<link rel="stylesheet" type="text/css" href="src/style.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="src/nearestColor.js"></script>
-<script>
-    $.ajax({
-      url: './examples.html',
-      success: function(data) {
-         $('body').append(data);
-      },
-      error: function(error) {
-        console.log('Oh no!', error);
-        $('body').append('<iframe src="examples.html" style="border:none; width: 100%; height: 100%"></iframe>');
-      }
-    });
-
-    function each(arr, func) {
-      var i;
-      for (i = 0; i < arr.length; i++) {
-        func(arr[i]);
-      }
-    }
-
-    function range(lo, hi) {
-      var range = [];
-      var i;
-      for (i = lo; i < hi; i++) {
-        range.push(i);
-      }
-      return range;
-    }
-
-    function isFullColor() {
-      return document.getElementById("fullColor").checked || false;
-    }
-
-    function getAuthorName() {
-      return document.getElementById('authorName').value || '<authorName>';
-    }
-
-    function bashColor(px) {
-      if (isFullColor()) {
-        return px[0] + ';' + px[1] + ';' + px[2];
-      } else {
-        var pxColor = rgbToHex({r: px[0], g: px[1], b: px[2]});
-        var foundColor = nearestColor.BASH_MAP[nearestColor(pxColor)];
-        return foundColor;
-      }
-    }
-
-    function download(data, filename, type) {
-      var file = new Blob([data], {type: type});
-      if (window.navigator.msSaveOrOpenBlob) // IE10+
-          window.navigator.msSaveOrOpenBlob(file, filename);
-      else { // Others
-          var a = document.createElement("a"),
-                  url = URL.createObjectURL(file);
-          a.href = url;
-          a.download = filename;
-          document.body.appendChild(a);
-          a.click();
-          setTimeout(function() {
-              document.body.removeChild(a);
-              window.URL.revokeObjectURL(url);
-          }, 0);
-      }
-    }
-
-    var varNames = ['x', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o',
-    'p', 'q', 'r', 's', 'u', 'v', 'w', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J',
-    'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
-
-    // add shitload of extra variable names for full color support
-    each('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', l1 => {
-      each('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', l2 => {
-        varNames.push(l1 + l2);
+<head>
+  <meta property="og:image" content="ThumbnailImage.jpg" />
+  <link rel="stylesheet" type="text/css" href="src/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="src/nearestColor.js"></script>
+  <script>
+      $.ajax({
+        url: './examples.html',
+        success: function(data) {
+           $('body').append(data);
+        },
+        error: function(error) {
+          console.log('Oh no!', error);
+          $('body').append('<iframe src="examples.html" style="border:none; width: 100%; height: 100%"></iframe>');
+        }
       });
-    });
 
-    function convert() {
-        var file = document.getElementById('file').files[0];
-        var reader  = new FileReader();
-        reader.onload = function(e)  {
-            var showThoughts = true;
-            // var image = document.createElement("img");
-            // image.src = e.target.result;
-            // image.id = 'the-img';
-            //document.body.appendChild(image);
-            var img = new Image();
-            img.src = e.target.result; //document.getElementById('the-img');
-            img.onload = function() {
-              var colorCount = 0;
-              var varMap = {};
-              var canvas = document.createElement('canvas');
-              canvas.width = img.width;
-              canvas.height = img.height;
-              var ctx = canvas.getContext('2d');
-              ctx.drawImage(img, 0, 0, img.width, img.height);
+      function each(arr, func) {
+        var i;
+        for (i = 0; i < arr.length; i++) {
+          func(arr[i]);
+        }
+      }
 
-              //set background color to 1st pixel found
-              var cowFileVars = '$' + varNames[0] + ' = "\\e[49m  ";          #reset color\n$t = "$thoughts ";\n';
-              var cowFile = '';
-              var bgColor = bashColor(ctx.getImageData(0, 0, 1, 1).data);
-              varMap[bgColor] = varNames[0];
-              colorCount++;
-              var lastColor = bgColor;
+      function range(lo, hi) {
+        var range = [];
+        var i;
+        for (i = lo; i < hi; i++) {
+          range.push(i);
+        }
+        return range;
+      }
 
-              var maxHeight = document.getElementById("maxHeight").value;
-              var height = !!maxHeight ? parseInt(maxHeight) : img.height;
-              height = Math.min(height, img.height);
+      function isFullColor() {
+        return document.getElementById("fullColor").checked || false;
+      }
 
-              each(range(0, height), function(y) {
-                each(range(0, img.width), function(x) {
-                  var px = ctx.getImageData(x, y, 1, 1).data;
-                  var foundColor = bashColor(px);
-                  if (foundColor !== lastColor) {
-                    lastColor = foundColor;
-                    var varName = varMap[foundColor];
-                    if (!varName) {
-                      varName = varNames[colorCount];
-                      colorCount++;
-                      varMap[foundColor] = varName;
-                      if (isFullColor()) {
-                        cowFileVars += '$' + varName + ' = "\\e[48;2;' + foundColor + 'm  ";\n';
+      function getAuthorName() {
+        return document.getElementById('authorName').value || '<authorName>';
+      }
+
+      function bashColor(px) {
+        if (isFullColor()) {
+          return px[0] + ';' + px[1] + ';' + px[2];
+        } else {
+          var pxColor = rgbToHex({r: px[0], g: px[1], b: px[2]});
+          var foundColor = nearestColor.BASH_MAP[nearestColor(pxColor)];
+          return foundColor;
+        }
+      }
+
+      function download(data, filename, type) {
+        var file = new Blob([data], {type: type});
+        if (window.navigator.msSaveOrOpenBlob) // IE10+
+            window.navigator.msSaveOrOpenBlob(file, filename);
+        else { // Others
+            var a = document.createElement("a"),
+                    url = URL.createObjectURL(file);
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(function() {
+                document.body.removeChild(a);
+                window.URL.revokeObjectURL(url);
+            }, 0);
+        }
+      }
+
+      var varNames = ['x', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o',
+      'p', 'q', 'r', 's', 'u', 'v', 'w', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J',
+      'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
+
+      // add shitload of extra variable names for full color support
+      each('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', l1 => {
+        each('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', l2 => {
+          varNames.push(l1 + l2);
+        });
+      });
+
+      function convert() {
+          var file = document.getElementById('file').files[0];
+          var reader  = new FileReader();
+          reader.onload = function(e)  {
+              var showThoughts = true;
+              // var image = document.createElement("img");
+              // image.src = e.target.result;
+              // image.id = 'the-img';
+              //document.body.appendChild(image);
+              var img = new Image();
+              img.src = e.target.result; //document.getElementById('the-img');
+              img.onload = function() {
+                var colorCount = 0;
+                var varMap = {};
+                var canvas = document.createElement('canvas');
+                canvas.width = img.width;
+                canvas.height = img.height;
+                var ctx = canvas.getContext('2d');
+                ctx.drawImage(img, 0, 0, img.width, img.height);
+
+                //set background color to 1st pixel found
+                var cowFileVars = '$' + varNames[0] + ' = "\\e[49m  ";          #reset color\n$t = "$thoughts ";\n';
+                var cowFile = '';
+                var bgColor = bashColor(ctx.getImageData(0, 0, 1, 1).data);
+                varMap[bgColor] = varNames[0];
+                colorCount++;
+                var lastColor = bgColor;
+
+                var maxHeight = document.getElementById("maxHeight").value;
+                var height = !!maxHeight ? parseInt(maxHeight) : img.height;
+                height = Math.min(height, img.height);
+
+                each(range(0, height), function(y) {
+                  each(range(0, img.width), function(x) {
+                    var px = ctx.getImageData(x, y, 1, 1).data;
+                    var foundColor = bashColor(px);
+                    if (foundColor !== lastColor) {
+                      lastColor = foundColor;
+                      var varName = varMap[foundColor];
+                      if (!varName) {
+                        varName = varNames[colorCount];
+                        colorCount++;
+                        varMap[foundColor] = varName;
+                        if (isFullColor()) {
+                          cowFileVars += '$' + varName + ' = "\\e[48;2;' + foundColor + 'm  ";\n';
+                        } else {
+                          cowFileVars += '$' + varName + ' = "\\e[48;5;' + foundColor + 'm  ";\n';
+                        }
+                      }
+                      cowFile += '$' + varName;
+                    } else {
+                      if (showThoughts && (y < 5) && (y === (x - 5)) && (foundColor === bgColor)) {
+                        cowFile += '$t';
                       } else {
-                        cowFileVars += '$' + varName + ' = "\\e[48;5;' + foundColor + 'm  ";\n';
+                        cowFile += '  ';
                       }
                     }
-                    cowFile += '$' + varName;
-                  } else {
-                    if (showThoughts && (y < 5) && (y === (x - 5)) && (foundColor === bgColor)) {
-                      cowFile += '$t';
-                    } else {
-                      cowFile += '  ';
-                    }
+                  });
+                  if (lastColor !== bgColor) {
+                    cowFile += '$' + varNames[0];
+                    lastColor = bgColor;
                   }
+                  cowFile += '\n';
                 });
-                if (lastColor !== bgColor) {
-                  cowFile += '$' + varNames[0];
-                  lastColor = bgColor;
-                }
-                cowFile += '\n';
-              });
-              var name = file.name.substring(0, file.name.lastIndexOf('.'));
-              var title = name + (isFullColor() ? ' - true color' : '');
-              var outFile = '# ' + title + '\n# by ' + getAuthorName() +
-                            '\n# Generated with Charc0al\'s cowsay file converter http://charc0al.github.io/cowsay-files/converter\n\n' +
-                            cowFileVars + '\n$the_cow = <<EOC\n' + cowFile + 'EOC\n';
-              download(outFile, name + '.cow', 'text');
-            }
-         };
-         reader.readAsDataURL(file);
-     }
-</script>
-<head>
+                var name = file.name.substring(0, file.name.lastIndexOf('.'));
+                var title = name + (isFullColor() ? ' - true color' : '');
+                var outFile = '# ' + title + '\n# by ' + getAuthorName() +
+                              '\n# Generated with Charc0al\'s cowsay file converter http://charc0al.github.io/cowsay-files/converter\n\n' +
+                              cowFileVars + '\n$the_cow = <<EOC\n' + cowFile + 'EOC\n';
+                download(outFile, name + '.cow', 'text');
+              }
+           };
+           reader.readAsDataURL(file);
+       }
+  </script>
   <title>Charc0al's cowsay file converter</title>
 </head>
 <body>

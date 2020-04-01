@@ -30,6 +30,7 @@ function printcow() {
 }
 
 function generate() {
+  echo '<head><meta property="og:image" content="ThumbnailImage.jpg" /></head>'
   echo '<h2>Cowsay file examples</h2><h4>(click to view)</h4>'
   echo '<link rel="stylesheet" type="text/css" href="src/style.css">'
   echo '<div class="image-container" style="background: #000;">'
