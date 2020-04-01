@@ -1,8 +1,8 @@
 EXAMPLES=(
-"rick-and-morty-split" "donatello" "tobias" "peanuts" "rambo" "dave" "lahey"
-"pickle-rick"  "rick-and-morty-running" "bojack"
+"rick-and-morty-split" "donatello" "tobias" "bojack" "peanuts" "rambo" "dave" "lahey"
+"pickle-rick" "rick-and-morty-running"
 "fsm-creation" "tf2-spy-knife"
-"forrest-gump" "beetlejuice" "jayhawk"
+"forrest-gump" "jayhawk"
 "stormtrooper2" "vader" "moon2"
 "batman2" "robin" "spiderman3"
 "it-crowd" "kermit" "snoopy-woodstock"
@@ -21,7 +21,8 @@ function printcow() {
   echo '  <div class="cow-tile">'
   echo "    <div class=\"label\">${1}.cow${EXTRATEXT}</div>"
   echo '    <div class="wrapper">'
-  echo "      <a href=\"https://raw.githubusercontent.com/charc0al/cowsay-files/master/cows/${4}${1}.cow\">"
+  # echo "      <a href=\"https://raw.githubusercontent.com/charc0al/cowsay-files/master/cows/${4}${1}.cow\">"
+  echo "      <a href=\"../cows/${4}${1}.cow\" target=\"_blank\">"
   echo "        <img src=\"src_images/${COWIMG}.png\" class=\"sizer yeah\">"
   echo '      </a>'
   echo '    </div>'
@@ -29,7 +30,7 @@ function printcow() {
 }
 
 function generate() {
-  echo '<h2>Cowsay image example files</h2>'
+  echo '<h2>Cowsay file examples</h2>'
   echo '<link rel="stylesheet" type="text/css" href="src/style.css">'
   echo '<div class="image-container" style="background: #000;">'
 

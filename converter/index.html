@@ -2,7 +2,17 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="src/nearestColor.js"></script>
 <script>
-    $.ajax({ url: './examples.html', success: function(data) { alert(data); } });
+    $.ajax({
+      url: './examples.html',
+      success: function(data) {
+         $('body').append(data);
+      },
+      error: function(error) { //happens when viewing raw html file locally without serving as a web page
+        console.log('Oh no!', error);
+        $('body').append('<iframe src="examples.html" style="border:none; width: 100%; height: 100%"></iframe>');
+      }
+    });
+
     function each(arr, func) {
       var i;
       for (i = 0; i < arr.length; i++) {
@@ -145,32 +155,32 @@
   <title>Charc0al's cowsay file converter</title>
 </head>
 <body>
-    <h1>Charc0al's cowsay file converter</h1>
-    <div class="converter-options">
-      <div class="option">
-        <input type=file name=filename id=file>
+    <div class="margin">
+      <h1>Charc0al's cowsay file converter</h1>
+      <div class="converter-options">
+        <div class="option">
+          <input type=file name=filename id=file>
+        </div>
+        <div class="option">
+          &nbsp;author <input type="text" id="authorName" placeholder="Author Name">
+        </div>
+        <div class="option">
+          max height <input type="number" id="maxHeight" value="50">
+        </div>
+        <div class="option">
+          <input type="checkbox" id="fullColor"> Use full 24-bit color
+        </div>
       </div>
-      <div class="option">
-        &nbsp;author <input type="text" id="authorName" placeholder="Author Name">
+      <div>
+        <button class="btn-convert" type=button onclick='convert()'>Convert!</button>
       </div>
-      <div class="option">
-        max height <input type="number" id="maxHeight" value="50">
-      </div>
-      <div class="option">
-        <input type="checkbox" id="fullColor"> Use full 24-bit color
-      </div>
-    </div>
-    <div>
-      <button class="btn-convert" type=button onclick='convert()'>Convert!</button>
-    </div>
-    <br/>
+      <br/>
 
-    <p>Instructions:</p>
-    <ul>
-      <li>Upload image to create cowsay file from (recommended size <= 50x50) only tested with uncompressed PNG but other file types will probably work</li>
-      <li>Press "Convert!" and save your new cowsay file to your cows directory!</li>
-      <li>Check the <a href="https://charc0al.github.io/cowsay-files/">README</a> for more tips and instructions.</li>
-    </ul>
-    <br/>
-    <iframe src="examples.html" style="border:none; width: 100%; height: 100%"></iframe>
+      <p>Instructions:</p>
+      <ul>
+        <li>Upload image to create cowsay file from (recommended size <= 50x50) only tested with uncompressed PNG but other file types will probably work</li>
+        <li>Press "Convert!" and save your new cowsay file to your cows directory!</li>
+        <li>Check the <a href="https://charc0al.github.io/cowsay-files/">README</a> for more tips and instructions.</li>
+      </ul>
+    </div>
 </body>

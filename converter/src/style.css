@@ -5,6 +5,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h2 {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.margin {
+  margin: 0.6em;
+}
+
+iframe pre {
+  color: white !important;
+}
+
 a[href] {
   color: #0FF;
 }
