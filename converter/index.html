@@ -1,6 +1,8 @@
 <link rel="stylesheet" type="text/css" href="src/style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="src/nearestColor.js"></script>
 <script>
+    $.ajax({ url: './examples.html', success: function(data) { alert(data); } });
     function each(arr, func) {
       var i;
       for (i = 0; i < arr.length; i++) {
