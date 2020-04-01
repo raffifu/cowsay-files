@@ -14,23 +14,28 @@ EXAMPLES=(
 
 SCRIPT_DIR=$(dirname "$0")
 
+function printcow() {
+  COWIMG=$1
+  if [ "${2}" != "" ]; then
+    COWIMG=${2}
+  fi
+  EXTRATEXT=$3
+
+  echo '  <div class="cow-tile">'
+  echo "    <div class=\"label\">${1}.cow${EXTRATEXT}</div>"
+  echo '    <div class="wrapper">'
+  echo "        <img src=\"src_images/${COWIMG}.png\" class=\"sizer yeah\">"
+  echo '      </div>'
+  echo '  </div>'
+}
+
 function generate() {
   echo '<body><h2>Cowsay image example files</h2>'
   echo '<link rel="stylesheet" type="text/css" href="src/style.css">'
   echo '<div class="image-container" style="background: #000;">'
 
   for cowfile in ${EXAMPLES[@]}; do
-    echo '  <div class="cow-tile">'
-    echo "    <div class=\"label\">${cowfile}.cow</div>"
-    echo '    <div class="wrapper">'
-    # echo '      <div class="relative-position-box">'
-    echo "        <img src=\"src_images/${cowfile}.png\" class=\"sizer\">"
-    # echo '        <div class="max-height-box">'
-    # echo "          <img src=\"src_images/${cowfile}.png\" class=\"cow-img\">"
-    # echo '        </div>'
-    echo '      </div>'
-    # echo '    </div>'
-    echo '  </div>'
+    printcow $cowfile
   done
 
   for cowfile in ${SCRIPT_DIR}/../cows/*.cow; do
@@ -38,44 +43,20 @@ function generate() {
     firstchar=${cowname:0:1}
 
     if [[ $firstchar != "_" && $cowname != "default.cow" ]]; then
-      # skip any cows that start with _, these are test cows
-      # echo ""
-      # echo "## ${cowname}"
       cowname="${cowname%.*}"
-
-      imgname=""
 
       #check if image file matching this cow name exists
       FILE=converter/src_images/${cowname}.png
       if test -f "${SCRIPT_DIR}/../$FILE"; then
-        echo '  <div class="cow-tile">'
-        echo "    <div class=\"label\">${cowname}.cow</div>"
-        echo '    <div class="wrapper">'
-        # echo '      <div class="relative-position-box">'
-        # echo '        <div class="max-height-box">'
-        echo "          <img src=\"src_images/${cowname}.png\" class=\"sizer\">"
-        # echo '        </div>'
-        # echo '      </div>'
-        echo '    </div>'
-        echo '  </div>'
+        printcow $cowname
       fi
 
 
       COW="cows/true-color/${cowname}.cow"
       if test -f "${SCRIPT_DIR}/../$COW"; then
         FILE="converter/src_images/${cowname}-tc.png"
-        imgname="${cowname}"
         if test -f "${SCRIPT_DIR}/../$FILE"; then
-          echo '  <div class="cow-tile">'
-          echo "    <div class=\"label\">${cowname}.cow (true color)</div>"
-          echo '    <div class="wrapper">'
-          # echo '      <div class="relative-position-box">'
-          # echo '        <div class="max-height-box">'
-          echo "          <img src=\"src_images/${cowname}-tc.png\" class=\"sizer\">"
-          # echo '        </div>'
-          # echo '      </div>'
-          echo '    </div>'
-          echo '  </div>'
+          printcow $cowname "${cowname}-tc" " (true color)"
         fi
       fi
     fi
