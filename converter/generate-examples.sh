@@ -1,7 +1,7 @@
 EXAMPLES=(
-"rick-and-morty-split" "donatello" "tobias" "bojack" "peanuts" "rambo" "dave" "lahey"
+"rick-and-morty-split" "donatello" "tobias" "roberto-face" "bojack" "peanuts" "rambo" "dave" "lahey"
 "pickle-rick" "rick-and-morty-running"
-"fsm-creation" "tf2-spy-knife"
+"fsm-creation" "bane"
 "forrest-gump" "jayhawk"
 "stormtrooper2" "vader" "moon2"
 "batman2" "robin" "spiderman3"

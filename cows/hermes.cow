@@ -13,16 +13,15 @@ $f = "\e[48;5;236m  ";
 $g = "\e[48;5;145m  ";
 $h = "\e[48;5;255m  ";
 $i = "\e[48;5;235m  ";
-$j = "\e[48;5;94m  ";
-$k = "\e[48;5;130m  ";
+$j = "\e[48;5;130m  ";
+$k = "\e[48;5;172m  ";
 $l = "\e[48;5;153m  ";
-$m = "\e[48;5;237m  ";
-$n = "\e[48;5;22m  ";
-$o = "\e[48;5;88m  ";
-$p = "\e[48;5;28m  ";
-$q = "\e[48;5;179m  ";
-$r = "\e[48;5;229m  ";
-$s = "\e[48;5;161m  ";
+$m = "\e[48;5;22m  ";
+$n = "\e[48;5;88m  ";
+$o = "\e[48;5;28m  ";
+$p = "\e[48;5;179m  ";
+$q = "\e[48;5;229m  ";
+$r = "\e[48;5;161m  ";
 
 $the_cow = <<EOC
           $t
@@ -48,25 +47,25 @@ $the_cow = <<EOC
               $e$j$k            $j  $k  $x
             $c  $e$j$k                    $x
           $m  $c$e$j$k    $c      $x
-      $c  $m$n$c  $e$j$k$o    $c$k$n$c$x
-      $m$c$n  $c    $e$j$k      $c$n$i$x
-      $m$c$i$n$p$c$i$c$q$r    $c$i$n$i$x
-    $m  $n$i$p  $i    $q$r    $i  $n$i$n$x
-    $m$n  $i$p    $i  $q$r    $i  $n$p$n$x
-    $m$n  $p  $n$p$i  $q$r    $i  $n$p  $x
-    $m$n$p        $i  $q$r    $i$p$n$p  $x
-    $m$n$p    $n$p  $i$q$r    $i$p$n$p  $x
-    $m$n$p    $n$p  $i$q  $r  $i$p$n$p  $x
-    $m$n$p    $n$p  $i$q  $r  $i$p$n$p  $x
-    $m$n  $p  $n$p  $i$q  $r  $i$p$n  $p$x
-    $m$n  $p  $n  $p  $q  $r  $p  $m$n$p$x
-      $m$n$p  $n  $p  $q  $r  $p  $m$n$p$x
-      $m$n$p  $n  $p  $o  $s  $p  $m$k  $x
-      $e$j$k  $n  $p  $n$p  $n$p  $e$k  $x
-  $j$e$j  $k  $n    $p$n$x$m$n$p  $j$k$x
-    $j  $k  $n          $x$m$n    $x
-          $m    $n$p    $x$m$n$p  $x
-          $m    $n$p    $x$m$n$p  $x
-          $o      $s  $x  $o  $s    $x
-          $o      $s  $x  $o  $s    $x
+      $c  $m  $c  $e$j$k$n    $c$k$m$c$x
+      $m$c$m  $c    $e$j$k      $c$m$i$x
+      $m$c$i$m$o$c$i$c$p$q    $c$i$m$i$x
+    $m    $i$o  $i    $p$q    $i  $m$i$m$x
+    $m    $i$o    $i  $p$q    $i  $m$o$m$x
+    $m    $o  $m$o$i  $p$q    $i  $m$o  $x
+    $m  $o        $i  $p$q    $i$o$m$o  $x
+    $m  $o    $m$o  $i$p$q    $i$o$m$o  $x
+    $m  $o    $m$o  $i$p  $q  $i$o$m$o  $x
+    $m  $o    $m$o  $i$p  $q  $i$o$m$o  $x
+    $m    $o  $m$o  $i$p  $q  $i$o$m  $o$x
+    $m    $o  $m  $o  $p  $q  $o  $m  $o$x
+      $m  $o  $m  $o  $p  $q  $o  $m  $o$x
+      $m  $o  $m  $o  $n  $r  $o  $m$k  $x
+      $e$j$k  $m  $o  $m$o  $m$o  $e$k  $x
+  $j$e$j  $k  $m    $o$m$x$m  $o  $j$k$x
+    $j  $k  $m          $x$m      $x
+          $m      $o    $x$m  $o  $x
+          $m      $o    $x$m  $o  $x
+          $n      $r  $x  $n  $r    $x
+          $n      $r  $x  $n  $r    $x
 EOC
