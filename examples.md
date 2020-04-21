@@ -388,6 +388,10 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 ```
 
 
+## bane.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bane.png" height="200" />
+
+
 ## banjo-kazooie.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/banjo-kazooie.png" height="200" />
 
@@ -813,8 +817,8 @@ X################,      -$=X#######@:
             ,:/+/-
             /M/              .,-=;//;-
        .:/= ;MH/,    ,=/+%$XH#
-      -$##1$##########H:.    -/H#
- .,H@ X######@ -H#####1-     -+H###
+      -$##2$##########H:.    -/H#
+ .,H@ X######@ -H#####2-     -+H###
   .,@##H;      +XM##M/,     =%@###;-
 X%-  :M##########    .:%M###@%:
 M##H,   +H@@/-.  ,;$M###@%,          -
@@ -827,7 +831,7 @@ M###################@%=           =+%
 @################M/.          =+H#X%=
 =+M##############M,       -/X#X+;.
   .;XM##########H=    ,/X#H+:,
-     .=+HM######M+/+HM1=.
+     .=+HM######M+/+HM2=.
          ,:/%XM####H/.
               ,.:=-.
 ```
@@ -1384,7 +1388,7 @@ snd     [_____________]
          -%###################$.
        ;H######################M=
     ,%#####MH$%;+#####M###-/@####%
-  :$H%+;=-      -####X.,H#   -+M##0
+  :$H%+;=-      -####X.,H#   -+M##1
  .              ,###;    ;      =$##+
                 .#H,               :XH,
                  +                   .;-
@@ -1676,6 +1680,10 @@ $@#MX %+;-                           .
 
 ## gobi.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/gobi.png" height="200" />
+
+
+## goku.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/goku.png" height="200" />
 
 
 ## golden-eagle.cow
@@ -2180,10 +2188,6 @@ jgs
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/kyle.png" height="200" />
 
 
-## lahey-8bit.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey-8bit.png" height="200" />
-
-
 ## lahey.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey.png" height="200" />
 
@@ -2603,14 +2607,6 @@ C{ ( o o )}
 
 ## minion-laugh.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion-laugh.png" height="200" />
-
-
-## minion.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion.png" height="200" />
-
-
-## minion2.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion2.png" height="200" />
 
 
 ## moltar.cow
@@ -3692,6 +3688,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/sleepycat.png" height="200" />
 
 
+## slimer.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/slimer.png" height="200" />
+
+
 ## smiling-octopus.cow
 ```
  _________________ 
@@ -4648,10 +4648,6 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/arya.png" height="200" />
 
 
-## biggs.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/biggs-tc.png" height="200" />
-
-
 ## bill.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/bill-tc.png" height="200" />
 
@@ -4796,6 +4792,14 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey2.png" height="200" />
 
 
+## larry.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/larry.png" height="200" />
+
+
+## larry2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/larry2.png" height="200" />
+
+
 ## leia.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/leia-tc.png" height="200" />
 
@@ -4870,6 +4874,14 @@ LOL===__        \
 
 ## master-chief2.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief2-tc.png" height="200" />
+
+
+## minion.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion.png" height="200" />
+
+
+## minion2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion2.png" height="200" />
 
 
 ## mr-t.cow
