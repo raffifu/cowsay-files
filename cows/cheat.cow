@@ -11,12 +11,10 @@ $d = "\e[48;5;229m  ";
 $e = "\e[48;5;220m  ";
 
 $the_cow = <<EOC
-                    $t
                       $t
                         $t
                           $t
                             $t
-                              $t
             $a$x    $a  $x
             $a  $x$a  $x                          $b              $x
             $a          $b                          $c      $d  $b$x

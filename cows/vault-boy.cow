@@ -43,7 +43,7 @@ $a$d  $a          $e  $a$e    $a  $x                            $a$d            
   $a  $d          $a    $e    $a$g$a      $x                $a      $d                    $e$a      $x
 $a$d                  $e$a$e  $a  $g      $a                $h      $a      $d          $e$a$e$a$h  $a  $x
 $a$d      $e            $a$e  $a$e$a$g                    $a$h        $a$d            $e    $a$h    $a$g$a$x
-  $a  $e  $a      $e  $a$e  $a$e  $a$g                    $a$h        $a  $d      $e      $a$h      $a$g  $a  $x
+  $a  $e  $a      $e  $a$e  $a$e  $a$g                    $a$h        $a  $d      $e      $a$h      $a$g  $a$x
       $a  $d      $a  $e    $a$e$a$g                      $a$h          $a                $h        $a$g    $a  $x
     $a$e$d          $e$a$e  $a$e$a$g                        $a$h                                  $a$g          $a$x
     $a$e  $d  $e      $a$e$a$e  $a$g                          $a$h                              $a$g              $a$x
@@ -51,15 +51,9 @@ $a$d      $e            $a$e  $a$e$a$g                    $a$h        $a$d      
           $a  $e        $a$e  $a$g                    $a$g        $a$h                    $a  $g                      $a$x
               $a        $e  $a$g                  $a    $g          $a$h          $a      $g                            $a$x
                         $a  $g            $a      $x  $a$g          $a$h        $a$g                                      $a$x
-                            $a            $x          $a$g          $a$h        $a$g                                      $a  $x
+                            $a            $x          $a$g          $a$h        $a$g                                      $a$x
                                                       $a$g          $a$h        $a$g                                        $a$x
                                                       $a$g          $a$h        $a$g                                          $a$x
                                                       $a$g          $a$h        $a$g                $a$g                        $a$x
                                                       $a$g          $a$h        $a$g                  $a$g                        $a$x
-                                                        $a$g        $a$h        $a$g                    $a$g                      $a$x
-                                                        $a$g        $a$h        $a$g                    $a    $g                    $a$x
-                                                        $a$g        $a$h        $a$g                    $a$x  $a$g                  $a$x
-                                                        $a$g        $a$h        $a$g                  $a$x      $a  $g              $a$x
-                                                        $a$g        $a$h        $a$g                  $a$x      $a$g                $a$x
-                                                        $a$g        $a$h        $a$g                  $a$x    $a$g                $a$x
 EOC

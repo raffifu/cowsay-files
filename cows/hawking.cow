@@ -17,7 +17,6 @@ $j = "\e[48;5;24m  ";
 $k = "\e[48;5;75m  ";
 $l = "\e[48;5;26m  ";
 $m = "\e[48;5;31m  ";
-$n = "\e[48;5;232m  ";
 
 $the_cow = <<EOC
           $t                          $a    $x
@@ -40,7 +39,7 @@ $the_cow = <<EOC
           $g      $f$e      $g  $j$i              $c$k$e    $g$x$e  $f$g$e  $g        $b$f    $b  $f$b    $f$e$f        $x
         $g        $e$f$e  $g  $j        $k$i    $c  $k$l$g  $x  $e$f  $g$e$g          $b$e$f  $e$b$f      $e  $f      $x
         $g          $f$e  $g  $j          $k$i$c$i$k  $j$l$j  $x$e$f  $g$e$g          $f$e    $f  $g  $e    $f    $x
-        $g          $e$f$e$g  $j$m  $j      $k$i$l$k    $j      $f    $g$e$g  $e  $g    $f$e  $g      $f  $e    $n$x
+        $g          $e$f$e$g  $j$m  $j      $k$i$l$k    $j      $f    $g$e$g  $e  $g    $f$e  $g      $f  $e    $g$x
       $g        $e$g        $j$m        $j    $l    $k  $j    $f    $g$e$g  $e    $g                  $f    $e$g$x
       $g        $e  $g$f$e$g$j$m          $j  $l  $k$l$k$j    $f    $g$e$g  $e    $g                $f$b$f  $e$g$x
         $g$e  $g      $f$e$g$j$m            $j    $l$k$l$j    $f    $g$e$g$e  $g  $e  $g          $f$a$f  $e$g$x
@@ -68,9 +67,4 @@ $the_cow = <<EOC
         $e$x$g  $x  $g    $e    $f  $b  $g      $e$b      $g          $j          $g$j  $g$x
           $g    $x  $g      $e  $f$g$b  $g        $e$b    $g  $e  $g$j            $g$j  $g$x
           $g  $e              $f$g  $f$b$g$e  $g  $e$g$f$b$g  $e  $g$j          $g$j  $g$x
-          $g  $x  $e$x  $g  $e$f$g  $f$b$g        $e$g$f$b$g  $e$g  $j        $g$j  $g$e$x
-      $g          $f$e        $f$g  $f$b$g        $e  $f$b$g        $j      $g$j    $g$e  $x
-      $g          $f$e      $f  $g                $e          $g      $j  $g$j    $g  $e  $x
-      $g    $f        $g$e  $g            $f    $g  $e$f  $e    $g          $j  $g$f$g  $e$x
-      $g    $e        $f  $g  $f$g$f      $e    $g  $e$g                                $e$g$x
 EOC
