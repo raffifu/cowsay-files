@@ -16,7 +16,7 @@ $the_cow = <<EOC
               $t
                 $t
                   $t
-                    $t    $a    $x    $a$x
+                          $a    $x    $a$x
                       $a                  $x
               $a                            $x
             $a                                  $x

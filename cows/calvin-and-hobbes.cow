@@ -12,11 +12,11 @@ $e = "\e[48;5;223m  ";
 $f = "\e[48;5;160m  ";
 
 $the_cow = <<EOC
-                  $t                            $a  $x
-                    $t                  $a$x$a  $b$a  $x
-                      $t              $a$c$a$c  $a  $x
-                        $t          $a$b$a$c  $a$c  $a$x
-                          $t        $a$b    $c$a    $b$a$x
+                    $t                          $a  $x
+                      $t                $a$x$a  $b$a  $x
+                        $t            $a$c$a$c  $a  $x
+                          $t        $a$b$a$c  $a$c  $a$x
+                            $t      $a$b    $c$a    $b$a$x
                                     $a$b$a$b$a$b        $a$x
                                     $b  $a$b          $a$x    $a    $x
                                   $a    $b          $a$c$a    $c$a$c$a$x
@@ -40,5 +40,4 @@ $the_cow = <<EOC
                 $a$b  $a$x    $a  $x                      $a$b      $a$x
                 $a$b  $a$x                                  $a$b    $a$x
                   $a  $x                                      $a    $x
-
 EOC

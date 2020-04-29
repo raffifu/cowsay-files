@@ -1,12 +1,12 @@
-# Assassin (Assassin's Creed)
+# Altair (Assassin's Creed)
 # by Unknown - https://www.pinterest.com/pin/148759593925101571/
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;5;250m  ";
+$a = "\e[48;5;252m  ";
 $b = "\e[48;5;244m  ";
-$c = "\e[48;5;237m  ";
+$c = "\e[48;5;238m  ";
 $d = "\e[48;5;240m  ";
 $e = "\e[48;5;223m  ";
 $f = "\e[48;5;235m  ";
@@ -55,14 +55,14 @@ $the_cow = <<EOC
                               $a    $b  $a$i$a$x$f$b$a$b  $a$x
                               $a      $b$a$i$f$x$f  $b  $a  $x
                               $a            $f$x$f  $b$a    $x
-                                $a        $f$x  $g$f$b$a    $x
-                                $f$a      $f$x  $g$f$b$a  $x
-                                $g$f  $a$f$x      $g$f$b$x
-                                $g  $f  $x        $g$f  $x
-                                $g  $f$x          $f$g$f$x
-                                $g  $j$x          $j$g  $x
-                              $g  $f$x              $f$g  $x
-                              $g  $j$x              $j$g  $x
-                            $j  $g$f$x              $f$g$j  $x
-                          $g    $f  $x              $f    $g  $x
+                                $a        $f$x  $c$f$b$a    $x
+                                $f$a      $f$x  $c$f$b$a  $x
+                                $c$f  $a$f$x      $c$f$b$x
+                                $c  $f  $x        $c$f  $x
+                                $c  $f$x          $f$c$f$x
+                                $c  $d$x          $d$c  $x
+                              $c  $f$x              $f$c  $x
+                              $c  $d$x              $d$c  $x
+                            $d  $c$f$x              $f$c$d  $x
+                          $c    $f  $x              $f    $c  $x
 EOC
