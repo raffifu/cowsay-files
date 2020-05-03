@@ -247,7 +247,7 @@ PIXEL_COWS=(
 )
 
 #minimal list of cows
-PIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm" "dave" "forrest-gump" "rambo" "beetlejuice" "jayhawk"
+zPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm" "dave" "forrest-gump" "rambo" "beetlejuice" "jayhawk"
             "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
             "boba-fett2" "stormtrooper2" "vader"
             "batman" "batman2" "bane" "robin2" "spiderman3" "donatello2"
@@ -272,6 +272,7 @@ ERROR_COWS=(
   "bomberman2"
   "bowser"
   "bowser-jr"
+  "broken-image"
   "bsod"
   "bugs-bunny-error"
   "catbert"
@@ -437,11 +438,32 @@ randomcow(){
   echo $RANDOMCOW
 }
 
+testlist(){
+  input="$COWS_DIR/../lists/turtles.cows"
+  CUSTOM_LIST=($(cat $input))
+  N_COWS=${#CUSTOM_LIST[@]}
+  R_INDEX=$(($RANDOM % $N_COWS + 1))
+  COWNAME=${CUSTOM_LIST[$R_INDEX]}.cow
+  if [ $USE_TRUE_COLOR = true ]; then
+    FILE=${COWS_DIR}/true-color/${COWNAME}
+    if test -f "$FILE"; then
+      COWNAME="true-color/${COWNAME}"
+    fi
+  fi
+  RANDOMCOW=${COWS_DIR}/$COWNAME
+  COWTEXT=$1
+
+  if [ "$1" == "" ] ; then
+    COWTEXT=`cat -`
+  fi
+
+  echo $COWTEXT | cowsay -n -f $RANDOMCOW
+}
+
 alias cows="cd $COWS_DIR"
 alias numcows="echo ${#PIXEL_COWS[@]}"
 alias cowcount="numcows"
 alias cowrc="atom $COWRC"
-alias headsay='cowthink -f head.cow'
 alias randomfortune="clear && fortune | pixelsay"
 
 function verifycows() {
@@ -493,4 +515,5 @@ examplecows() {
   ${COWSAY_FILES}/make-examples.sh
 }
 
-randomfortune
+# randomfortune
+testlist blaah
