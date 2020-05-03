@@ -21,7 +21,7 @@ function printcow() {
   echo '    <div class="wrapper">'
   echo "      <a href=\"https://raw.githubusercontent.com/charc0al/cowsay-files/master/cows/${4}${1}.cow\">"
   # echo "      <a href=\"../cows/${4}${1}.cow\" target=\"_blank\">"
-  echo "        <img src=\"src_images/${COWIMG}.png\" class=\"sizer yeah\">"
+  echo "        <img src=\"src_images/${COWIMG}.png\" class=\"sizer\">"
   echo '      </a>'
   echo '    </div>'
   echo '  </div>'
@@ -64,4 +64,4 @@ function generate() {
   echo '</div>'
 }
 
-generate > examples.html
+generate > ${SCRIPT_DIR}/examples.html

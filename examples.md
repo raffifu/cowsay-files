@@ -4880,8 +4880,8 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-tc.png" height="200" />
 
 
-## master-chief2.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief2-tc.png" height="200" />
+## master-chief.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief-tc.png" height="200" />
 
 
 ## minion.cow

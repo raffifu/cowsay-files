@@ -2,491 +2,118 @@
 
 USE_TRUE_COLOR=true
 
-# This COWS variable configures what cowsay files will be displayed with the randomsay and randomfortune commands
-# Modify this list to contain whatever cows you want to see displayed with randomsay and new terminal sessions
-COWS=(
-  #List of ASCII only cows by default, which can be generated with list-ascii-cows.sh
-  "C3PO"
-  "R2-D2"
-  "USA"
-  "ackbar"
-  "aperture-blank"
-  "aperture"
-  "armadillo"
-  "atat"
-  "atom"
-  "awesome-face"
-  "banana"
-  "bees"
-  "bill-the-cat"
-  "biohazard"
-  "bishop"
-  "black-mesa"
-  "box"
-  "broken-heart"
-  "cake-with-candles"
-  "cake"
-  "cat"
-  "chessmen"
-  "claw-arm"
-  "clippy"
-  "companion-cube"
-  "cthulhu-mini"
-  "cube"
-  "dalek-shooting"
-  "dalek"
-  "dolphin"
-  "elephant2"
-  "explosion"
-  "fat-banana"
-  "fat-cow"
-  "fire"
-  "fox"
-  "ghost"
-  "giving-bunny"
-  "glados"
-  "golden-eagle"
-  "happy-whale"
-  "head"
-  "homer"
-  "jellyfish"
-  "kilroy"
-  "king"
-  "kitten"
-  "knight"
-  "lightbulb"
-  "lobster"
-  "lollerskates"
-  "mailchimp"
-  "maze-runner"
-  "mona-lisa"
-  "mule"
-  "nyan"
-  "octopus"
-  "owl"
-  "pawn"
-  "periodic-table"
-  "personality-sphere"
-  "pinball-machine"
-  "pod"
-  "pterodactyl"
-  "queen"
-  "radio"
-  "robot"
-  "robotfindskitten"
-  "roflcopter"
-  "rook"
-  "seahorse-big"
-  "seahorse"
-  "smiling-octopus"
-  "stick-figure"
-  "sudowoodo"
-  "taxi"
-  "threecubes"
-  "toaster"
-  "tortoise"
-  "tux-big"
-  "tweety-bird"
-  "weeping-angel"
-  "whale"
-  "wizard"
-  "world"
-)
-
-PIXEL_COWS=(
-  #Rick and Morty
-  "rick-and-morty-running" "rick-and-morty-split" "snowball" "pickle-rick2" "pickle-rick"
-  "rick-and-morty2" "pickle-rick-face" "squanchy" "mr-pb" "plutonian" "pizza-phone"
-  "dog" "head" "meeseeks" "scary-terry" #"scary-terry-face"
-
-  #Adult Swim characters
-  "mooninites" "master-shake" "frylock" "meatwad" "carl" "ignignokt" "err" "plutonians"
-  "space-ghost" "space-ghost2" "moltar" "zorak"
-
-  #Batman
-  "batman" "batman2" "robin" "robin2" "alfred" #"batman-genesis" "catwoman" "bane"
-  #"riddler" "joker-toon" "joker" "twoface" "mr-freeze" "ventriloquist" "riddler" "poison-ivy" "penguin"
-
-  #Banjo Kazooie
-  "banjo-kazooie"  "banjo-kazooie2" "mumbo-jumbo" "banjo" "kazooie" "bottles" "jamjars"
-  "klungo" "snacker" "mr-vile" "gobi" "boggy" "tiptup" #"humba-wumba" "grunty-broom" #"grunty" "gruntilda"
-  "yooka-laylee" "yooka" "laylee"
-
-  #Bob's Burgers
-  "bob" "bob2" "louise" "tina" "gene" "linda"
-
-  #Bojack Horseman
-  "bojack" "bojack2" "bojack3" "mr-peanutbutter" "todd" "princess-carolyn"
-
-  #Cartoons
-  "roadrunner" "roadrunner2" "wile-e-coyote2" "bugs-bunny"
-  "aladdin" "scrooge-mcduck" "foghorn-leghorn" "jerry-mouse"
-  "elmer-fudd" "daffy-duck" "taz" "speedy-gonzales" "yosemite-sam" "scooby-doo" "shaggy" "garfield" "garfield2" "garfield-face" "donald-duck" "martian"
-  "bart" "catdog" "homer-simpson" #"mr-burns" #"plankton" "spongebob" "rocko"
-  "abu" "abu-apple" "genie" "sylvester" "flintstone" "barney" "popeye" "buzz-lightyear" "lgm" #"jafar"
-  "wile-e-coyote" "abu-sword"
-  "adventure-time" "calvin-and-hobbes" "calvin-and-hobbes2" "calvin" "hobbes" "hobbes2"
-  "kermit" "cookie-monster" "cookie-monster2" "oscar" "oscar2" "oscar-face"
-  "pooh" "pooh2" "tigger"
-
-  #Dilbert
-  "dilbert" "dilbert-boss" "wally" "dogbert" #"catbert"
-
-  #Family Guy
-  "stewie" "peter" "brian"
-
-  #Futurama
-  "professor" "bender-md" "zapp-kif" "roberto" "hermes"
-  "zoidberg" "fry-money" "hypnotoad" "calculon" "prof" "leela" "amy" "zoidberg2" "scruffy"
-  #"farnsworth" "robot-devil"
-
-  #Homestar Runner
-  "strongbad" "homestar" "cheat" "trogdor"
-
-  #Game of Thrones
-  "john-snow" "tyrion" "hodor"
-  "the-hound" "arya" "ned-stark" "varys"
-  #"melisandre" "tywin" "joffrey" "danerys" "white-walker" "khal-drogo" "night-king"
-
-  #King of the Hill
-  "hank-hill" "hank" "dale" "bill" "boomhauer"
-
-  #Life & Times of Tim
-  "tim" "the-boss" "stu"
-
-  #Metal Gear Solid
-  "gray-fox" "gray-fox2" "solid-snake" "solid-snake2" #"metal-gear"
-
-  #Nintendo
-  "link" "link-toon" "link-windwaker" "link-champion" "link-glider"
-  "link-desert" "link-zora" "link-barbarian" "link-soldier" "link-dark"
-  "link-shorts" "link-awaken" "link-stealth" "link-surf" #"ganondorf"
-  "mario" "luigi" "super-mario-world" "yoshi" "shyguy"
-  "marth" "marth-black" "ROB" "ROB2" "captain-falcon" "captain-falcon2" "ness"
-  #"falco" "starfox" "starfox3"
-  "kirby" #"metaknight" "ike"
-  "megaman" #"donkeykong" "dr-mario"
-  "samus" "samus2" "samus3" #"samus-cannon"
-  #"peach" "zelda" "sheik" #"skull-kid" "bowser" "bomberman2" "bomberman"
-
-  #Peanuts
-  "peanuts" "snoopy" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
-  "charlie-brown" "linus" "schroeder" "woodstock"
-
-  #Pokemon
-  "bulbasaur" "charmander" "pikachu2" "pikachu3" "mewtwo" "mewtwo2"
-  "pikachu" "mew" # "pikachu-jason"
-
-  #Scientists
-  "hawking" "tesla" "darwin" "einstein" "einstein-face"
-
-  #Sharks
-  "ripster" "streex"
-  #"jab" "big-slammu"
-  "shark-dude" "bruce" "hammerhead"
-  #"jaws" "jaws2" "shark-smiling"
-
-  #Sonic
-  "sonic" "sonic2" "sonic3" "tails" "tails2" "knuckles2" "shadow" "shadow2"
-  #"dr-robotnik" "sonic4" "knuckles"
-
-  #South Park
-  "chef" "cartman" "kenny" "kyle" "stan" "barbrady" "jimmy" "mr-garrison"
-
-  #Star Wars
-  "r2d2-c3po" "obi-wan" "ewok" "solo" "yoda" "yoda2" #"greedo"
-  "r2d2" "c3po-color" "atst-atat" "leia2" "biggs" "admiral-ackbar" "boba-fett" "boba-fett2" "chewbacca"
-  "stormtrooper2" #"darth-vader" "phasma" "palpatine" "stormtrooper" "vader" "vader-toon"
-  #"true-color/leia" "true-color/jawa-engineer" "true-color/jawa"
-
-  #Super Heroes
-  "cyclops" "superman" "gambit" #"wolverine-snes" "wolverine-genesis"
-  "wolverine" "superman-batman" "ironman" #"superman-flying" #"ironman2" "one-punch-man"
-  "spiderman" "spiderman2" "spiderman3" "deadpool-face" #"deadpool" "captain-america" #"thor" "hulk" #"venom"
-
-  #Team Fortress
-  "tf2-engineer" "tf2-spy" "tf2-spy2" "tf2-spy-knife"
-  "tf2-pyro" "tf2-medic" "tf2-sniper" "tf2-scout" "tf2-soldier" #"tf2-heavy" "tf2-demo"
-
-  #TMNT
-  "michaelangelo" "michaelangelo2" "donatello" "donatello2" "raphael" "raphael2" "leonardo" "leonardo2" "splinter"
-  "donatello3" "leonardo3" #"michaelangelo3" "raphael4" "leonardo4" "raphael3"
-
-  #TV Characters
-  "ron-swanson" "toast" "moss" "it-crowd" "sherlock" "peep-show" "archer" "lahey" "tobias"
-  "brian"
-  #kramer2" "newman" "larry2" "jerry" "costanza" "elaine" "tobias" "kramer" "larry"
-
-  #Video Game characters
-  "47" "hitman" "hitman-face" "freeman-face" "duke-nukem" "leon" "subzero" "scorpion" "vault-boy"
-  "glados-color" "glados2" "glados-potato" "portal-chell" "master-chief" "master-chief2" "isaac"
-  "zitz" "rash" "pimple" "earthworm-jim" "peter-pan" "ken" "ryu" "rayman" "max-payne"
-  "bond" "doomguy" "deus-ex" "ezio" "ezio2" "assassin" "assassin2" #"wheatley" "power-armor"
-  "tombraider" "hl2-dog" "vortigaunt" "freeman" "freeman2" "spyro" #"bioshock" "doomkart" "deadspace" "lara-croft" "lara-croft2"
-  "kk-slider" "resetti"
-
-  #Hindu gods
-  #"ganesha" "vishnu" "rama" "krishna" "hanuman" #"shiva"
-
-  #Misc
-  "fsm" "fsm2" "fsm-creation" "good-vs-evil" "raptor-jesus" "dave" "forrest-gump" "rambo" "beetlejuice"
-  "bobross" "bobross2" "deadpool-bob-ross" "michael-jackson" "mr-t"
-  "ghostbusters" "the-dude" "donald" "leprechaun"
-  "wall-e-plant" "shrek" "donkey" #"wall-e" "col-sanders"
-  "the-jesus" "lebowski-walter" "jesus-ripped" #"cthulhu" "bsod" "death"
-  "lahey" "doc-and-marty" "neo" #"smith" "morpheus" #"agent-smith" "gandalf" "walter-white"
-  "lumbergh" "indiana-jones" #"alf" "robocop" "robocop2" #"milton"
-  #"mike-tyson" "wall-e2" "eve" #"raptor"
-  "liberty" #"mr-robot-hal" "guy-fawkes"
-  "tux-color" #"wyvern" "npc" "firefox"
-  "koolaid" "toucan" "chester" "chester2"
-  "cow" "cow2"
-  "n64" "gamecube" "gamecube-controller" "snes"
-  "jayhawk"
-  #"hobo" "hobo2" "minion" "minion"
-)
-
-#minimal list of cows
-zPIXEL_COWS=("cow" "cow2" "fsm2" "koolaid" "tux-color" "pikachu3" "lgm" "dave" "forrest-gump" "rambo" "beetlejuice" "jayhawk"
-            "bojack" "bojack2" "bojack3" "todd" "mr-peanutbutter" "princess-carolyn"
-            "boba-fett2" "stormtrooper2" "vader"
-            "batman" "batman2" "bane" "robin2" "spiderman3" "donatello2"
-            "it-crowd" "moss" "kermit" "rick-and-morty-running" "rick-and-morty-split" "meeseeks"
-            "the-boss" "mooninites" "mumbo-jumbo" "resetti" "ezio" "ezio2" "assassin" "assassin2"
-            "hank" "dale" "lahey"
-            "yooka-laylee" "yooka" "laylee"
-            "bobross" "bobross2" "peanuts"
-            "chester" "chester2" "shrek" "donkey" "sonic3"
-            "garfield-face" "garfield" "calvin-and-hobbes" "hobbes" "snoopy-sleep" "snoopy-turkey" "snoopy-woodstock" "snoopy-doghouse"
-            "space-ghost2" "strongbad" "cheat" "plutonians" "stewie" "jimmy")
-
-#Cows used for displaying error messages with errorsay
-ERROR_COWS=(
-  "abominable"
-  "bane"
-  "bart-zombie"
-  "big-slammu"
-  "bioshock"
-  "bokoblin"
-  "bokoblin2"
-  "bomberman2"
-  "bowser"
-  "bowser-jr"
-  "broken-image"
-  "bsod"
-  "bugs-bunny-error"
-  "catbert"
-  "cthulhu"
-  "darth-vader"
-  "death"
-  "donald-duck-angry"
-  "donatello-error"
-  "donatello-error2"
-  "doomkart2"
-  "dr-robotnik"
-  "farnsworth"
-  "flanders-devil"
-  "ganondorf"
-  "ghostface"
-  "glados-wrecked"
-  "greedo"
-  "grinch"
-  "gruntilda"
-  "grunty"
-  "grunty-broom"
-  "harley-quinn"
-  "headcrab"
-  "homer-shining"
-  "jab"
-  "jafar"
-  "jaws"
-  "jesus-ripped"
-  "jigsaw"
-  "joker" "joker-toon" "joker-face"
-  "khal-drogo"
-  "krueger"
-  "leonardo-error"
-  "leonardo-error2"
-  "lizalfo"
-  "magneto"
-  "metal-gear"
-  "michaelangelo-error"
-  "michaelangelo-error2"
-  "minion-laugh"
-  "moon"
-  "moon2"
-  "mr-burns"
-  "mr-freeze"
-  "mr-robot-hal"
-  "mr-x"
-  "night-king"
-  "npc"
-  "palpatine"
-  "penguin"
-  "phasma"
-  "pikachu-jason"
-  #"poison-ivy"
-  "portal-turrets"
-  "power-armor"
-  "raphael-error"
-  "raphael-error2"
-  "resetti"
-  "ripster"
-  "riddler"
-  "raptor"
-  "rdr"
-  "roberto-face"
-  "robot-devil"
-  "scar"
-  "scarecrow"
-  "shadow2"
-  "shiva"
-  "shredder" "shredder2" "shredder-snes"
-  "skull-kid"
-  "slimer"
-  "smith"
-  "snek"
-  "snoopy-error"
-  "sonic-error"
-  "stormtrooper-error"
-  "stormtrooper2"
-  "streex"
-  "superman-cyborg"
-  "tails-error"
-  "taz"
-  "terminator"
-  "this-is-fine"
-  "trogdor"
-  "twoface" "twoface-toon"
-  "vader"
-  "venom"
-  "ventriloquist"
-  "white-walker"
-  "wile-e-coyote-error"
-  "wyvern"
-  "zombie"
-  "zombie-police"
-)
-
 COWSAY_FILES=$(dirname "$0")
 COWS_DIR="${COWSAY_FILES}/cows"
 COWRC=$0
 
+# List of cow lists, one will be picked at random at the load of each new terminal
+# window, to pick random cows for cowlistsay
+COW_LISTS=(
+"adultswim"
+"assassin"
+"batman"
+"bk"
+"bojack"
+"burger"
+"dilbert"
+"futurama"
+"god"
+"genius"
+"got"
+"hero"
+"homestar"
+"koth"
+"metalgear"
+"misc"
+"peanuts"
+"pokemon"
+"rickandmorty"
+"smash"
+"southpark"
+"starwars"
+"tf2"
+"toon"
+"tmnt"
+"tv"
+"vg"
+"zelda"
+)
+
+NUM_LISTS=${#COW_LISTS[@]}
+L_INDEX=$(($RANDOM % $NUM_LISTS + 1))
+COW_LIST=${COW_LISTS[$L_INDEX]}
+
+# generate <listname>say commands for various cow lists!
+for listfile in ${COWSAY_FILES}/lists/*.cows; do
+  listname=$(basename $listfile)
+  listname="${listname%.*}"
+  listvar="cowlist_${listname}"
+  eval "${listvar}=(\$(cat ${COWSAY_FILES}/lists/${listname}.cows))"
+
+  eval "function ${listname}say() {
+    N_COWS=\${#${listvar}[@]}
+    R_INDEX=\$((\$RANDOM % \$N_COWS + 1))
+    COWNAME=\${${listvar}[\$R_INDEX]}.cow
+    if [ \$USE_TRUE_COLOR = true ]; then
+      FILE=\${COWS_DIR}/true-color/\${COWNAME}
+      if test -f \"\$FILE\"; then
+        COWNAME=\"true-color/\${COWNAME}\"
+      fi
+    fi
+    RANDOMCOW=\${COWS_DIR}/\$COWNAME
+    COWTEXT=\$1
+
+    if [ \"\$1\" == \"\" ] ; then
+      COWTEXT=\`cat -\`
+    fi
+    #echo \$COWNAME
+    echo \$COWTEXT | cowsay -n -f \$RANDOMCOW
+  }";
+done
+
 randomsay(){
-  NUM_COWS=${#COWS[@]}
-  RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
-  RANDOMCOW=${COWS_DIR}/${COWS[$RAND_INDEX]}.cow
   COWTEXT=$1
-
   if [ "$1" == "" ] ; then
     COWTEXT=`cat -`
   fi
-  echo $COWTEXT | cowsay -n -f $RANDOMCOW
+  echo $COWTEXT | asciisay
 }
 
-pixelsay(){
-  NUM_COWS=${#PIXEL_COWS[@]}
-  RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
-  COWNAME=${PIXEL_COWS[$RAND_INDEX]}.cow
-  if [ $USE_TRUE_COLOR = true ]; then
-    FILE=${COWS_DIR}/true-color/${COWNAME}
-    if test -f "$FILE"; then
-      COWNAME="true-color/${COWNAME}"
-    fi
-  fi
-  RANDOMCOW=${COWS_DIR}/$COWNAME
-  COWTEXT=$1
-
+cowlistsay(){
   if [ "$1" == "" ] ; then
     COWTEXT=`cat -`
   fi
 
-  echo $COWTEXT | cowsay -n -f `randomcow`
-}
-
-errorsay(){
-  NUM_COWS=${#ERROR_COWS[@]}
-  RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
-  COWNAME=${ERROR_COWS[$RAND_INDEX]}.cow
-  if [ $USE_TRUE_COLOR = true ]; then
-    FILE=${COWS_DIR}/true-color/${COWNAME}
-    if test -f "$FILE"; then
-      COWNAME="true-color/${COWNAME}"
-    fi
-  fi
-  RANDOMCOW=${COWS_DIR}/$COWNAME
-  COWTEXT=$1
-
-  if [ "$1" == "" ] ; then
-    COWTEXT=`cat -`
-  fi
-  echo $COWTEXT | cowsay -n -f $RANDOMCOW
-}
-
-randomcow(){
-  NUM_COWS=${#PIXEL_COWS[@]}
-  RAND_INDEX=$(($RANDOM % $NUM_COWS + 1))
-  COWNAME=${PIXEL_COWS[$RAND_INDEX]}.cow
-  if [ $USE_TRUE_COLOR = true ]; then
-    FILE=${COWS_DIR}/true-color/${COWNAME}
-    if test -f "$FILE"; then
-      COWNAME="true-color/${COWNAME}"
-    fi
-  fi
-  RANDOMCOW=${COWS_DIR}/$COWNAME
-
-  echo $RANDOMCOW
-}
-
-testlist(){
-  input="$COWS_DIR/../lists/turtles.cows"
-  CUSTOM_LIST=($(cat $input))
-  N_COWS=${#CUSTOM_LIST[@]}
-  R_INDEX=$(($RANDOM % $N_COWS + 1))
-  COWNAME=${CUSTOM_LIST[$R_INDEX]}.cow
-  if [ $USE_TRUE_COLOR = true ]; then
-    FILE=${COWS_DIR}/true-color/${COWNAME}
-    if test -f "$FILE"; then
-      COWNAME="true-color/${COWNAME}"
-    fi
-  fi
-  RANDOMCOW=${COWS_DIR}/$COWNAME
-  COWTEXT=$1
-
-  if [ "$1" == "" ] ; then
-    COWTEXT=`cat -`
-  fi
-
-  echo $COWTEXT | cowsay -n -f $RANDOMCOW
+  echo $COWTEXT | ${COW_LIST}say
 }
 
 alias cows="cd $COWS_DIR"
 alias numcows="echo ${#PIXEL_COWS[@]}"
 alias cowcount="numcows"
 alias cowrc="atom $COWRC"
-alias randomfortune="clear && fortune | pixelsay"
+alias randomfortune="clear && fortune | cowlistsay"
 
 function verifycows() {
-  for cowfile in $PIXEL_COWS; do
-    if ( test -f "$COWS_DIR/${cowfile}.cow" || test -f "$COWS_DIR/true-color/${cowfile}.cow" ); then
+  LISTNAME=$1
+  if [ "$LISTNAME" = "" ]; then
+    LISTNAME="$COW_LIST"
+  fi
+  VERIFY_LIST=($(cat "${COWSAY_FILES}/lists/${LISTNAME}.cows"))
+  for cowfile in $VERIFY_LIST; do
+    if ( test -f "$COWS_DIR/${cowfile}.cow" ); then
       echo "     -- FOUND --     \t $cowfile"
     else
-      echo "====== MISSING ======\t $cowfile"
+      if ( test -f "$COWS_DIR/true-color/${cowfile}.cow" && $USE_TRUE_COLOR ); then
+        echo "     -- FOUND --    \t $cowfile (true color)"
+      else
+        echo "====== MISSING ======\t $cowfile"
+      fi
     fi
   done
 }
 
-function missingcows() {
-  for cowfile in $PIXEL_COWS; do
-    if ( test -f "$COWS_DIR/${cowfile}.cow" || test -f "$COWS_DIR/true-color/${cowfile}.cow" ); then
-      #echo "$cowfile"
-    else
-      echo "====== MISSING ======\t\t $cowfile"
-    fi
-  done
-}
-
-cowtest () {
+# Usage: cowtest <cowfile name without extension>
+cowtest() {
   COWNAME="$1.cow"
   if [ $USE_TRUE_COLOR = true ]; then
     FILE=${COWS_DIR}/true-color/${COWNAME}
@@ -511,9 +138,16 @@ palette(){
   done
 }
 
-examplecows() {
+# function that updates all files dependent on cows list
+buildcows() {
+  echo "Generating examples.md..."
   ${COWSAY_FILES}/make-examples.sh
+  echo "Generating examples.html..."
+  ${COWSAY_FILES}/converter/generate-examples.sh
+  echo "Generating ascii.cows..."
+  ${COWSAY_FILES}/list-ascii-cows.sh > ${COWSAY_FILES}/lists/ascii.cows
+  echo "Generating ansi.cows..."
+  ${COWSAY_FILES}/list-ansi-cows.sh > ${COWSAY_FILES}/lists/ansi.cows
 }
 
-# randomfortune
-testlist blaah
+randomfortune

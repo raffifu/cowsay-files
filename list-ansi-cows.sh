@@ -10,18 +10,15 @@ for cowfile in ${SCRIPT_DIR}/cows/*.cow; do
     imgname=""
     FILE=${SCRIPT_DIR}/converter/src_images/${cowname}.png
     if test -f "$FILE"; then
-      imgname="$FILE"
+      echo "$cowname"
     else
       if [[ $cowname =~ ^.*-tc$ ]]; then
         shortname="${cowname%-tc*}"
         FILE=${SCRIPT_DIR}/converter/src_images/${shortname}.png
         if test -f "$FILE"; then
-          imgname="$FILE"
+          echo "$cowname"
         fi
       fi
-    fi
-    if [ -z "$imgname" ]; then
-        echo "$cowname"
     fi
   fi
 done
