@@ -83,10 +83,6 @@
           var reader  = new FileReader();
           reader.onload = function(e)  {
               var showThoughts = true;
-              // var image = document.createElement("img");
-              // image.src = e.target.result;
-              // image.id = 'the-img';
-              //document.body.appendChild(image);
               var img = new Image();
               img.src = e.target.result; //document.getElementById('the-img');
               img.onload = function() {
@@ -110,11 +106,14 @@
                 var height = !!maxHeight ? parseInt(maxHeight) : img.height;
                 height = Math.min(height, img.height);
 
-                each(range(0, height), function(y) {
-                  each(range(0, img.width), function(x) {
+                each(range(0, height), function(y) { //rows
+                  var whiteSpace = '';
+                  each(range(0, img.width), function(x) { //columns
                     var px = ctx.getImageData(x, y, 1, 1).data;
                     var foundColor = bashColor(px);
                     if (foundColor !== lastColor) {
+                      cowFile += whiteSpace;
+                      whiteSpace = '';
                       lastColor = foundColor;
                       var varName = varMap[foundColor];
                       if (!varName) {
@@ -129,10 +128,16 @@
                       }
                       cowFile += '$' + varName;
                     } else {
-                      if (showThoughts && (y < 5) && (y === (x - 5)) && (foundColor === bgColor)) {
-                        cowFile += '$t';
+                      var diagonalColor = bashColor(ctx.getImageData(x + 1, y + 1, 1, 1).data);
+                      if (showThoughts && (y < 5) && (y === (x - 5)) && (foundColor === bgColor) && (diagonalColor === bgColor)) {
+                        cowFile += whiteSpace + '$t';
+                        whiteSpace = '';
                       } else {
-                        cowFile += '  ';
+                        if (lastColor == bgColor) {
+                          whiteSpace += '  ';
+                        } else {
+                          cowFile += '  ';
+                        }
                       }
                     }
                   });

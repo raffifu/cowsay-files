@@ -22,7 +22,7 @@ $the_cow = <<EOC
         $t
           $t                      $a            $x
             $t                $a                    $x
-              $t          $b$a                            $x
+              $t          $b$a                          $x
                 $t      $b    $a        $c    $a          $b$x
                       $b    $a      $c        $a          $b  $x
                     $b      $a    $c            $a          $b$x
@@ -59,7 +59,7 @@ $the_cow = <<EOC
                     $e      $g    $d      $b    $d      $g$x
                     $e      $g      $d                  $g$x
                     $e      $g          $d            $g  $x
-                  $b$e        $g                          $e$g$e$x
+                  $b$e        $g                              $e$x
                 $b  $e        $g                            $e        $x
-              $a$b  $e        $g                            $e            $b$x
+              $a$b  $e        $g                            $e              $x
 EOC

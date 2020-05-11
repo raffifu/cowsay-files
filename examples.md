@@ -2821,6 +2821,10 @@ C{ ( o o )}
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/npc.png" height="200" />
 
 
+## nuke.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/nuke.png" height="200" />
+
+
 ## nyan.cow
 ```
  ______ 
@@ -3876,6 +3880,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/squirtle.png" height="200" />
 
 
+## stair-car.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/stair-car.png" height="200" />
+
+
 ## stan.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/stan.png" height="200" />
 
@@ -4608,6 +4616,10 @@ LOL===__        \
 
 ## zapp-kif.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/zapp-kif.png" height="200" />
+
+
+## zeke.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zeke.png" height="200" />
 
 
 ## zelda.cow

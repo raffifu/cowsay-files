@@ -9,34 +9,34 @@ COWRC=$0
 # List of cow lists, one will be picked at random at the load of each new terminal
 # window, to pick random cows for cowlistsay
 COW_LISTS=(
-"adultswim"
-"assassin"
-"batman"
-"bk"
-"bojack"
-"burger"
-"dilbert"
-"futurama"
-"god"
-"genius"
-"got"
-"hero"
-"homestar"
-"koth"
-"metalgear"
-"misc"
-"peanuts"
-"pokemon"
-"rickandmorty"
-"smash"
-"southpark"
-"starwars"
-"tf2"
-"toon"
-"tmnt"
-"tv"
-"vg"
-"zelda"
+  "adultswim"
+  "assassin"
+  "batman"
+  "bk"
+  "bojack"
+  "burger"
+  "dilbert"
+  "futurama"
+  "god"
+  "genius"
+  "got"
+  "hero"
+  "homestar"
+  "koth"
+  "metalgear"
+  "peanuts"
+  "pokemon"
+  "rickandmorty"
+  "seinfeld"
+  "smash"
+  "southpark"
+  "starwars"
+  "tf2"
+  "toon"
+  "tmnt"
+  "tv"
+  "vg"
+  # "zelda"
 )
 
 NUM_LISTS=${#COW_LISTS[@]}
@@ -80,6 +80,8 @@ randomsay(){
 }
 
 cowlistsay(){
+  COWTEXT="$1"
+
   if [ "$1" == "" ] ; then
     COWTEXT=`cat -`
   fi
@@ -103,8 +105,8 @@ function verifycows() {
     if ( test -f "$COWS_DIR/${cowfile}.cow" ); then
       echo "     -- FOUND --     \t $cowfile"
     else
-      if ( test -f "$COWS_DIR/true-color/${cowfile}.cow" && $USE_TRUE_COLOR ); then
-        echo "     -- FOUND --    \t $cowfile (true color)"
+      if ( test -f "$COWS_DIR/true-color/${cowfile}.cow" ); then
+        echo "     -- FOUND --    \t $cowfile (true color only)"
       else
         echo "====== MISSING ======\t $cowfile"
       fi
