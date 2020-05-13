@@ -7,6 +7,9 @@ EXAMPLES=(
 "chester" "garfield" "calvin-and-hobbes"
 )
 
+CONVERTER_DIR=$(dirname "$0")
+EXAMPLES=($(cat "${CONVERTER_DIR}/../lists/favorite.cows"))
+
 SCRIPT_DIR=$(dirname "$0")
 
 function printcow() {

@@ -142,10 +142,10 @@ palette(){
 
 # function that updates all files dependent on cows list
 buildcows() {
-  echo "Generating examples.md..."
-  ${COWSAY_FILES}/make-examples.sh
   echo "Generating examples.html..."
   ${COWSAY_FILES}/converter/generate-examples.sh
+  echo "Generating examples.md..."
+  ${COWSAY_FILES}/make-examples.sh
   echo "Generating ascii.cows..."
   ${COWSAY_FILES}/list-ascii-cows.sh > ${COWSAY_FILES}/lists/ascii.cows
   echo "Generating ansi.cows..."

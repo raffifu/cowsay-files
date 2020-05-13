@@ -1,23 +1,23 @@
-# Princess Leia (Star Wars) - true color
+# Princess Leia (Star Wars)
 # by Gustavo Viselner - https://dribbble.com/shots/3183476-Carrie-Fisher
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
-$a = "\e[48;2;134;133;131m  ";
-$b = "\e[48;2;94;83;84m  ";
-$c = "\e[48;2;69;65;64m  ";
-$d = "\e[48;2;137;89;3m  ";
-$e = "\e[48;2;82;54;0m  ";
-$f = "\e[48;2;183;107;88m  ";
-$g = "\e[48;2;236;192;176m  ";
-$h = "\e[48;2;235;157;122m  ";
-$i = "\e[48;2;47;42;39m  ";
-$j = "\e[48;2;137;85;65m  ";
-$k = "\e[48;2;167;46;33m  ";
-$l = "\e[48;2;237;228;201m  ";
-$m = "\e[48;2;188;182;162m  ";
-$n = "\e[48;2;254;255;252m  ";
+$a = "\e[48;5;102m  ";
+$b = "\e[48;5;240m  ";
+$c = "\e[48;5;238m  ";
+$d = "\e[48;5;136m  ";
+$e = "\e[48;5;94m  ";
+$f = "\e[48;5;180m  ";
+$g = "\e[48;5;230m  ";
+$h = "\e[48;5;223m  ";
+$i = "\e[48;5;235m  ";
+$j = "\e[48;5;137m  ";
+$k = "\e[48;5;124m  ";
+$l = "\e[48;5;253m  ";
+$m = "\e[48;5;249m  ";
+$n = "\e[48;5;231m  ";
 
 $the_cow = <<EOC
                       $t

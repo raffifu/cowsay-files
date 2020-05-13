@@ -1995,6 +1995,14 @@ $@#MX %+;-                           .
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/jamjars.png" height="200" />
 
 
+## jawa-engineer.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jawa-engineer.png" height="200" />
+
+
+## jawa.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jawa.png" height="200" />
+
+
 ## jaws.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/jaws.png" height="200" />
 
@@ -2226,6 +2234,10 @@ jgs
 
 ## leela.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/leela.png" height="200" />
+
+
+## leia.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/leia.png" height="200" />
 
 
 ## leia2.cow
@@ -2563,6 +2575,10 @@ C{ ( o o )}
 
 ## metaknight.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/metaknight.png" height="200" />
+
+
+## metaknight2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/metaknight2.png" height="200" />
 
 
 ## metal-gear.cow
@@ -4622,6 +4638,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/zeke.png" height="200" />
 
 
+## zeke2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zeke2.png" height="200" />
+
+
 ## zelda.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/zelda.png" height="200" />
 
@@ -4781,7 +4801,7 @@ LOL===__        \
 
 
 ## jawa-engineer.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jawa-engineer.png" height="200" />
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jawa-engineer-tc.png" height="200" />
 
 
 ## jawa.cow
@@ -4966,6 +4986,10 @@ LOL===__        \
 
 ## solid-snake.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake.png" height="200" />
+
+
+## solid-snake2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake2-tc.png" height="200" />
 
 
 ## superman-flying.cow
