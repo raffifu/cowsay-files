@@ -19,11 +19,10 @@ $l = "\e[48;5;124m  ";
 
 $the_cow = <<EOC
                             $t
-                              $t
-                                $t                $a        $x
-                                  $t            $a    $b$c$d$a$x
-                                    $t          $a$e$a  $d$f$d$a$x
-                                              $a  $g$a  $c$d  $h$a$x
+                              $t                  $a        $x
+                                $t              $a    $b$c$d$a$x
+                                  $t            $a$e$a  $d$f$d$a$x
+                                    $t        $a  $g$a  $c$d  $h$a$x
                                               $b$a$g$i$a$b$c  $i$a$x
                                               $c$a$e$i$h$a$b$h$g$a$x
                                               $c$a$h$e  $a$b$i  $a$x
@@ -64,8 +63,4 @@ $the_cow = <<EOC
       $b$d$f    $a  $x  $a      $b    $a        $d$c$a          $f$k  $d$a$x
         $b  $c$a  $x    $a      $c$d$b$a  $b$a  $c$b$a  $b$c$b$a  $f$k$f$c$a$x
           $a    $x      $a$b$a  $d$f$c$a  $b$a  $b$a    $c$d  $b$a  $f$k$d$a$x
-                        $a$c$a$b$d$k$d$a$b$c$a          $c$f$k$d$b$a$c$f  $c$a$x
-                        $a$d$a$b$f$k$f$a$b$d$c$a        $b$d$f$k$d$b$a$b$d$c$b$x
-                        $a$f$a$b$d$k$f$a$b$f$d$a$x$a      $b$d$f  $d$a  $b$c$b$a$x
-                        $a$d$b$a$c$k$d$a$b$k$d$a$x  $a      $b$c$d$f$d$b$a$b  $a$x
 EOC

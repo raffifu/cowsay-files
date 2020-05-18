@@ -27,9 +27,9 @@ a[href] {
 }
 
 .btn-convert {
-  margin-top: 0.5rem;
-  width: 200px;
-  padding: 15px;
+  margin-top: -2em;
+  width: 250px;
+  padding: 20px;
 }
 
 .converter-options {
@@ -38,6 +38,10 @@ a[href] {
 
 .converter-options .option {
   margin: 0 2em 0 0;
+}
+
+.option .row {
+  margin-bottom: 0.5em;
 }
 
 .cow-tile {

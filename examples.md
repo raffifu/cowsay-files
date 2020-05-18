@@ -2481,6 +2481,10 @@ C{ ( o o )}
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/mario.png" height="200" />
 
 
+## mario2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mario2.png" height="200" />
+
+
 ## marth-black.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-black.png" height="200" />
 
@@ -3040,6 +3044,10 @@ o        o         o      o     +
 
 ## phasma.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/phasma.png" height="200" />
+
+
+## pichu.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pichu.png" height="200" />
 
 
 ## pickle-rick-face.cow

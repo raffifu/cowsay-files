@@ -15,13 +15,11 @@ $h = "\e[48;5;231m  ";
 $i = "\e[48;5;242m  ";
 
 $the_cow = <<EOC
-                      $t
-                        $t
-                          $t                                    $a        $x
-                            $t                                $a            $b$x
-                              $t                              $a              $b$x
-                                $t                          $a            $b    $x
-                                                            $a          $b        $x
+                                $t                              $a        $x
+                                  $t                          $a            $b$x
+                                    $t                        $a              $b$x
+                                      $t                    $a            $b    $x
+                                        $t                  $a          $b        $x
                                                             $a          $b        $x
                                                         $c        $a  $b        $x
                                       $c$x            $c            $a$b        $x

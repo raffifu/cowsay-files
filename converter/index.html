@@ -84,7 +84,7 @@
           reader.onload = function(e)  {
               var showThoughts = true;
               var img = new Image();
-              img.src = e.target.result; //document.getElementById('the-img');
+              img.src = e.target.result;
               img.onload = function() {
                 var colorCount = 0;
                 var varMap = {};
@@ -102,13 +102,19 @@
                 colorCount++;
                 var lastColor = bgColor;
 
+                var imgScale = document.getElementById("imgScale").value;
+                var scale = !!imgScale ? parseInt(imgScale) : 1;
                 var maxHeight = document.getElementById("maxHeight").value;
                 var height = !!maxHeight ? parseInt(maxHeight) : img.height;
-                height = Math.min(height, img.height);
+                var width = img.width / scale;
+                height = Math.min(height, (img.height / scale));
 
-                each(range(0, height), function(y) { //rows
+                each(range(0, height), function(yval) { //rows
+                  var y = yval * scale;
                   var whiteSpace = '';
-                  each(range(0, img.width), function(x) { //columns
+                  each(range(0, width), function(xval) { //columns
+                    var x = xval * scale;
+                    console.log('pixel (' + x + ', ' + y + ')');
                     var px = ctx.getImageData(x, y, 1, 1).data;
                     var foundColor = bashColor(px);
                     if (foundColor !== lastColor) {
@@ -128,8 +134,8 @@
                       }
                       cowFile += '$' + varName;
                     } else {
-                      var diagonalColor = bashColor(ctx.getImageData(x + 1, y + 1, 1, 1).data);
-                      if (showThoughts && (y < 5) && (y === (x - 5)) && (foundColor === bgColor) && (diagonalColor === bgColor)) {
+                      var diagonalColor = bashColor(ctx.getImageData(x + scale, y + scale, 1, 1).data);
+                      if (showThoughts && (yval < 5) && (yval === (xval - 5)) && (foundColor === bgColor) && (diagonalColor === bgColor)) {
                         cowFile += whiteSpace + '$t';
                         whiteSpace = '';
                       } else {
@@ -168,13 +174,20 @@
           <input type=file name=filename id=file>
         </div>
         <div class="option">
-          &nbsp;author <input type="text" id="authorName" placeholder="Author Name">
+          <div class="row">
+            Author: <input type="text" id="authorName" placeholder="Author Name">
+          </div>
+          <div class="row">
+            <input type="checkbox" id="fullColor"> True color
+          </div>
         </div>
         <div class="option">
-          max height <input type="number" id="maxHeight" value="50">
-        </div>
-        <div class="option">
-          <input type="checkbox" id="fullColor"> Use full 24-bit color
+          <div class="row">
+            Max height <input type="number" id="maxHeight" value="50">
+          </div>
+          <div class="row">
+            Scale <input type="number" id="imgScale" value="1">
+          </div>
         </div>
       </div>
       <div>
@@ -184,7 +197,7 @@
 
       <p>Instructions:</p>
       <ul>
-        <li>Upload image to create cowsay file from (recommended size <= 50x50) only tested with uncompressed PNG but other file types will probably work</li>
+        <li>Upload image to create cowsay file from (recommended size <= 50x50)</li>
         <li>Press "Convert!" and save your new cowsay file to your cows directory!</li>
         <li>Check the <a href="https://charc0al.github.io/cowsay-files/">README</a> for more tips and instructions.</li>
       </ul>
