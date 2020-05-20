@@ -36,6 +36,15 @@ COW_LISTS=(
   "tmnt"
   "tv"
   "vg"
+  #make favorites list more likely to appear
+  "favorite"
+  "favorite"
+  "favorite"
+  "favorite"
+  "favorite"
+  "favorite"
+  "favorite"
+  "favorite"
   # "zelda"
 )
 

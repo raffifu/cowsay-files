@@ -1598,6 +1598,10 @@ $@#MX %+;-                           .
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/genie2.png" height="200" />
 
 
+## geralt.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/geralt.png" height="200" />
+
+
 ## ghost.cow
 ```
  _______ 
