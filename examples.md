@@ -4936,6 +4936,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/minion2.png" height="200" />
 
 
+## mr-robot-hal.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-robot-hal-tc.png" height="200" />
+
+
 ## mr-t.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-t-tc.png" height="200" />
 

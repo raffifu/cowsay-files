@@ -5,7 +5,7 @@
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;235m  ";
-$b = "\e[48;5;160m  ";
+$b = "\e[48;5;124m  ";
 $c = "\e[48;5;196m  ";
 $d = "\e[48;5;172m  ";
 $e = "\e[48;5;130m  ";
@@ -18,9 +18,9 @@ $k = "\e[48;5;202m  ";
 $l = "\e[48;5;34m  ";
 $m = "\e[48;5;59m  ";
 $n = "\e[48;5;254m  ";
-$o = "\e[48;5;66m  ";
+$o = "\e[48;5;245m  ";
 $p = "\e[48;5;231m  ";
-$q = "\e[48;5;145m  ";
+$q = "\e[48;5;249m  ";
 $r = "\e[48;5;52m  ";
 $s = "\e[48;5;214m  ";
 $u = "\e[48;5;226m  ";
@@ -59,7 +59,7 @@ $the_cow = <<EOC
               $a$e$d  $f                $e  $p$q$p  $q$o$e$d    $a$n$o$a  $i  $e  $a$o$n$p  $n  $j  $h$d$f$g$f$d$a  $x
             $a$e$a$e  $d  $f      $d$e  $r$o$q$o$q  $o$e$d    $e$a$o$a        $i$e  $a$n$p  $n  $j  $h$k$g      $f$d$x
           $a$e$i$s$a    $e      $r    $g            $f  $d    $a$e$a      $q$n$a$i$e$a$q$p  $n  $j  $h$k$f    $d$e$a$x
-          $a$i$u      $s$a      $e$g                    $f$d$e$x$e    $a  $o$q$a  $e$a$q$p$n    $h$j$h$b$k$e  $a  $x
+          $a$i$u      $s$a      $e$g                    $f$d$e$a$e    $a  $o$q$a  $e$a$q$p$n    $h$j$h$b$k$e  $a  $x
         $a$i$u          $a$n$q$a$e$f$g  $d  $f$g        $f$d$a$e$i      $e$a          $q$n      $h  $j$h$b$e$a$x
         $a$s$u          $a$q$o$a  $e$d    $e$r$e$f    $d$e$a$e    $i      $e$a        $q$n      $j$h$j$h$a  $x
         $a$u            $s$a                              $e$s$i$e  $i$s  $i$e$a$o$n$a$q$n      $j$h    $a$x
