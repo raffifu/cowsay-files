@@ -11,9 +11,8 @@ $d = "\e[48;5;234m  ";
 $e = "\e[48;5;242m  ";
 $f = "\e[48;5;231m  ";
 $g = "\e[48;5;54m  ";
-$h = "\e[48;5;236m  ";
-$i = "\e[48;5;92m  ";
-$j = "\e[48;5;141m  ";
+$h = "\e[48;5;92m  ";
+$i = "\e[48;5;141m  ";
 
 $the_cow = <<EOC
                                   $t                                    $a      $x
@@ -36,26 +35,26 @@ $the_cow = <<EOC
                                                           $d$c  $d  $c    $d    $e    $d$x
                                                     $d            $e  $c$e      $d    $x
                                                   $d$c    $e$c        $e$c    $e  $d$x
-    $h      $x                                    $d$c$b  $a$c$b    $c$a$c$b  $c$e$d$x
-  $h$i$j  $i$d$x                                $d$b  $d  $e$a$c$b  $c$a$c$b  $c$e$d$x
-$h$g$j      $g$d$x                            $a$b$c$d$x  $d$e$a$c  $e$a$c    $e$d$x
-$h$i$j      $i$d$x                          $a$c  $d$x      $d$e$a    $e$a      $d$x
-$h$i$j      $i$d$x                        $d$c$b$d$x        $d$e$c            $d  $x
-$h$g$j      $i$d$x                        $a$b$c$d$x        $d$c  $b        $c$d  $x
-  $h$i$j  $i$g$d$x                          $a$c$b$d$x        $d$c$b          $d$c$d$x
-    $h$d$g    $d$x                          $d$e$c$b$d  $x    $d$c  $b        $c$d$c$d$x
-        $d  $i$j$d$x                          $a$c$b    $d    $e  $c  $b$h    $e  $d$c$d$x
-            $d$i  $d$x                        $d$e$c    $b$a$e$d$e$c  $h$i    $h$e  $d$e$d$x
-              $d$i$j$d$h$x                      $d$c$a  $c$b$a$c$d$e$c$h$i$j  $h$e$c$e$d$e$d$x
-                $d$i$j$i$h      $x              $d$e$c$a  $c$a$d  $e$h$g$j      $h$c  $d$e$d$x
-                  $d$i$j      $i$h      $d          $c  $a$d  $b  $c$d$i$j      $h$e$c$e$d  $x
-                    $d$g$i  $j          $i  $g    $d$e  $d$c$b  $c$e$d$i$j      $h$e$c$e$d  $x
-                      $d  $g$i  $j          $i$g  $d    $b      $c$d$g$i$j      $h$e$c$e$d$x
-                          $d  $g$i  $j      $i$g$d$c$b        $c  $d$i    $j  $i$h$e$c$e$d$x
-                              $d  $g$i        $g$d$b          $c$e$d$i          $h$e$c$e$d$x
-                                  $d  $g        $d$b        $c  $d$g  $i      $h$e$c  $e$d$x
-                                      $d    $g  $d$b        $c$e$d$g      $h    $e$c  $e$d$x
-                                            $d    $c$b    $c  $d    $h    $d  $e$c  $e$d$x
+    $d      $x                                    $d$c$b  $a$c$b    $c$a$c$b  $c$e$d$x
+  $d$h$i  $h$d$x                                $d$b  $d  $e$a$c$b  $c$a$c$b  $c$e$d$x
+$d$g$i      $g$d$x                            $a$b$c$d$x  $d$e$a$c  $e$a$c    $e$d$x
+$d$h$i      $h$d$x                          $a$c  $d$x      $d$e$a    $e$a      $d$x
+$d$h$i      $h$d$x                        $d$c$b$d$x        $d$e$c            $d  $x
+$d$g$i      $h$d$x                        $a$b$c$d$x        $d$c  $b        $c$d  $x
+  $d$h$i  $h$g$d$x                          $a$c$b$d$x        $d$c$b          $d$c$d$x
+    $d  $g    $d$x                          $d$e$c$b$d  $x    $d$c  $b        $c$d$c$d$x
+        $d  $h$i$d$x                          $a$c$b    $d    $e  $c  $b$d    $e  $d$c$d$x
+            $d$h  $d$x                        $d$e$c    $b$a$e$d$e$c  $d$h    $d$e  $d$e$d$x
+              $d$h$i$d  $x                      $d$c$a  $c$b$a$c$d$e$c$d$h$i  $d$e$c$e$d$e$d$x
+                $d$h$i$h$d      $x              $d$e$c$a  $c$a$d  $e$d$g$i      $d$c  $d$e$d$x
+                  $d$h$i      $h$d                  $c  $a$d  $b  $c$d$h$i      $d$e$c$e$d  $x
+                    $d$g$h  $i          $h  $g    $d$e  $d$c$b  $c$e$d$h$i      $d$e$c$e$d  $x
+                      $d  $g$h  $i          $h$g  $d    $b      $c$d$g$h$i      $d$e$c$e$d$x
+                          $d  $g$h  $i      $h$g$d$c$b        $c  $d$h    $i  $h$d$e$c$e$d$x
+                              $d  $g$h        $g$d$b          $c$e$d$h          $d$e$c$e$d$x
+                                  $d  $g        $d$b        $c  $d$g  $h      $d$e$c  $e$d$x
+                                      $d    $g  $d$b        $c$e$d$g      $d    $e$c  $e$d$x
+                                            $d    $c$b    $c  $d              $e$c  $e$d$x
                                                   $d$c      $e$d$x          $d$e$c$e  $d$x
                                                   $d$c  $e  $d$x            $d$e  $a$d$x
                                                   $d$e    $d$x            $d$e    $d$x
@@ -67,5 +66,4 @@ $h$g$j      $i$d$x                        $a$b$c$d$x        $d$c  $b        $c$d
                                           $a$c  $b$c    $d$x                  $a$d$e$c$e    $c  $e$d$x
                                         $d$b  $c$a$b  $c$d$x                      $d  $e  $c    $e$d$x
                                         $d$c  $e$d$c  $e$d$x                          $d          $x
-                                          $d    $x$d    $x
 EOC

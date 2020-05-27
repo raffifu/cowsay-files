@@ -109,6 +109,7 @@ function verifycows() {
   if [ "$LISTNAME" = "" ]; then
     LISTNAME="$COW_LIST"
   fi
+  echo "Verifying \"$LISTNAME.cows\""
   VERIFY_LIST=($(cat "${COWSAY_FILES}/lists/${LISTNAME}.cows"))
   for cowfile in $VERIFY_LIST; do
     if ( test -f "$COWS_DIR/${cowfile}.cow" ); then
