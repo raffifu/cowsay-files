@@ -108,11 +108,13 @@
                 var height = !!maxHeight ? parseInt(maxHeight) : img.height;
                 var width = img.width / scale;
                 height = Math.min(height, (img.height / scale));
+                var cropLeftVal = document.getElementById("cropLeft").value;
+                var leftBound = !!cropLeftVal ? parseInt(cropLeftVal) : 0;
 
                 each(range(0, height), function(yval) { //rows
                   var y = yval * scale;
                   var whiteSpace = '';
-                  each(range(0, width), function(xval) { //columns
+                  each(range(leftBound, width), function(xval) { //columns
                     var x = xval * scale;
                     console.log('pixel (' + x + ', ' + y + ')');
                     var px = ctx.getImageData(x, y, 1, 1).data;
@@ -135,7 +137,7 @@
                       cowFile += '$' + varName;
                     } else {
                       var diagonalColor = bashColor(ctx.getImageData(x + scale, y + scale, 1, 1).data);
-                      if (showThoughts && (yval < 5) && (yval === (xval - 5)) && (foundColor === bgColor) && (diagonalColor === bgColor)) {
+                      if (showThoughts && (yval < 5) && (yval === ((xval - leftBound) - 5)) && (foundColor === bgColor) && (diagonalColor === bgColor)) {
                         cowFile += whiteSpace + '$t';
                         whiteSpace = '';
                       } else {
@@ -187,6 +189,11 @@
           </div>
           <div class="row">
             Scale <input type="number" id="imgScale" value="1">
+          </div>
+        </div>
+        <div class="option">
+          <div class="row">
+            Left crop <input type="number" id="cropLeft" value="0">
           </div>
         </div>
       </div>

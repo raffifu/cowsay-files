@@ -1174,6 +1174,10 @@ snd     [_____________]
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/danerys.png" height="200" />
 
 
+## dante.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/dante.png" height="200" />
+
+
 ## darth-vader.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/darth-vader.png" height="200" />
 
@@ -1196,6 +1200,10 @@ snd     [_____________]
 
 ## deadpool.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadpool.png" height="200" />
+
+
+## deadpool2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/deadpool2.png" height="200" />
 
 
 ## deadspace.cow
@@ -1757,6 +1765,10 @@ $@#MX %+;-                           .
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox2.png" height="200" />
 
 
+## gray-fox3.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox3.png" height="200" />
+
+
 ## greedo.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/greedo.png" height="200" />
 
@@ -2142,6 +2154,10 @@ jgs
 
 ## kirby.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/kirby.png" height="200" />
+
+
+## kitten-color.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kitten-color.png" height="200" />
 
 
 ## kitten.cow
@@ -2825,6 +2841,10 @@ C{ ( o o )}
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/n64.png" height="200" />
 
 
+## necromorph.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/necromorph.png" height="200" />
+
+
 ## ned-stark.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/ned-stark.png" height="200" />
 
@@ -2835,6 +2855,10 @@ C{ ( o o )}
 
 ## neo.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/neo.png" height="200" />
+
+
+## neo2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/neo2.png" height="200" />
 
 
 ## ness.cow
@@ -3123,6 +3147,10 @@ o        o         o      o     +
         ||
         |'
 ```
+
+
+## pinkman.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/pinkman.png" height="200" />
 
 
 ## pit.cow
@@ -3546,6 +3574,14 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/ryu.png" height="200" />
 
 
+## sam-fisher.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sam-fisher.png" height="200" />
+
+
+## sam-fisher2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sam-fisher2.png" height="200" />
+
+
 ## samus-cannon.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/samus-cannon.png" height="200" />
 
@@ -3828,6 +3864,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake2.png" height="200" />
 
 
+## solid-snake3.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/solid-snake3.png" height="200" />
+
+
 ## solo.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/solo.png" height="200" />
 
@@ -3874,6 +3914,10 @@ LOL===__        \
 
 ## spiderman3.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/spiderman3.png" height="200" />
+
+
+## spiderman4.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/spiderman4.png" height="200" />
 
 
 ## splinter.cow
@@ -3972,6 +4016,10 @@ LOL===__        \
 
 ## subzero.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/subzero.png" height="200" />
+
+
+## subzero2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/subzero2.png" height="200" />
 
 
 ## sudowoodo.cow
@@ -4506,6 +4554,10 @@ LOL===__        \
            .                              .       ..          .       .  .   ..
              .                           .                    . .    ..    . .                             .
 ```
+
+
+## wesker.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wesker.png" height="200" />
 
 
 ## whale.cow
