@@ -2236,6 +2236,10 @@ jgs
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/lara-croft2.png" height="200" />
 
 
+## lara-croft3.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/lara-croft3.png" height="200" />
+
+
 ## larry.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/larry.png" height="200" />
 

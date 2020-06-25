@@ -11,18 +11,16 @@ $d = "\e[48;5;238m  ";
 $e = "\e[48;5;180m  ";
 $f = "\e[48;5;223m  ";
 $g = "\e[48;5;237m  ";
-$h = "\e[48;5;189m  ";
+$h = "\e[48;5;254m  ";
 $i = "\e[48;5;235m  ";
 $j = "\e[48;5;80m  ";
 $k = "\e[48;5;239m  ";
-$l = "\e[48;5;69m  ";
-$m = "\e[48;5;65m  ";
+$l = "\e[48;5;75m  ";
+$m = "\e[48;5;69m  ";
 $n = "\e[48;5;60m  ";
 $o = "\e[48;5;101m  ";
 $p = "\e[48;5;227m  ";
-$q = "\e[48;5;94m  ";
 $r = "\e[48;5;137m  ";
-$s = "\e[48;5;245m  ";
 
 $the_cow = <<EOC
           $t                              $a              $x
@@ -54,16 +52,16 @@ $g$x                          $e        $m  $l      $x
                                         $l$j          $n    $x
                                       $i$l$j    $n    $k    $x
                                       $i$o$p  $k      $d    $a$x
-                                      $d$q$o  $k$d    $a      $x
+                                      $d$a$o  $k$d    $a      $x
                                      $i $g$a  $d$k  $a        $x
                                     $i$g$d    $a  $d$k    $a$n    $x
-                                    $e  $d        $a    $d$i$k$n  $x
-                                    $e      $r    $x$f    $e$k$n  $x
+                                    $e  $d        $a    $d    $n  $x
+                                    $e      $r    $x$f    $e$d$n   $x
                                    $e         $r$x  $f      $e$k    $x
-                                  $e           $x    $f  $k$i$k$n  $x
-                                  $i     $e   $x      $k  $e  $k    $x
-                                  $s    $i    $x       $e$f  $e  $x
-                                  $e   $s    $x         $f        $x
+                                  $e           $x    $f   $d  $n   $x
+                                  $i     $e   $x      $d  $e  $k    $x
+                                  $b    $i    $x       $e$f  $e  $x
+                                  $e   $b    $x         $f        $x
                                   $e        $x           $f        $x
                                  $e         $x            $f        $x
                                 $e         $x              $f        $x
