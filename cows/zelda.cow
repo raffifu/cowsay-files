@@ -25,14 +25,12 @@ $r = "\e[48;5;53m  ";
 $s = "\e[48;5;101m  ";
 $u = "\e[48;5;95m  ";
 $v = "\e[48;5;144m  ";
-$w = "\e[48;5;138m  ";
 
 $the_cow = <<EOC
+        $t
           $t
-            $t
-              $t
-                $t      $a          $x
-                      $a$b    $a  $b$a$x
+            $t          $a          $x
+              $t      $a$b    $a  $b$a$x
                     $a$b$c  $b    $a$b$a$x
                     $a$b  $c  $b    $d$b$a$x
                   $a$b    $e$b$f$b$f$g$f$a$x
@@ -72,17 +70,4 @@ $the_cow = <<EOC
               $a$n$k  $p$k  $e$s$v  $s$h$m$p$l$a$x
               $a$n$k  $n$k  $e$l$v  $l$h$n$p$l$a$x
               $a$p$k  $n$k  $e$l$v$s$l$h$n$p$l$a$x
-              $a$p$k  $n$k  $e$l$s  $l$h$n$p$m$a$x
-            $a$n$k  $n$p$k  $e$l$v$s$l$h$n$p$m$a$x
-            $a$n$k  $n$p$k  $e$l$v$l  $h$n$p$m$a$x
-            $a$n$k  $n$k    $e$s$l  $s$h$n$p$m$a$x
-            $a$p$k  $n$k    $e$l$s$v$l$h$p  $m  $a$x
-          $a$m$p$k$p$n$k      $e$v$l$s$h$p  $m$n$a$x
-          $a$n$p    $m$k      $e$v  $h$p$k$p$m$n$a$x
-        $a$m$n$p  $n$m$k        $e$s$h$k  $p$m$n$a$x
-        $a$n  $p  $m  $p$k      $p$e$p$k  $p$l$n$a$x
-      $a$u      $m    $n$k                $n$l$u$l$a$x
-      $a      $u  $l  $n$p$k  $p    $k    $n$l$u$a  $x
-              $a      $u      $w      $u    $a    $x
-                      $a                    $x
 EOC

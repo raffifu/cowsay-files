@@ -176,6 +176,10 @@
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/alfred.png" height="200" />
 
 
+## alien.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/alien.png" height="200" />
+
+
 ## amy.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/amy.png" height="200" />
 
@@ -263,6 +267,10 @@
   -===~__-'\__X_`````\_____/~`-._ `.
               ~~        ~~       `~-'
 ```
+
+
+## ash.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ash.png" height="200" />
 
 
 ## assassin.cow
@@ -1178,6 +1186,10 @@ snd     [_____________]
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/dante.png" height="200" />
 
 
+## darkness.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/darkness.png" height="200" />
+
+
 ## darth-vader.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/darth-vader.png" height="200" />
 
@@ -1481,6 +1493,14 @@ $@#MX %+;-                           .
 
 ## firefox.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/firefox.png" height="200" />
+
+
+## fisher.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fisher.png" height="200" />
+
+
+## fisher2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fisher2.png" height="200" />
 
 
 ## flanders-devil.cow
@@ -2473,6 +2493,10 @@ H#,                     =;+/;,       ,#X
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/luigi.png" height="200" />
 
 
+## luke.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/luke.png" height="200" />
+
+
 ## lumbergh.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/lumbergh.png" height="200" />
 
@@ -3231,6 +3255,10 @@ o        o         o      o     +
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/power-armor.png" height="200" />
 
 
+## predator.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/predator.png" height="200" />
+
+
 ## princess-carolyn.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/princess-carolyn.png" height="200" />
 
@@ -3576,14 +3604,6 @@ LOL===__        \
 
 ## ryu.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/ryu.png" height="200" />
-
-
-## sam-fisher.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sam-fisher.png" height="200" />
-
-
-## sam-fisher2.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/sam-fisher2.png" height="200" />
 
 
 ## samus-cannon.cow

@@ -36,6 +36,7 @@ COW_LISTS=(
   "tmnt"
   "tv"
   "vg"
+  "zelda"
   #make favorites list more likely to appear
   "favorite"
   "favorite"
@@ -45,7 +46,6 @@ COW_LISTS=(
   "favorite"
   "favorite"
   "favorite"
-  # "zelda"
 )
 
 NUM_LISTS=${#COW_LISTS[@]}
