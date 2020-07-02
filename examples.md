@@ -4430,6 +4430,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/twoface.png" height="200" />
 
 
+## tyler.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/tyler.png" height="200" />
+
+
 ## tyrion.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/tyrion.png" height="200" />
 
