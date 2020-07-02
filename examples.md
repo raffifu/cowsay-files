@@ -1119,6 +1119,10 @@ M###################@%=           =+%
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/cyclops2.png" height="200" />
 
 
+## daenerys.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/daenerys.png" height="200" />
+
+
 ## daffy-duck.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/daffy-duck.png" height="200" />
 
@@ -1176,10 +1180,6 @@ Modified from howard1@vax.oxford.ac.uk
          C__O__O__O__D
 snd     [_____________]
 ```
-
-
-## danerys.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/danerys.png" height="200" />
 
 
 ## dante.cow
@@ -1461,6 +1461,10 @@ snd     [_____________]
 ```
 
 
+## fenix.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/fenix.png" height="200" />
+
+
 ## fire.cow
 ```
  ______ 
@@ -1552,6 +1556,14 @@ $@#MX %+;-                           .
 
 ## freeman2.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman2.png" height="200" />
+
+
+## freeman3.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman3.png" height="200" />
+
+
+## freeman4.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/freeman4.png" height="200" />
 
 
 ## fry-money.cow
@@ -2244,6 +2256,10 @@ jgs
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/kyle.png" height="200" />
 
 
+## kylo.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kylo.png" height="200" />
+
+
 ## lahey.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/lahey.png" height="200" />
 
@@ -2873,10 +2889,6 @@ C{ ( o o )}
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/necromorph.png" height="200" />
 
 
-## ned-stark.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ned-stark.png" height="200" />
-
-
 ## nemo.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/nemo.png" height="200" />
 
@@ -3464,6 +3476,10 @@ o        o         o      o     +
 
 ## resetti.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/resetti.png" height="200" />
+
+
+## rey.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/rey.png" height="200" />
 
 
 ## rick-and-morty-running.cow
@@ -4074,6 +4090,10 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/super-mario-world.png" height="200" />
 
 
+## superbad.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superbad.png" height="200" />
+
+
 ## superman-batman.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman-batman.png" height="200" />
 
@@ -4088,6 +4108,10 @@ LOL===__        \
 
 ## superman.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman.png" height="200" />
+
+
+## superman2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/superman2.png" height="200" />
 
 
 ## sylvester.cow
@@ -4420,6 +4444,10 @@ LOL===__        \
 
 ## vader.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/vader.png" height="200" />
+
+
+## vader2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/vader2.png" height="200" />
 
 
 ## varys.cow
@@ -5018,6 +5046,10 @@ LOL===__        \
 
 ## mr-t.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/mr-t-tc.png" height="200" />
+
+
+## ned-stark.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ned-stark.png" height="200" />
 
 
 ## newman.cow

@@ -136,6 +136,15 @@ cowtest() {
   clear && fortune | cowsay -f $COWS_DIR/$COWNAME
 }
 
+cowlist() {
+  atom ${COWSAY_FILES}/lists/$1.cows
+}
+
+cowedit() {
+  atom ${COWS_DIR}/$1.cow
+}
+alias editcow="cowedit"
+
 palette(){
   for fgbg in 38 48 ; do # Foreground / Background
     for color in {0..255} ; do # Colors
