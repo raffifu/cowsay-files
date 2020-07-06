@@ -23,6 +23,7 @@ COW_LISTS=(
   "hero"
   "homestar"
   "koth"
+  "looneytunes"
   "metalgear"
   "peanuts"
   "pokemon"
@@ -37,15 +38,17 @@ COW_LISTS=(
   "tv"
   "vg"
   "zelda"
-  #make favorites list more likely to appear
-  "favorite"
-  "favorite"
-  "favorite"
-  "favorite"
-  "favorite"
-  "favorite"
-  "favorite"
-  "favorite"
+  #make new cows list more likely to appear
+  "new"
+  "new"
+  "new"
+  "new"
+  "new"
+  "new"
+  "new"
+  "new"
+  "new"
+  "new"
 )
 
 NUM_LISTS=${#COW_LISTS[@]}

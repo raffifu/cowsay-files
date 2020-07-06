@@ -1,14 +1,5 @@
-EXAMPLES=(
-"ezio" "ezio2" "master-chief" "rick-and-morty-split" "donatello" "tobias" "bojack" "peanuts" "rambo" "dave" "lahey"
-"pickle-rick" "rick-and-morty-running"
-"fsm-creation" "bane"
-"forrest-gump" "jayhawk"
-"stormtrooper2" "vader" "moon2" "snoopy-woodstock"
-"chester" "garfield" "calvin-and-hobbes"
-)
-
 CONVERTER_DIR=$(dirname "$0")
-EXAMPLES=($(cat "${CONVERTER_DIR}/../lists/favorite.cows"))
+EXAMPLES=($(cat "${CONVERTER_DIR}/../lists/new.cows"))
 
 SCRIPT_DIR=$(dirname "$0")
 

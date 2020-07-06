@@ -1,76 +1,72 @@
 # Fox McCloud (Star Fox, Super Smash Bros)
-# by BerserkerOx - https://www.deviantart.com/berserkerox/art/Super-Smash-Bros-Ultimate-Sprite-760019333
+# by Abysswolf - https://ahruon.tumblr.com/post/126102755350/so-apparently-our-cardgallery-site-has-gone-down
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color
 $t = "$thoughts ";
 $a = "\e[48;5;130m  ";
 $b = "\e[48;5;173m  ";
-$c = "\e[48;5;222m  ";
-$d = "\e[48;5;239m  ";
-$e = "\e[48;5;230m  ";
-$f = "\e[48;5;195m  ";
-$g = "\e[48;5;109m  ";
-$h = "\e[48;5;236m  ";
-$i = "\e[48;5;28m  ";
-$j = "\e[48;5;34m  ";
-$k = "\e[48;5;88m  ";
-$l = "\e[48;5;167m  ";
-$m = "\e[48;5;210m  ";
-$n = "\e[48;5;31m  ";
-$o = "\e[48;5;45m  ";
-$p = "\e[48;5;22m  ";
+$c = "\e[48;5;215m  ";
+$d = "\e[48;5;216m  ";
+$e = "\e[48;5;222m  ";
+$f = "\e[48;5;239m  ";
+$g = "\e[48;5;244m  ";
+$h = "\e[48;5;230m  ";
+$i = "\e[48;5;255m  ";
+$j = "\e[48;5;250m  ";
+$k = "\e[48;5;235m  ";
+$l = "\e[48;5;97m  ";
+$m = "\e[48;5;61m  ";
+$n = "\e[48;5;231m  ";
+$o = "\e[48;5;88m  ";
+$p = "\e[48;5;167m  ";
+$q = "\e[48;5;210m  ";
+$r = "\e[48;5;58m  ";
+$s = "\e[48;5;101m  ";
 
 $the_cow = <<EOC
-            $t
-              $t                              $a$b$c$b$x
-                $t                        $d$a$b$a$b$c$x
-                  $t                  $d$a  $b$a$c$e$b$f$x
-                    $t              $d$a$b  $a$c$e  $b$g$f$x
-                      $t          $d$a$b    $a$b$c$e$b$d$g$x
-                                $d$g$b    $c$b$a$b$e$b$e$d$x
-                              $d$g$a$b  $c              $e$x
-                              $d  $f$g$b  $c              $e$x
-                            $d$g$f    $g  $b  $c  $e  $c  $e$x
-                            $d$g$f        $g  $b$c$a$e  $c$e$x
-                            $d$g$f            $g$b  $a$e$b$c$x
-                              $d  $g  $f      $d$b$a$f$a$e$x
-                            $a$b  $a$d  $g    $h$d$i$j$h$b$x
-                              $a$b$c    $b$d  $b$c$d$i$j$e$c$x
-            $c  $b$c$a$x  $g$f$g$a  $b  $c        $b$c$e      $h$x
-          $c$a$c$a$b$a$g  $f$g$d$k$l$a$b    $c  $b$e          $a$x
-        $c$b$a$h  $g  $c$g$f$g$k$l$m$l$a  $b    $c$e  $h  $c$b$x
-        $b  $h    $a$c$b$g$f$g$k$l$m  $l$k$a      $c    $b$x
-      $d$h          $a$g$f$g$f$d$k$l$k  $m$l$k$n$o$h$g$f$g  $x
-      $d$h          $f$g$f$g$f$g$k$m    $l$k$n$o$d$g$f$g$f  $g$x
-      $d$h        $f$g    $d$o$f$h$l$m$l  $k$h$d$g$f$g$f    $k$l$x
-      $d$g$h    $g    $d$h$d$o$f$h$m  $l$k$h$g  $f  $g$f    $k$l$x
-        $d$g      $d$h$b  $d$n$o$h$l    $k$d$g$f$o  $g  $f    $k$l$x
-          $d    $h$a$b    $d$g$o$d$k$l$k$h$g$f$o  $n$d$g  $f    $k  $x
-                  $a$b    $d$f$n$d$p$k$h  $g$f$o$n  $g$d$g    $f    $x
-                  $a$b    $d$f$g$d$i  $p$d$g$f$n  $g$d$x$d$g$f      $g$x
-                  $a$b    $d$o$f$d$i  $p$d$g$f    $g$d$x  $f$d  $g$f  $x
-                  $a$b    $h$n$f$d$p  $h$d$g$f  $o$n$d$x$d$g$h  $d$g$f$x
-                  $a$b      $h$g$h  $b$c$h$g    $o$n$d$h    $a$b$h$g$d$x
-                    $a$b      $h  $b$a  $h  $d      $b$a$l$h$a  $b$d$x
-                    $a$b  $d  $h$a$c$b$h    $p    $c  $h$k$l$h$a$h$d$x
-                      $a$d$g$h$a$h$p            $i$c$b  $a$k  $h$d$x
-                      $d$g$h$a$h$p$i$p        $i    $b$c$h$k$h  $x
-                    $d$g$h$p  $i      $p$h$p$i        $p$c$h  $x
-                    $d$h$p$i          $p$h$p$i        $p  $h$x
-                      $h$i        $p    $h  $p$i    $p    $h$x
-                    $h$p$i      $p    $h$x$h$p            $h$x
-                    $h$p$i    $p    $h$x    $h$p        $h$d$x
-                    $h$p          $h$x        $h        $g$f$g$x
-                      $h$p    $h  $d$x          $d$g$d  $f    $x
-                      $d$h    $d$f$g$x            $d$g$f$g$f  $g$x
-                      $d$g$d$g$f  $g$x              $d$g$f$g  $d$x
-                        $d$g  $f  $g$x                $d$g$f  $g$x
-                        $d$g      $f$g$x                $d$f    $g$x
-                          $d$g  $f  $g$x                $d$g$f    $x
-                          $d  $g$f    $x              $d$g$d$g$f  $d$x
-                          $d  $g  $f$g$d$x            $d    $g$f$g$d$x
-                      $k$l$k$g$f  $g$d  $x          $k$l$m  $g  $d$x
-                    $k$l    $k$g  $d  $x          $k$l    $m  $d$x
-                    $k          $d$x              $k          $x
+              $t
+                $t                $a  $x                    $a  $x
+                  $t            $a$b  $a$x                $a$b$a$x
+                    $t          $b$c$a$d$a$x            $a$d$b$a$x
+                      $t      $a$c$e$b$a$d$a$f$g    $f$a$d$b  $a$x
+                              $a$e$h$c$b$d$b$f$i$j$i  $f$b    $a$x
+                              $b$h  $c$e$b$d$a$j$g$f    $k$b$a$x
+                              $b$e$h$e$h$b$d$a$k$g$f    $k$a  $x
+                              $a$c    $e$b$a$b  $f$k    $b$a  $x
+                              $a$k  $b$c$a$b  $d$b$e    $c$b$a$x                                              $f$x
+                              $k$f  $k$b$a$b$e$c$d$b$e$h  $c$a$b$a$x                $k          $x    $k      $f  $x
+                              $k$f$i$f$k$d$b$c$e$h$e$b$c$e$d$b$h$a$x                $k$f$k$g    $f$k  $f$g$f$g$j$f$x
+                              $f  $i  $f$b$d$a    $h  $c$b  $h$b$x                  $k$f$k$f    $g$j$i$j$f$k    $x
+                              $f$g$f$i  $f$b$a$l  $a$e  $c$a$m$a$x                  $k          $f$m$f      $g  $f$x
+                              $f$j$g  $i  $f$b$n  $m$a$b$h$e$a  $x                  $k      $f$g  $f$g$j$i    $j$f$x
+                          $f  $k$f$g$j$f$k$f$b  $c  $e$h    $e$a$k$x              $f$g    $j$k        $f$g    $f$k$x
+                        $f$j$g$k  $f$g$k$f$k$a$c  $e      $h  $f  $k$f$g  $f    $g$j$i  $g$f  $j$i$f$k            $x
+                      $f$g$i  $f$g$k$g$k$f$g$f$k      $a$b$c  $k    $g$i$a  $f$j$f$j$f$i$f          $k$x
+                  $a$b$a$f$g$i$g$f$i$k    $f$i$g$k$f$k$c  $a  $f$g$f$i$a$b$d$f$g$f      $i    $f$k  $x
+                $a$d$c$a  $f$g$j$f$i  $g$f$j$k      $a      $f$g  $f$g$a$c$d$b$f$g$k$g$f  $g  $f$x
+                $a$b$c$b$a$f  $g$f$g$j$g$f  $i$o$a    $p$o  $g$f$g$f$g$a$b  $a  $f$k$g$f$j$i$g$f$x
+                $a$f  $g  $k  $f    $g$f$g  $f$g$o$p$q  $p$o$f        $a  $x      $k$g$j$f    $x
+                $f$g  $i  $g$f$k$x$f    $g  $j$f$o$p    $o$g$f  $x                $k        $x
+              $f$j$f$i$j$i  $g$k$x  $f    $g  $i$f$o    $f$j$f$x
+              $f  $j$i  $g$i$f  $x  $f$g  $j$i  $f$k$r$k$f$i$f$x
+                $f$i$g$i$j$f$g$f$x    $f$g$i  $j$f$k      $f$g$f$x
+              $a$f$g$j$g$f$g  $f$x    $f  $g  $f$b$j$b$j$k  $f  $x
+            $a  $b$f          $a        $k  $r$k      $s$r$k$x
+        $a$b  $d    $b$a    $b    $a  $k$s$r  $s$r$s$r$s  $r$k$x
+      $a$e  $d$e  $d$a$b$d  $b$a$x  $r$s$r  $k$r  $s$r$s$r  $s$r$x
+    $a$e$b$e  $h$d$b$d  $b$a  $x  $k$s  $r$k    $r    $k  $r$s  $r$x
+    $d$b$d$e$h$d  $e$b$a  $x    $f$r$s    $r$k          $r$s      $k$x
+  $b$a$b$e  $h$d$e$b$a$x        $f$k$s    $r  $k  $x$k  $r$s    $r$k$f$x
+  $a  $d$e$h  $e$b$a$x        $f$g$f$k$r  $k    $x    $k$r  $s  $k$f$j$f$x
+    $a$d$e$h$e$h$b$x          $f$j$f  $k      $x      $k  $r  $k$f$i  $f$x
+    $a$b$e$h$e$h$a$x        $k$f$j$g$f    $k$x          $k    $f$g$i$f    $x
+      $a$d$e$h  $a$x      $f$j$f$g$f$i$g$k$x              $k$f$j$g$f$g$f$j$k$x
+        $a$d$e$h$b$a$x    $k$f$g$f$k$f$k$x                    $f$k  $f$g$k  $x
+          $a$d$e  $b$a$x$f      $k    $x                        $k    $f    $k$x
+              $a$b$d  $k$f$j$g  $f$k  $x                          $k$f  $g  $f$k$x
+                      $f$j$g  $i$j$k$x                            $k$f$g  $i$j$f$k$x
+                      $f$g  $i  $g$k$x                            $k$f$j$g$i  $g$k$x
+                      $k$f$g$i$g$f$k$x                            $k$f$j$g$j$i$f$k$x
+                          $k      $x                                $k  $f    $k$x
 EOC

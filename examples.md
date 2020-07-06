@@ -1427,6 +1427,10 @@ snd     [_____________]
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/falco.png" height="200" />
 
 
+## falco2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/falco2.png" height="200" />
+
+
 ## farnsworth.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/farnsworth.png" height="200" />
 
@@ -2563,6 +2567,10 @@ C{ ( o o )}
 
 ## martian.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/martian.png" height="200" />
+
+
+## martian2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/martian2.png" height="200" />
 
 
 ## master-chief.cow
@@ -4010,6 +4018,10 @@ LOL===__        \
 
 ## starfox3.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/starfox3.png" height="200" />
+
+
+## starfox4.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/starfox4.png" height="200" />
 
 
 ## stewie.cow
