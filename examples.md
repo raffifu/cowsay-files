@@ -2035,6 +2035,14 @@ $@#MX %+;-                           .
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/jab.png" height="200" />
 
 
+## jack-sparrow.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jack-sparrow.png" height="200" />
+
+
+## jack-sparrow2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/jack-sparrow2.png" height="200" />
+
+
 ## jafar.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/jafar.png" height="200" />
 
