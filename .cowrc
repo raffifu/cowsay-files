@@ -24,6 +24,7 @@ COW_LISTS=(
   "homestar"
   "koth"
   "looneytunes"
+  "movie"
   "metalgear"
   "peanuts"
   "pokemon"
@@ -102,7 +103,7 @@ cowlistsay(){
 }
 
 alias cows="cd $COWS_DIR"
-alias numcows="echo ${#PIXEL_COWS[@]}"
+alias numcows="eval echo '\${\#cowlist_${COW_LIST}[@]}'"
 alias cowcount="numcows"
 alias cowrc="atom $COWRC"
 alias randomfortune="clear && fortune | cowlistsay"

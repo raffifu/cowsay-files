@@ -29,11 +29,11 @@ $v = "\e[48;5;217m  ";
 $the_cow = <<EOC
                 $t
                   $t                $a$b    $x
-                    $t            $a$c$d$b$e$f$x
-                      $t          $a$c  $b$c  $a$x
-                        $t      $g$c    $d$c  $g$x
-                                $g$c    $d$c    $x
-                              $c      $a$d  $a$d$c$x
+                    $t            $a$c$d$b$d$f$x
+                      $t          $a$c    $a$c$a$x
+                        $t      $g$c      $a$c$g$x
+                                $g$c        $a$c$x
+                              $c      $a$d  $e$d$c$x
                               $c    $a$c    $a$c$d$x
                             $c    $a$c  $g  $c$g$a$x
                             $c  $e$c$e$a$c  $b$c  $e$x
@@ -78,9 +78,4 @@ $the_cow = <<EOC
     $a$d$c              $g$e  $q$u$s$v$h$r$u$c      $g  $c        $x
     $a$g$c              $g$q    $c$u$s$v$h$r$u$c    $g  $c        $x
     $a$g$c            $q$g$q    $c  $u$s$v$h$r$u$c  $g  $c        $x
-  $g$a$g$c            $g  $q$e$q$c    $u$s$v$h$r$u$c$g    $c      $x
-  $g$a$g$c            $g  $q$e$q$c      $u$s$v$h$r$u$c$g  $c      $x
-  $g$a$g$c            $g$q  $e$q$c        $u$s$v$h$r$u$e$g$c        $x
-  $g$a$g$c            $g$q$e$g$c            $u$s$v$h$r$u$g$c        $x
-  $d$e$g$c            $g$q$e$g$c              $u$s$v$h$r$u$c        $x
 EOC

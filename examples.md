@@ -481,6 +481,10 @@ Modified ATAT from Row  (the Ascii-Wizard of Oz)
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/beetlejuice.png" height="200" />
 
 
+## beholster.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/beholster.png" height="200" />
+
+
 ## bender-md.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/bender-md.png" height="200" />
 
@@ -761,6 +765,18 @@ X################,      -$=X#######@:
 
 ## bulbasaur.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/bulbasaur.png" height="200" />
+
+
+## bullet-kin-error.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bullet-kin-error.png" height="200" />
+
+
+## bullet-kin.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bullet-kin.png" height="200" />
+
+
+## bullet-king.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/bullet-king.png" height="200" />
 
 
 ## buzz-lightyear.cow
@@ -1793,6 +1809,10 @@ $@#MX %+;-                           .
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/good-vs-evil.png" height="200" />
 
 
+## gorgun.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/gorgun.png" height="200" />
+
+
 ## gray-fox.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/gray-fox.png" height="200" />
 
@@ -2551,6 +2571,10 @@ C{ ( o o )}
       \___
       ----´
 ```
+
+
+## marine.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/marine.png" height="200" />
 
 
 ## mario.cow

@@ -64,14 +64,4 @@ $the_cow = <<EOC
           $a$p    $c              $p$a$c  $m$r$j$r  $c      $a$p    $c  $m  $a  $x  $a$m    $c$a$c    $p  $a$x
         $a$p      $c      $m  $a$c$p$a$c  $m$r      $c      $a$p    $c  $m$a  $x    $a  $m  $a  $c    $p    $a$x
         $a$p      $c    $m  $a  $c$l$a$c  $m$r      $c      $a$p$l$c    $m$a$x        $a$m$a  $c      $p    $a$x
-      $a$p      $c      $m  $a  $c$p$a$c  $m$r      $c      $a$p  $c    $a  $x          $a  $m$c      $p      $a$x
-    $a$p        $c      $m  $a  $c$p$a$c$r$m$r      $c  $r$c$a$p  $c    $a$x            $a$m  $c      $p      $a$x
-    $a$p        $c    $m  $a    $c$p$a$c  $m$r      $c      $a$p  $c    $a$x            $a  $m$c    $p        $a$x
-  $a$p        $c      $m  $a$x$a$c$p$a$b                    $a$p    $c  $a$x              $a$m$c    $p        $a$x
-  $a$p        $c    $m  $a  $x$a$c$l$a$o                $j  $a$p$l$p$c  $a$x              $a$m$c    $p        $a$x
-$a$p        $c      $m  $a$x  $a$c$p$a$j                $o  $a$p    $c  $a  $x            $a$m$c  $p          $a$x
-$a$p        $c    $m    $a$x  $a$c$p$a$o            $j      $a$p    $c  $m$a$x            $a$m$c  $p          $a$x
-$p        $c      $m  $a  $x  $a$c$p$a$j          $o        $a$p    $c  $m$a  $x          $a$m$c  $p          $a$x
-$p        $c    $m    $a$x    $a$c$l$a$b                  $a  $p$l$p$c  $m  $a$x          $a$m$c$p            $a$x
-$p      $c      $m  $a  $x    $a$c$p$a  $c$m$d      $c    $a$p      $c    $m$a  $x        $a$m$c$p            $a$x
 EOC
