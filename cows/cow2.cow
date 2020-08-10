@@ -27,7 +27,7 @@ $s = "\e[48;5;239m  ";
 $the_cow = <<EOC
           $t
             $t      $a$b  $x      $c    $x
-              $t    $b$a$b  $x  $c      $x
+                    $b$a$b  $x  $c      $x
                 $a$b$d  $e  $b$c      $x
         $e$c$x$e$b    $f  $e    $c    $x
         $e$c$e$a$b$g$f  $h$b$e  $c$a  $e  $f      $x
@@ -75,5 +75,4 @@ $the_cow = <<EOC
                                           $b$g  $x                                              $c    $x                  $b  $g$x
                                         $e  $g  $x                                                                        $e    $x
                                       $e      $x                                                                        $e      $x
-
 EOC

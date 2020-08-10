@@ -26,11 +26,10 @@ $r = "\e[48;5;172m  ";
 $the_cow = <<EOC
                       $t
             $a$x        $t
-          $a  $b$x        $t
-          $a  $b$x          $t                    $c$x
-          $a  $b$x            $t            $d$x  $c$x  $d$x
-          $a  $b$x              $t        $d$b$x  $c$x  $b$d$x
-          $a  $b$x                $t    $d$b$d$x  $c$x  $d$b$d$x
+          $a  $b$x        $t                      $c$x
+          $a  $b$x          $t              $d$x  $c$x  $d$x
+          $a  $b$x            $t          $d$b$x  $c$x  $b$d$x
+          $a  $b$x              $t      $d$b$d$x  $c$x  $d$b$d$x
           $a  $b$x                    $d$b$d$x  $e$c$f$x  $d$b$d$x
           $a  $b$x                    $d$b$d$x$e  $f    $x$d$b$d$x
           $a  $b$x                    $d$b$d$g$d  $f$d  $g$d$b$d$x
@@ -75,6 +74,4 @@ $the_cow = <<EOC
                           $c  $j$b$d$b$c  $j  $x        $o  $m$o$b$d$b$m    $x
                           $c  $j$b$d$b$c  $j  $x        $o  $m$o$b$d$b$m    $x
                           $c  $j$a$b$c  $j  $i$x        $i$o  $m$o$b$a$m    $x
-                        $c  $j$b$a  $c  $j  $x            $o  $m$o$a  $b$m    $x
-                        $c  $j$b  $a$c  $j  $i$x        $i$o  $m$o$a$b  $m    $x
 EOC

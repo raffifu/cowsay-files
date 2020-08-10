@@ -22,11 +22,11 @@ $o = "\e[48;5;236m  ";
 $p = "\e[48;5;166m  ";
 
 $the_cow = <<EOC
-          $t
-            $t                  $a        $x
-              $t              $a            $x
-                $t            $a$b  $c$a$c$a$x
-                  $t          $a$b$c      $x
+                $t
+                  $t            $a        $x
+                    $t        $a            $x
+                      $t      $a$b  $c$a$c$a$x
+                        $t    $a$b$c      $x
                               $d  $e  $d$e  $x
                               $c$b$f  $b$f  $x
                               $c$b  $c$b$c$x
@@ -64,6 +64,5 @@ $the_cow = <<EOC
                           $l$p$m$x    $i$p  $k$x
                           $l$p$m$x    $i$p  $k$x
                           $l$p$m$x$i  $x$p  $k$x
-                          $p  $m$x      $p  $m$x
                           $p  $m$x      $p  $m$x
 EOC
