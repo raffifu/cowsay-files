@@ -930,6 +930,10 @@ M###################@%=           =+%
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/catwoman.png" height="200" />
 
 
+## charlie-brown-snoopy.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/charlie-brown-snoopy.png" height="200" />
+
+
 ## charlie-brown.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/charlie-brown.png" height="200" />
 
@@ -1125,6 +1129,10 @@ M###################@%=           =+%
       \  / /______\/ /
        \/___________/
 ```
+
+
+## curt.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/curt.png" height="200" />
 
 
 ## cyclops.cow
@@ -1383,6 +1391,10 @@ snd     [_____________]
 
 ## elmer-fudd.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/elmer-fudd.png" height="200" />
+
+
+## elmo-hell.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/elmo-hell.png" height="200" />
 
 
 ## elmo.cow
