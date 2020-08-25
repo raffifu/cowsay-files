@@ -1,5 +1,5 @@
-# gorgun
-# by <authorName>
+# Gorgun (Enter the Gungeon)
+# from Enter the Gungeon, scaled and edited by Charc0al
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color

@@ -1953,6 +1953,10 @@ $@#MX %+;-                           .
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/hitman.png" height="200" />
 
 
+## hitman2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/hitman2.png" height="200" />
+
+
 ## hl2-dog.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/hl2-dog.png" height="200" />
 

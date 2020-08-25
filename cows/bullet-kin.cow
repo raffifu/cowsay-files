@@ -1,5 +1,5 @@
-# bullet-kin
-# by <authorName>
+# Bullet Kin
+# sprite from Enter the Gungeon (PC/Console game)
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color

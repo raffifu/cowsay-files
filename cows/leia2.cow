@@ -1,5 +1,5 @@
-# leia2
-# by <authorName>
+# Princess Leia (Star Wars)
+# by @starwarspixel - https://twitter.com/starwarspixel
 # Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
 
 $x = "\e[49m  ";          #reset color
