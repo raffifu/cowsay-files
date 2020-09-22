@@ -2629,6 +2629,10 @@ C{ ( o o )}
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief2.png" height="200" />
 
 
+## master-chief3.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief3.png" height="200" />
+
+
 ## master-shake.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-shake.png" height="200" />
 
@@ -2961,6 +2965,10 @@ C{ ( o o )}
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/ness.png" height="200" />
 
 
+## nomad.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/nomad.png" height="200" />
+
+
 ## npc.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/npc.png" height="200" />
 
@@ -3026,6 +3034,10 @@ o        o         o      o     +
 
 ## one-punch-man.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/one-punch-man.png" height="200" />
+
+
+## ori.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/ori.png" height="200" />
 
 
 ## oscar-face.cow
@@ -5092,8 +5104,8 @@ LOL===__        \
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/marth-tc.png" height="200" />
 
 
-## master-chief.cow
-<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief-tc.png" height="200" />
+## master-chief2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/master-chief2-tc.png" height="200" />
 
 
 ## minion.cow
