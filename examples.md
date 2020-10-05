@@ -1254,6 +1254,10 @@ snd     [_____________]
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/deus-ex.png" height="200" />
 
 
+## devil.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/devil.png" height="200" />
+
+
 ## dilbert-boss.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/dilbert-boss.png" height="200" />
 
@@ -2967,6 +2971,10 @@ C{ ( o o )}
 
 ## nomad.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/nomad.png" height="200" />
+
+
+## nook.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/nook.png" height="200" />
 
 
 ## npc.cow
@@ -4856,6 +4864,10 @@ LOL===__        \
 
 ## zombie.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/zombie.png" height="200" />
+
+
+## zora.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/zora.png" height="200" />
 
 
 ## zorak.cow
