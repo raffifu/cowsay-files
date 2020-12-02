@@ -1,0 +1,54 @@
+# KK Slider (Animal Crossing)
+# by Abysswolf - https://ahruon.tumblr.com/post/126102755350/so-apparently-our-cardgallery-site-has-gone-down
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;247m  ";
+$b = "\e[48;5;255m  ";
+$c = "\e[48;5;188m  ";
+$d = "\e[48;5;241m  ";
+$e = "\e[48;5;237m  ";
+$f = "\e[48;5;236m  ";
+$g = "\e[48;5;88m  ";
+$h = "\e[48;5;124m  ";
+$i = "\e[48;5;167m  ";
+$j = "\e[48;5;137m  ";
+$k = "\e[48;5;180m  ";
+$l = "\e[48;5;94m  ";
+$m = "\e[48;5;222m  ";
+
+$the_cow = <<EOC
+          $t
+            $t                    $a  $x
+              $t                $a$b$c$d$x
+                    $a      $d  $c$b  $a$d$x
+        $d      $a$c  $b    $c$a  $c$b$c$d$x
+      $a$b$c$d$a$c$b      $c$d  $c$a$c  $a$d$x
+    $d$c$b$d$e$d$c$b      $d$e  $d$c$d$a  $d$x
+    $d$b$c$e    $d$c$b    $e  $d    $a$d  $x
+    $d$c$a$d        $b    $e$d$c    $a$d$x
+    $d$a  $d$a$c$b$a$b    $a$b$d$e  $d  $x
+      $d      $e$d$b        $d$e    $c$a$x
+          $d$c$e  $d$b$c    $b$c$d$e$c$a$x
+          $d$a$d$e$c$a      $c$b  $c  $d$x
+          $d  $a$b  $c$b$e$d$b  $c  $d$x
+        $a$c  $a$c$b  $e    $c$b  $a$x
+      $a$c$b  $c$a$c  $a$f$a  $c  $d$x
+      $a$c$b$c$b$d$a  $f$g$f  $a  $d$x
+      $d$a$b$a$b$d  $g$h$i  $g$f$d$x          $j$k  $l$x
+      $d$a$b$d$a$d$l  $d      $c$d  $l$j$k    $l      $x
+    $l$k$d$a$d$l  $k    $l$d$a$b$a$c$d$l$m      $j$l  $x
+    $l    $j$l  $k$l  $j$k$d$a$b    $a$l            $x
+    $l$j$l  $j$l$k$l  $k  $d$a$b    $c$d$x
+    $l$j$k    $l$m    $j  $l$d$a$c  $a$d$x
+    $l$m$j    $m$l    $m  $j$l  $d    $x
+      $l$m    $l  $a$c$l      $a$d$x
+        $l      $d$b  $c$d$c  $a$d$x
+              $d$c    $a$c$b$c$d$j  $m$l$x
+              $j$d      $b  $a$d$k$m$l  $x
+              $l    $d$b$c$b$d$l        $x
+              $l  $d$a$c$d$c$d$l      $x
+              $l  $d$a  $d$a$l      $x
+                  $d        $x
+EOC

@@ -2263,6 +2263,10 @@ jgs
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/kk-slider.png" height="200" />
 
 
+## kk-slider2.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/kk-slider2.png" height="200" />
+
+
 ## klungo.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/klungo.png" height="200" />
 
@@ -4732,6 +4736,10 @@ LOL===__        \
 
 ## wile-e-coyote2.cow
 <img src="https://charc0al.github.io/cowsay-files/converter/src_images/wile-e-coyote2.png" height="200" />
+
+
+## wilfred.cow
+<img src="https://charc0al.github.io/cowsay-files/converter/src_images/wilfred.png" height="200" />
 
 
 ## wizard.cow

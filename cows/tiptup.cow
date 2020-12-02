@@ -16,10 +16,8 @@ $h = "\e[48;5;220m  ";
 $the_cow = <<EOC
           $t
             $t
-              $t
-                $t
-                  $t      $a        $x
-                        $a$b        $a  $x
+              $t          $a        $x
+                $t      $a$b        $a  $x
                       $a$b$c$d    $c$d  $a$x
                     $a$c  $d      $c$d    $a$x
                     $a$c  $d  $e$a$c$e$a$d$a$x
