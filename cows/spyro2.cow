@@ -8,7 +8,6 @@ $a = "\e[48;5;136m  ";
 $b = "\e[48;5;179m  ";
 $c = "\e[48;5;229m  ";
 $d = "\e[48;5;222m  ";
-$e = "\e[48;5;95m  ";
 $f = "\e[48;5;235m  ";
 $g = "\e[48;5;88m  ";
 $h = "\e[48;5;54m  ";
@@ -30,8 +29,8 @@ $the_cow = <<EOC
                     $t        $b$c$d  $a    $b$c$d    $a$x      $b$d$b$x  $a  $c$d$a$x
                       $t      $b$c$d    $a  $c$d      $b$a$x  $b$d$b$a$x  $a$b  $a$x
                                 $b$c$d    $a$c$d      $b  $a$b$d$b$a  $x$a$b$c$d$b$x
-                                $b$c$d                $b    $d$b  $a$x  $a$b$c$d$a$x                              $b$e$x
-                                $a$b$c$d            $b    $d$b      $x$a$b  $a  $x                            $a$b$e$x
+                                $b$c$d                $b    $d$b  $a$x  $a$b$c$d$a$x                              $b$a$x
+                                $a$b$c$d            $b    $d$b      $x$a$b  $a  $x                            $a$b$a$x
                                   $b$c$d          $b                $a$b  $c$d$b$x                        $a$b  $a$x
                                   $a$b$c$d  $b$a  $f        $b  $a    $b$c$d$b$x                      $a$b$d$b$g$x
                                     $b$d$c$b$a$h  $i$j    $h$f$a$b  $a$c$d  $a$x                  $a$b$d$a  $g$x
